@@ -1,0 +1,926 @@
+site,date,pick,name,position,school,type,url,draft_weight
+Pro Football Focus - Palazzolo,2018-09-24,6,A.J. Brown,WR,Ole Miss,Expert,https://www.profootballfocus.com/news/draft-pff-2019-nfl-mock-draft-1,0.004672897196
+CBS Sports - Trapasso,2018-09-21,10,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-browns-get-baker-mayfield-another-receiver-ed-oliver-goes-no-1-overall/,0.004608294931
+Fansided - Becker,2018-09-24,7,A.J. Brown,WR,Ole Miss,Fan,https://saturdayblitz.com/2018/09/24/2019-nfl-mock-draft-digging-first-round-first-month/,0.004672897196
+Bleacher Report - Tansey,2018-09-24,11,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2797268-2019-nfl-mock-draft-1st-round-predictions-for-top-prospects-after-week-3,0.004672897196
+Fansided - Weiss,2018-09-05,7,A.J. Brown,WR,Ole Miss,Media,https://fansided.com/2018/09/05/2019-nfl-mock-draft-bills-nick-bosa-ohio-state/,0.004291845494
+NBC Sports Washington - Standig,2018-09-05,7,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/washington/redskins/2019-nfl-mock-draft-30-preseason-edition,0.004291845494
+NBC Sports Washington - Standig,2018-09-28,8,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/washington/redskins/2019-nfl-mock-draft-40-almost-quarter-season,0.004761904762
+Bleacher Report - Tansey,2018-10-01,13,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2798455-2019-nfl-mock-draft-post-week-4-1st-round-predictions-for-all-prospects,0.004830917874
+CBS Sports - Trapasso,2018-09-28,19,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-rams-vikings-add-more-serious-talent-jaguars-look-to-replace-bortles/,0.004761904762
+CBS Sports - Trapasso,2018-09-07,19,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-raiders-take-ed-oliver-with-pick-acquired-in-khalil-mack-trade/,0.004329004329
+CBS Sports - Wilson,2018-09-11,16,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-giants-finally-land-franchise-qb-patriots-find-gronks-replacement/,0.004405286344
+Draft Wire - Easterling,2018-09-28,22,A.J. Brown,WR,Ole Miss,Media,https://www.msn.com/en-us/sports/nfl/nfl-mock-draft-updated-early-projections-for-2019/ss-AAADhKG,0.004761904762
+The Big Lead - McIntyre,2018-09-26,13,A.J. Brown,WR,Ole Miss,Media,https://thebiglead.com/2018/09/26/2019-nfl-mock-draft-justin-herbert-nick-bosa-dwayne-haskins-ed-oliver/,0.004716981132
+The Draft Network - Crabbs,2018-08-20,31,A.J. Brown,WR,Ole Miss,Expert,https://thedraftnetwork.com/2018/08/20/crabbs-2019-nfl-mock-draft-1-0/,0.004016064257
+The Draft Network - Kelly,2018-09-10,10,A.J. Brown,WR,Ole Miss,Expert,https://thedraftnetwork.com/2018/09/10/kellys-2019-nfl-mock-draft-1-0/,0.004385964912
+The Draft Network - Ledyard,2018-09-24,23,A.J. Brown,WR,Ole Miss,Expert,https://thedraftnetwork.com/2018/09/24/ledyards-2019-nfl-mock-draft-2-0/,0.004672897196
+SB Nation - Kadar,2018-04-30,9,A.J. Brown,WR,Ole Miss,Expert,https://www.sbnation.com/nfl/2018/4/30/17298278/2019-nfl-mock-draft-christian-wilkins-dexter-lawrence-nick-bosa-ed-oliver-drew-lock-justin-herbert,0.002770083102
+Fansided - Weiss,2018-09-12,12,A.J. Brown,WR,Ole Miss,Media,https://fansided.com/2018/09/12/2019-nfl-mock-draft-justin-herbert-nick-bosa-giants/,0.004424778761
+Walter Football - Cherepinsky,2018-04-26,6,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0426.php,0.002739726027
+Walter Football - Cherepinsky,2018-05-02,7,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0502.php,0.00278551532
+Walter Football - Cherepinsky,2018-07-31,14,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0731.php,0.003717472119
+Walter Football - Cherepinsky,2018-09-06,15,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0906.php,0.004310344828
+Walter Football - Cherepinsky,2018-09-13,17,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0913.php,0.004444444444
+Walter Football - Cherepinsky,2018-09-20,12,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0920.php,0.004587155963
+Walter Football - Cherepinsky,2018-09-27,10,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0927.php,0.004739336493
+CBS Sports - Trapasso,2018-10-05,13,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-broncos-pick-justin-herbert-niners-take-big-receiver-at-no-2/,0.004926108374
+CBS Sports - Wilson,2018-10-02,17,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/news/2019-nfl-mock-draft-raiders-draft-derek-carrs-replacement-giants-pass-on-qb-to-bolster-o-line/,0.004854368932
+Bleacher Report - Miller,2018-10-02,27,A.J. Brown,WR,Ole Miss,Media,https://bleacherreport.com/articles/2798505-2019-nfl-mock-draft-matt-millers-latest-picks-at-quarter-mark-of-nfl-season,0.004854368932
+Fansided - Lambert,2018-09-13,13,A.J. Brown,WR,Ole Miss,Fan,https://nflmocks.com/2018/09/13/2019-nfl-mock-draft-buffalo-bills-seize-control-of-top-pick/,0.004444444444
+Fansided - Lambert,2018-08-22,9,A.J. Brown,WR,Ole Miss,Fan,https://nflmocks.com/2018/08/22/2019-nfl-mock-draft-injuries-already-changing-the-outlook/,0.004048582996
+Yardbarker - Trachtman,2018-07-09,8,A.J. Brown,WR,Ole Miss,Media,https://www.yardbarker.com/nfl/articles/2019_first_round_nfl_mock_draft/s1__26789063,0.003436426117
+CBS Sports - White,2018-04-29,2,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-dolphins-broncos-chargers-jaguars-land-new-quarterbacks/,0.002762430939
+Chat Sports - Downey,2018-05-02,7,A.J. Brown,WR,Ole Miss,Fan,https://www.chatsports.com/nfl/a/way-too-early-2019-nfl-mock-draft-38415,0.00278551532
+Chat Sports - Downey,2018-05-02,8,A.J. Brown,WR,Ole Miss,Fan,https://www.chatsports.com/nfl/a/way-too-early-2019-nfl-mock-draft-38415,0.00278551532
+Coach Bowles Stats,2018-08-12,16,A.J. Brown,WR,Ole Miss,Fan,http://coachbowlesstats.blogspot.com/2018/08/2019-nfl-mock-draft-8132018.html?m=1,0.003891050584
+Sporting News - Galko,2018-08-29,21,A.J. Brown,WR,Ole Miss,Expert,http://www.sportingnews.com/us/nfl/list/nfl-mock-draft-2019-order-projection-buccaneers-dolphins-steelers/vfmaefkagjbh1d3r0dv23w5iu/slide/1,0.004166666667
+Sports Gaming Rosters,2018-09-06,7,A.J. Brown,WR,Ole Miss,Fan,https://sportsgamingrosters.com/2018/09/06/2019-nfl-mock-draft-week-1/,0.004310344828
+NFL Draft Blitz - Khvatov,2018-09-22,19,A.J. Brown,WR,Ole Miss,Fan,http://nfldraftblitz.com/2018/09/22/2019-nfl-mock-draft-2/,0.00462962963
+Alpha Football,2018-09-28,17,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2018/09/2019-nfl-mock-draft-92818-with-player.html,0.004761904762
+The Sports Bank,2018-10-03,10,A.J. Brown,WR,Ole Miss,Fan,https://www.thesportsbank.net/nfl/new-england-patriots-2/2019-nfl-mock-draft/,0.00487804878
+Rotoworld - Nystrom,2018-04-30,14,A.J. Brown,WR,Ole Miss,Expert,http://www.rotoworld.com/articles/cfb/79622/344/mock-drafts,0.002770083102
+Bleacher Report - Miller,2018-09-03,8,A.J. Brown,WR,Ole Miss,Expert,https://bleacherreport.com/articles/2793395-2019-nfl-mock-draft-a-look-ahead-before-the-regular-season-kicks-off,0.004255319149
+Draft Wire - Easterling,2018-09-12,4,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/gallery/2019-nfl-mock-draft-updated-2-rounds-nick-bosa-ed-oliver-will-grier/,0.004424778761
+Draft Wire - Easterling,2018-09-25,22,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/2018/09/25/nfl-mock-draft-updated-week-4-nick-bosa-ed-oliver-justin-herbert-will-grier/,0.004694835681
+The Game Haus - DiTullio,2018-04-28,6,A.J. Brown,WR,Ole Miss,Fan,https://thegamehaus.com/2019-nfl-mock-draft-april-28/2018/04/28/,0.002754820937
+Alpha Football,2018-10-08,19,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2018/10/2019-nfl-mock-draft-10818.html,0.005
+Walter Football - Cherepinsky,2018-10-04,14,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive1004.php,0.004901960784
+CBS Sports - Wilson,2018-10-09,26,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-giants-finally-move-on-from-eli-manning-dolphins-find-ryan-tannehills-replacement/,0.005025125628
+CBS Sports - Trapasso,2018-10-12,12,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-giants-take-a-sleeper-as-first-qb-off-the-board-replace-eli-manning/,0.005102040816
+Draft Wire - Easterling,2018-10-09,36,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/gallery/2019-nfl-mock-draft-updated-2-round-projections-heading-into-week-6/,0.005025125628
+Bleacher Report - Janvrin,2018-04-28,6,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2772040-2019-nfl-mock-draft-predictions-for-next-years-top-prospects,0.002754820937
+San Diego Union-Tribune - Brown,2018-04-30,7,A.J. Brown,WR,Ole Miss,Media,http://www.sandiegouniontribune.com/sports/sd-sp-nfl-mock-draft-2019-way-too-early-projections-20180430-story.html,0.002770083102
+Niners Nation - Eisen,2018-05-04,12,A.J. Brown,WR,Ole Miss,Fan,https://www.ninersnation.com/2018/5/4/17317978/nfl-mock-draft-2019-49ers-pick-austin-bryant,0.002801120448
+SI - Kahler and Breer,2018-10-17,13,A.J. Brown,WR,Ole Miss,Media,https://www.si.com/nfl/2018/10/17/mock-draft-2019-justin-herbert-new-york-giants-qb,0.005235602094
+Fort Worth Star-Telegram - Dawson,2018-05-23,15,A.J. Brown,WR,Ole Miss,Media,https://www.star-telegram.com/sports/nfl/dallas-cowboys/article211678829.html,0.002958579882
+NFL Draft Scout - Brugler,2018-05-07,15,A.J. Brown,WR,Ole Miss,Media,https://footballmaven.io/nfldraftscout/mocks/brugler-2019-mock-draft-bosa-defensive-line-dominate-z0-dc0ainUG7pzJU_JupmQ/,0.002824858757
+CBS Sports - Brinson,2018-05-07,22,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-five-more-qbs-four-clemson-defensive-linemen-go-in-first-round/,0.002824858757
+NFL Draft Scout - Rang,2018-05-08,18,A.J. Brown,WR,Ole Miss,Expert,https://footballmaven.io/nfldraftscout/mocks/rang-2019-mock-draft-defenders-soar-to-the-top-8g3Mb97w-kWfuVO_VZnt2A/,0.00283286119
+Phin Phanatic - Levenson,2018-05-16,6,A.J. Brown,WR,Ole Miss,Fan,https://phinphanatic.com/2018/05/16/way-to-early-2019-mock-draft/,0.002898550725
+The Sportster - Miller,2018-08-10,18,A.J. Brown,WR,Ole Miss,Media,https://www.thesportster.com/football/nfl-mock-draft-preseason-edition/,0.003861003861
+Draft Wire - Infante,2018-08-20,9,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/2018/08/20/2019-nfl-mock-draft-preseason-nick-bosa-ed-oliver-rashan-gary/,0.004016064257
+NJ.com - Slater,2018-09-28,23,A.J. Brown,WR,Ole Miss,Media,https://www.nj.com/jets/index.ssf/2018/09/nfl_mock_draft_2019_early_projections_for_giants_e.html,0.004761904762
+Bleacher Report - McCrystal,2018-10-15,30,A.J. Brown,WR,Ole Miss,Media,https://bleacherreport.com/articles/2800846-2019-nfl-mock-draft-breaking-down-post-week-6-predictions,0.00518134715
+CBS Sports - Wilson,2018-10-16,23,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/news/2019-nfl-mock-draft-jaguars-move-on-from-blake-bortles-dolphins-do-the-same-with-ryan-tannehill/,0.005208333333
+CBS Sports - Trapasso,2018-10-19,12,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-bills-cant-pass-on-ed-oliver-raiders-run-to-the-podium-for-nick-bosa/,0.005291005291
+Pro Football Focus - Palazzolo,2018-10-29,15,A.J. Brown,WR,Ole Miss,Expert,https://www.profootballfocus.com/news/draft-pff-2019-nfl-mock-draft-2,0.005586592179
+Saturday Blitz - Mitchell,2018-10-29,12,A.J. Brown,WR,Ole Miss,Fan,https://saturdayblitz.com/2018/10/29/2019-nfl-mock-draft-projected-first-round-after-week-9/,0.005586592179
+CBS Sports - Trapasso,2018-10-26,5,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-no-quarterbacks-in-round-1-cowboys-add-more-speed-at-receiver/,0.005494505495
+NJ.com - Stypulkoski,2018-10-31,13,A.J. Brown,WR,Ole Miss,Media,https://www.nj.com/expo/sports/erry-2018/10/1febe04e4f6273/nfl-mock-draft-2019-will-giant.html,0.005649717514
+Walter Football - Cherepinsky,2018-10-11,7,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive1011.php,0.005076142132
+Walter Football - Cherepinsky,2018-10-18,13,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive1018.php,0.005263157895
+Walter Football - Cherepinsky,2018-10-25,10,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive1025.php,0.005464480874
+The Big Lead - McIntyre,2018-10-26,15,A.J. Brown,WR,Ole Miss,Media,https://thebiglead.com/2018/10/26/2019-nfl-mock-draft-justin-herbert-nick-bosa-devin-white/,0.005494505495
+The Big Lead - McIntyre,2018-04-30,5,A.J. Brown,WR,Ole Miss,Media,https://thebiglead.com/2018/04/30/2019-nfl-mock-draft-drew-lock-nick-bosa-ed-oliver/,0.002770083102
+The Draft Network - Sikkema,2018-10-29,30,A.J. Brown,WR,Ole Miss,Expert,https://thedraftnetwork.com/2018/10/29/sikkemas-2019-mock-draft-3-0/,0.005586592179
+CBS Sports - Wilson,2018-10-31,21,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/news/2019-nfl-mock-draft-jaguars-redskins-look-to-the-acc-for-blake-bortles-alex-smith-replacements/,0.005649717514
+Fansided - Weiss,2018-10-31,18,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2018/10/31/2019-nfl-mock-draft-justin-herbert-giants-rumors/,0.005649717514
+Turn on the Jets,2018-11-01,25,A.J. Brown,WR,Ole Miss,Fan,http://turnonthejets.com/2018/11/mid-season-2019-nfl-mock-draft/,0.005681818182
+Alpha Football,2018-10-26,19,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2018/10/2019-nfl-mock-draft-102619-with-player.html,0.005494505495
+Alpha Football,2018-10-22,19,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2018/10/2019-nfl-mock-draft-102218-with-player.html,0.005376344086
+Fansided - Lambert,2018-10-26,10,A.J. Brown,WR,Ole Miss,Fan,https://nflmocks.com/2018/10/26/2019-nfl-mock-draft-oakland-raiders-kick-off-trade-bonanza/,0.005494505495
+NFL Draft Geek - Johannes,2018-10-25,25,A.J. Brown,WR,Ole Miss,Fan,https://www.nfldraftgeek.com/2019-nfl-mock-draft/,0.005464480874
+The Draft Network - Kelly,2018-10-22,26,A.J. Brown,WR,Ole Miss,Expert,https://thedraftnetwork.com/2018/10/22/kellys-2019-mock-draft-2-0/,0.005376344086
+Fansided - Krehbiel,2018-10-19,20,A.J. Brown,WR,Ole Miss,Fan,https://stillcurtain.com/2018/10/19/2019-nfl-mock-draft-nick-bosa-takes-top-spot/,0.005291005291
+The Game Haus - DiTullio,2018-10-19,11,A.J. Brown,WR,Ole Miss,Fan,https://thegamehaus.com/2019-nfl-mock-draft-october-19/2018/10/19/,0.005291005291
+Draft Wire - Easterling,2018-10-31,18,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/gallery/2019-nfl-mock-draft-mid-season-2-round-projections/,0.005649717514
+CBS Sports - Trapasso,2018-11-02,15,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-buccaneers-replace-jameis-winston-with-a-turnover-averse-quarterback/,0.005714285714
+The Oregonian - Arnold,2018-11-02,9,A.J. Brown,WR,Ole Miss,Media,https://www.oregonlive.com/nfl/index.ssf/2018/11/nfl_mock_draft_2019_ducks_just.html,0.005714285714
+Sporting News - Iyer,2018-11-01,4,A.J. Brown,WR,Ole Miss,Media,http://www.sportingnews.com/us/nfl/news/nfl-mock-draft-2019-raiders-packers-giants-quarterback/q4jhnxjy5iwv111llraf3kn73,0.005681818182
+San Diego Union-Tribune - Brown,2018-11-01,5,A.J. Brown,WR,Ole Miss,Media,http://www.sandiegouniontribune.com/sports/sd-sp-nfl-mock-draft-2019-projections-20181031-story.html,0.005681818182
+NBC Sports Washington - Standig,2018-11-05,9,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/washington/redskins/2019-nfl-mock-draft-50-mid-season-edition,0.005813953488
+Sports Day - Brugler,2018-05-22,15,A.J. Brown,WR,Ole Miss,Media,https://sportsday.dallasnews.com/dallas-cowboys/cowboys/2018/05/29/2019-mock-draft-defensive-line-dominates-cowboys-look-offense,0.002949852507
+NFL Draft Blitz - Khvatov,2018-11-03,7,A.J. Brown,WR,Ole Miss,Fan,http://nfldraftblitz.com/2018/11/03/2019-nfl-mock-draft-3/,0.005747126437
+Draft Wire - Easterling,2018-10-27,17,A.J. Brown,WR,Ole Miss,Media,https://www.msn.com/en-us/sports/nfl/2019-nfl-mock-draft-updated-1st-round-projections-heading-into-week-8/ss-BBOYUB2,0.005524861878
+CBS Sports - Wilson,2018-10-23,15,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-raiders-replace-derek-carr-khalil-mack-and-amari-cooper-with-three-first-round-picks/,0.005405405405
+NFL Draft Diamonds - Joyce,2018-10-23,22,A.J. Brown,WR,Ole Miss,Fan,https://www.nfldraftdiamonds.com/2018/10/mock-draft-8/,0.005405405405
+NFL Draft Diamonds - Joyce,2018-10-05,10,A.J. Brown,WR,Ole Miss,Fan,https://www.nfldraftdiamonds.com/2018/10/2019-mock-draft/,0.004926108374
+Fansided - Becker,2018-10-22,29,A.J. Brown,WR,Ole Miss,Fan,https://saturdayblitz.com/2018/10/22/2019-nfl-mock-draft-defensive-players-called-early-often-in-first-round/,0.005376344086
+NFL Draft Zone - Nano,2018-10-15,18,A.J. Brown,WR,Ole Miss,Fan,http://nfl-draft-zone.com/2019-nfl-mock-draft-2-0/,0.00518134715
+NFL Draft Zone - Nano,2018-09-15,18,A.J. Brown,WR,Ole Miss,Fan,http://nfl-draft-zone.com/2019-nfl-mock-draft-1-0/,0.004484304933
+NFL Draft Zone - Nano,2018-05-01,11,A.J. Brown,WR,Ole Miss,Fan,http://nfl-draft-zone.com/way-early-2019-nfl-mock-draft/,0.002777777778
+NJ.com - Lombardo,2018-10-16,21,A.J. Brown,WR,Ole Miss,Media,https://www.nj.com/expo/sports/erry-2018/10/0e9cd5a5387409/2019-nfl-mock-draft-giants-tak.html,0.005208333333
+Turn on the Jets - Smarslok,2018-10-03,21,A.J. Brown,WR,Ole Miss,Fan,http://turnonthejets.com/2018/10/quarter-mark-2019-nfl-mock-draft/,0.00487804878
+Sporting News - Galko,2018-05-04,9,A.J. Brown,WR,Ole Miss,Expert,http://www.sportingnews.com/us/nfl/news/nfl-mock-draft-2019-picks-order-best-players-dolphins-bengals-jets-chiefs/3gmq63ucmu3b1oh9cvzogt1i6,0.002801120448
+Cover32 - Dunbar,2018-05-02,6,A.J. Brown,WR,Ole Miss,Media,https://sports.yahoo.com/way-too-early-2019-nfl-072128701.html,0.00278551532
+San Diego Union-Tribune - Brown,2018-11-07,11,A.J. Brown,WR,Ole Miss,Media,http://www.sandiegouniontribune.com/sports/sd-sp-nfl-mock-draft-2019-first-round-20181107-story.html,0.005882352941
+Fansided - Lambert,2018-11-07,16,A.J. Brown,WR,Ole Miss,Fan,https://nflmocks.com/2018/11/07/2019-nfl-mock-draft-the-race-for-justin-herbert-gets-serious/,0.005882352941
+Bleacher Report - Miller,2018-11-06,25,A.J. Brown,WR,Ole Miss,Expert,https://bleacherreport.com/articles/2804576-2019-nfl-mock-draft-matt-millers-latest-projections-midway-through-nfl-season,0.005847953216
+NFL Draft Geek - Frederickson,2018-04-30,7,A.J. Brown,WR,Ole Miss,Fan,https://www.nfldraftgeek.com/early-2019-nfl-mock-draft/,0.002770083102
+CBS Sports - Wilson,2018-11-06,30,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/news/2019-nfl-mock-draft-broncos-land-their-franchise-quarterback-quinnen-williams-rockets-up-draft-board/,0.005847953216
+Fansided - Lambert,2018-10-10,14,A.J. Brown,WR,Ole Miss,Fan,https://nflmocks.com/2018/10/10/2019-nfl-mock-draft-the-changing-of-the-guard/,0.005050505051
+Fansided - Lambert,2018-09-27,11,A.J. Brown,WR,Ole Miss,Fan,https://nflmocks.com/2018/09/27/2019-nfl-mock-draft-jon-gruden-does-the-unthinkable-again/,0.004739336493
+Walter Football - Cherepinsky,2018-11-01,9,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive1101.php,0.005681818182
+Fansided - Weiss,2018-11-08,15,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2018/11/08/2019-nfl-mock-draft-raiders-nick-bosa/,0.005917159763
+CBS Sports - Trapasso,2018-11-09,5,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-jaguars-surprise-by-picking-ed-oliver-bills-cant-pass-on-nkeal-harry/,0.005952380952
+Draft Wire - Easterling,2018-11-07,22,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/2018/11/07/nfl-mock-draft-updated-1st-round-projections-for-2019/,0.005882352941
+Fansided - Gurzi,2018-11-03,5,A.J. Brown,WR,Ole Miss,Fan,https://nflspinzone.com/2018/11/03/nfl-mock-draft-2019-week-9-raiders-browns-packers/,0.005747126437
+Yardbarker - Trachtman,2018-10-10,8,A.J. Brown,WR,Ole Miss,Media,https://www.yardbarker.com/nfl/articles/2019_nfl_mock_draft/s1__27480107,0.005050505051
+Fansided - Stockburger,2018-10-13,7,A.J. Brown,WR,Ole Miss,Fan,https://nflmocks.com/2018/10/13/2019-nfl-mock-draft-multiple-quarterbacks-top-32/,0.005128205128
+Fansided - Gurzi,2018-10-13,1,A.J. Brown,WR,Ole Miss,Fan,https://nflspinzone.com/2018/10/13/nfl-mock-draft-2019-week-6-giants-49ers-raiders/,0.005128205128
+Bleeding Green Nation - Natan,2018-11-06,20,A.J. Brown,WR,Ole Miss,Fan,https://www.bleedinggreennation.com/2018/11/6/18068946/nfl-mock-draft-2019-first-round-picks-philadelphia-eagles-cowboys-raiders-giants-quarterback-bills,0.005847953216
+Fansided - Thompson,2018-11-05,4,A.J. Brown,WR,Ole Miss,Fan,https://saturdayblitz.com/2018/11/05/2019-nfl-mock-draft-projected-first-round-week-10/,0.005813953488
+Fansided - Poling,2018-10-15,3,A.J. Brown,WR,Ole Miss,Fan,https://saturdayblitz.com/2018/10/15/2019-nfl-mock-draft-first-round-projections-following-week-7/,0.00518134715
+Fansided - Thompson,2018-10-08,25,A.J. Brown,WR,Ole Miss,Fan,https://saturdayblitz.com/2018/10/08/2019-nfl-mock-draft-projections-week-6/,0.005
+Fansided - Miller,2018-05-11,10,A.J. Brown,WR,Ole Miss,Fan,https://saturdayblitz.com/2018/05/11/nfl-mock-draft-2019-way-too-early-first-round/,0.002857142857
+Cleveland.com - Goul,2018-04-29,7,A.J. Brown,WR,Ole Miss,Media,https://www.cleveland.com/nfl-draft/index.ssf/2018/04/nfl_mock_draft_2019_32_prospec.html,0.002762430939
+Fansided - Krehbiel,2018-11-12,19,A.J. Brown,WR,Ole Miss,Fan,https://stillcurtain.com/2018/11/12/steelers-mock-draft-movement-in-the-quarterback-rankings/,0.006060606061
+Fansided - Krehbiel,2018-09-20,6,A.J. Brown,WR,Ole Miss,Fan,https://stillcurtain.com/2018/09/20/2019-nfl-mock-draft-nick-bosa-ed-oliver/,0.004587155963
+CBS Sports - Wilson,2018-11-13,30,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-redskins-find-alex-smiths-replacement-four-quarterbacks-go-in-round-1/,0.006097560976
+Alpha Football,2018-11-12,23,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2018/11/2019-nfl-mock-draft-111218-with-player.html,0.006060606061
+San Diego Union-Tribune - Brown,2018-11-14,14,A.J. Brown,WR,Ole Miss,Media,https://www.sandiegouniontribune.com/sports/sd-sp-nfl-mock-draft-2019-nick-bosa-20181114-story.html,0.006134969325
+Bleacher Report - Miller,2018-04-30,5,A.J. Brown,WR,Ole Miss,Expert,https://bleacherreport.com/articles/2773297-2019-nfl-mock-draft-matt-millers-way-too-early-predictions,0.002770083102
+ESPN - McShay,2018-05-03,11,A.J. Brown,WR,Ole Miss,Expert,https://www.reddit.com/r/nfl/comments/8gqrxf/mcshays_waytooearly_2019_nfl_mock_draft/,0.002793296089
+Draft Wire - Easterling,2018-04-30,11,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/2018/04/30/2019-nfl-mock-draft-way-too-early-1st-round-projections/,0.002770083102
+Fansided - Weiss,2018-10-17,13,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2018/10/17/2019-nfl-mock-draft-chargers-will-grier/,0.005235602094
+Fansided - Weiss,2018-11-14,11,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2018/11/14/2019-nfl-mock-draft-broncos-drew-lock/,0.006134969325
+Sports Gaming Rosters,2018-11-14,13,A.J. Brown,WR,Ole Miss,Fan,https://sportsgamingrosters.com/2018/11/14/2019-nfl-mock-draft-week-11/,0.006134969325
+Washington Post - Renner,2018-11-14,9,A.J. Brown,WR,Ole Miss,Expert,https://www.washingtonpost.com/sports/2018/11/14/very-early-nfl-mock-draft-picks-raiders-ers-giants-rest-top/?utm_term=.275c605003b0,0.006134969325
+CBS Sports - Trapasso,2018-11-16,6,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-giants-pick-strong-armed-drew-lock-jets-land-receiver-a-j-brown/,0.006211180124
+SILive.com - Slater,2018-11-16,16,A.J. Brown,WR,Ole Miss,Media,https://www.silive.com/giants/2018/11/latest-nfl-mock-draft-2019-ohio-states-nick-bosa-or-houstons-ed-oliver-no-1.html,0.006211180124
+The Game Haus - DiTullio,2018-11-16,24,A.J. Brown,WR,Ole Miss,Fan,https://thegamehaus.com/2019-nfl-mock-draft-november-16/2018/11/16/,0.006211180124
+AOSN - Lervold,2018-11-16,19,A.J. Brown,WR,Ole Miss,Fan,http://theaosn.com/2019-nfl-mock-draft-1-0/,0.006211180124
+Fansided - Poling,2018-11-12,11,A.J. Brown,WR,Ole Miss,Fan,https://saturdayblitz.com/2018/11/12/2019-nfl-mock-draft-projecting-the-first-round-following-week-11/,0.006060606061
+Draft Wire - Borquez,2018-11-16,25,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/2018/11/16/2019-nfl-mock-draft-early-3-round-projections/,0.006211180124
+Fansided - Gurzi,2018-11-17,4,A.J. Brown,WR,Ole Miss,Fan,https://nflspinzone.com/2018/11/17/nfl-mock-draft-2019-week-11-giants-raiders-browns/,0.00625
+Fansided - Bedinger,2018-11-17,25,A.J. Brown,WR,Ole Miss,Fan,https://nflmocks.com/2018/11/17/2019-nfl-mock-draft-jaguars-make-move-new-qb/,0.00625
+Metro Bet - Burke,2018-09-13,12,A.J. Brown,WR,Ole Miss,Media,https://www.metro.us/sports/bet/advice/2019-nfl-mock-draft-rumors-patriots-broncos-take-qb,0.004444444444
+Metro Bet - Burke,2018-11-11,23,A.J. Brown,WR,Ole Miss,Media,https://www.metro.us/sports/bet/advice/nj/nfl-mock-draft-qb-to-raiders-not-giants-redskins-take-wr,0.006024096386
+Bleacher Report - McCrystal,2018-10-22,30,A.J. Brown,WR,Ole Miss,Media,https://bleacherreport.com/articles/2802118-2019-nfl-mock-draft-1st-round-predictions-for-top-prospects-after-week-7,0.005376344086
+The Draft Network - Marino,2018-11-19,59,A.J. Brown,WR,Ole Miss,Expert,https://thedraftnetwork.com/2018/11/19/marinos-2019-mock-draft-3-0/,0.006329113924
+NJ.com - Dunleavy,2018-11-19,6,A.J. Brown,WR,Ole Miss,Media,https://www.nj.com/expo/sports/erry-2018/11/cdd59b2baa4697/latest-nfl-mock-draft-2019-jus.html,0.006329113924
+Draft Wire - Easterling,2018-11-21,24,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/2018/11/21/nfl-mock-draft-updated-2-round-projections-for-2019/,0.00641025641
+Walter Football - Cherepinsky,2018-11-15,20,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive1115.php,0.006172839506
+Fansided - Weiss,2018-11-21,18,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2018/11/21/nfl-mock-draft-nick-bosa-san-francisco-49ers/,0.00641025641
+CBS Sports - Trapasso,2018-11-23,4,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-chiefs-add-pass-rushing-defensive-tackle-rams-pick-play-making-cornerback/,0.006493506494
+San Diego Union-Tribune - Brown,2018-11-21,24,A.J. Brown,WR,Ole Miss,Media,https://www.sandiegouniontribune.com/sports/sd-sp-nfl-mock-draft-2019-first-round-projections-20181121-story.html,0.00641025641
+Fansided - Lambert,2018-11-24,21,A.J. Brown,WR,Ole Miss,Fan,https://nflmocks.com/2018/11/24/2019-nfl-mock-draft-jaguars-finally-escape-bortles-purgatory/,0.006535947712
+Alpha Football,2018-11-26,21,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2018/11/2019-nfl-mock-draft-112618-0-with.html,0.006622516556
+The Draft Network - Solak,2018-11-26,64,A.J. Brown,WR,Ole Miss,Expert,https://thedraftnetwork.com/2018/11/26/solak-mock-draft-3-0/,0.006622516556
+SI - Breer and Kahler,2018-11-27,21,A.J. Brown,WR,Ole Miss,Media,https://www.si.com/nfl/2018/11/27/nfl-mock-draft-2019-nick-bosa-49ers-quarterbacks-qbs-justin-herbert-dwayne-haskins-denver-tampa,0.006666666667
+Fansided - Krehbiel,2018-11-27,23,A.J. Brown,WR,Ole Miss,Fan,https://stillcurtain.com/2018/11/27/2019-nfl-draft-new-name-enters-steelers-conversation/,0.006666666667
+San Diego Union-Tribune - Brown,2018-11-28,22,A.J. Brown,WR,Ole Miss,Media,https://www.sandiegouniontribune.com/sports/sd-sp-nfl-mock-draft-2019-49ers-20181128-story.html,0.006711409396
+Draft Wire - Easterling,2018-11-28,21,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/gallery/2019-nfl-mock-draft-updated-3-round-projections/,0.006711409396
+Walter Football - Cherepinsky,2018-11-22,18,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive1122.php,0.006451612903
+Fansided - Weiss,2018-11-22,17,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2018/11/28/2019-nfl-mock-draft-jaguars-drew-lock/,0.006451612903
+Yardbarker - Trachtman,2018-11-30,9,A.J. Brown,WR,Ole Miss,Media,https://www.yardbarker.com/nfl/articles/2019_nfl_mock_draft/s1__27891512,0.006802721088
+Draft Wire - Easterling,2018-10-23,17,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/gallery/2019-nfl-mock-draft-updated-week-8-1st-round-projections/,0.005405405405
+NFL Draft Scout - Rang,2018-11-11,20,A.J. Brown,WR,Ole Miss,Expert,https://footballmaven.io/nfldraftscout/mocks/bosa-bama-and-dominant-d-line-class-headline-midseason-2019-nfl-mock-draft-69p2djV5kESI8Tf7lRNWIA/,0.006024096386
+Fansided - Gurzi,2018-12-01,10,A.J. Brown,WR,Ole Miss,Fan,https://nflspinzone.com/2018/12/01/nfl-mock-draft-2019-week-13-raiders-jets-packers/,0.006849315068
+Mock Draft HQ - Wash,2018-11-27,12,A.J. Brown,WR,Ole Miss,Fan,http://www.mockdrafthq.com/2018/10/latest-2019-mock-top-10-picks-at-the-bye-week.html,0.006666666667
+Sports Gaming Rosters,2018-11-30,16,A.J. Brown,WR,Ole Miss,Fan,https://sportsgamingrosters.com/2018/11/30/2019-nfl-mock-draft-week-13/,0.006802721088
+Dynasty Red Zone - Menendez,2018-11-24,6,A.J. Brown,WR,Ole Miss,Fan,https://dynastyredzone.com/way-too-early-2019-nfl-mock-draft/,0.006535947712
+Mock Draft HQ - Cowboysfan1993,2018-11-16,20,A.J. Brown,WR,Ole Miss,Fan,http://mydraft.mockdrafthq.com/draft/view/Cowboysfan1993/Mid_November_Draft,0.006211180124
+Mock Draft HQ - danjr,2018-11-17,25,A.J. Brown,WR,Ole Miss,Fan,http://mydraft.mockdrafthq.com/draft/view/danjr/Thanksgiving_Mock,0.00625
+Pro Football Focus - Renner,2018-12-03,30,A.J. Brown,WR,Ole Miss,Expert,https://www.profootballfocus.com/news/draft-bosa-goes-first-renners-first-2019-mock,0.006944444444
+Bleacher Report - Tansey,2018-12-03,21,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2808916-2019-nfl-mock-draft-post-week-13-breakdown?utm_source=dlvr.it&utm_medium=twitter,0.006944444444
+NJ.com - Lombardo,2018-12-03,8,A.J. Brown,WR,Ole Miss,Media,https://www.nj.com/expo/sports/erry-2018/12/a12ae68ae39927/nfl-mock-draft-2019-big-change.html,0.006944444444
+Alpha Football,2018-12-03,21,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2018/12/2019-nfl-mock-draft-11318-with-player.html,0.006944444444
+Fansided - Thompson,2018-12-03,19,A.J. Brown,WR,Ole Miss,Fan,https://saturdayblitz.com/2018/12/03/2019-nfl-mock-draft-projected-first-round-after-week-13-2/,0.006944444444
+The Game Haus - DiTullio,2018-11-29,16,A.J. Brown,WR,Ole Miss,Fan,https://thegamehaus.com/2019-nfl-mock-draft-november-29/2018/11/29/,0.006756756757
+Fansided - Weiss,2018-12-05,18,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2018/12/05/2019-nfl-mock-draft-jets-nkeal-harry/,0.007042253521
+Draft Wire - Easterling,2018-12-05,23,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/gallery/2019-nfl-mock-draft-updated-1st-round-projections/,0.007042253521
+Walter Football - Cherepinsky,2018-11-29,26,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive1129.php,0.006756756757
+Sporting News - Iyer,2018-12-06,7,A.J. Brown,WR,Ole Miss,Media,http://www.sportingnews.com/us/nfl/news/nfl-mock-draft-2019-redskins-giants-qbs-raiders-bama-defense/1x5vfu4g7y5531gct8wyqy53xh,0.007092198582
+NFL Draft Scout - Serritella,2018-12-06,6,A.J. Brown,WR,Ole Miss,Fan,https://footballmaven.io/nfldraftscout/mocks/serritella-2019-nfl-mock-draft-v1-0-9cbebOO0ZEuDW7-vEkCPEw/,0.007092198582
+CBS Sports - Trapasso,2018-12-06,4,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-patriots-take-te-to-groom-behind-rob-gronkowski-redskins-pick-dwayne-haskins/,0.007092198582
+Pacific Takes - Follman,2018-12-06,14,A.J. Brown,WR,Ole Miss,Fan,https://www.pacifictakes.com/2018/12/6/18129904/pacific-takes-pac-12-perspective-2019-nfl-mock-draft-justin-herbert-to-the-jacksonville-jaguars,0.007092198582
+NFL Big Board - Pack Daddy,2018-12-06,23,A.J. Brown,WR,Ole Miss,Fan,http://www.nflbigboard.com/archives/2672,0.007092198582
+NFL Big Board - NFLBigBoard,2018-10-18,15,A.J. Brown,WR,Ole Miss,Fan,http://www.nflbigboard.com/archives/2461,0.005263157895
+NFL Big Board - Davis,2018-10-24,17,A.J. Brown,WR,Ole Miss,Fan,http://www.nflbigboard.com/archives/2634,0.005434782609
+The Draft Network - Rogers,2018-12-07,23,A.J. Brown,WR,Ole Miss,Expert,https://thedraftnetwork.com/2018/12/07/rogers-mock-draft-1-0/,0.007142857143
+Dynasty Football Factory - ASchulte,2018-12-08,63,A.J. Brown,WR,Ole Miss,Fan,https://dynastyfootballfactory.com/third-quarter-2019-nfl-mock-draft/,0.007194244604
+Dynasty Football Factory - ASchulte,2018-11-03,50,A.J. Brown,WR,Ole Miss,Fan,https://dynastyfootballfactory.com/37459-2/,0.005747126437
+Dynasty Football Factory - Blizzard,2018-05-09,21,A.J. Brown,WR,Ole Miss,Fan,https://dynastyfootballfactory.com/too-early-2019-nfl-mock-draft/,0.002840909091
+Pro Sports Fandom - Beckmann,2018-12-09,12,A.J. Brown,WR,Ole Miss,Fan,https://prosportsfandom.com/its-back-tristan-beckmanns-2019-nfl-mock-draft-version-1-0/,0.007246376812
+Fansided - Bedinger,2018-12-10,13,A.J. Brown,WR,Ole Miss,Fan,https://nflmocks.com/2018/12/10/2019-nfl-mock-draft-update-wide-receivers-making-strides/,0.007299270073
+Sporting News - Iyer,2018-12-10,7,A.J. Brown,WR,Ole Miss,Fan,https://www.sportingnews.com/au/nfl/news/nfl-mock-draft-2019-redskins-giants-qbs-raiders-bama-defense/1l2lrdr0drise1cm2u29buyym3?src=rss,0.007299270073
+Bleacher Report - Buckley,2018-12-10,15,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2810002-2019-nfl-mock-draft-breaking-down-post-week-14-predictions,0.007299270073
+NJ.com - Kaye,2018-12-10,12,A.J. Brown,WR,Ole Miss,Media,https://www.nj.com/expo/sports/erry-2018/12/de536e52372606/2019-nfl-mock-draft-are-the-gi.html#incart_river_mobile_index,0.007299270073
+The Draft Network - Sikkema,2018-12-10,57,A.J. Brown,WR,Ole Miss,Expert,https://thedraftnetwork.com/2018/12/10/sikkemas-mock-draft-4-0/,0.007299270073
+NewYorkUpstate.com - Parrino,2018-12-11,18,A.J. Brown,WR,Ole Miss,Media,https://www.newyorkupstate.com/expo/sports/erry-2018/12/ddd913a3b4944/2019-nfl-mock-draft-will-bills.html,0.007352941176
+ESPN - McShay,2018-12-12,32,A.J. Brown,WR,Ole Miss,Expert,http://www.espn.com/nfl/draft2019/insider/story/_/id/25491074/2019-nfl-mock-draft-todd-mcshay-first-round-pick-rankings-draft-order-predictions,0.007407407407
+Fansided - Weiss,2018-12-12,13,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2018/12/12/2019-nfl-mock-draft-nick-bosa-raiders-rumors/,0.007407407407
+Armchair All Americans - Paul,2018-10-03,30,A.J. Brown,WR,Ole Miss,Fan,https://armchairallamericans.com/the-armchair-scout-2019-3-round-nfl-mock-draft-2-0/,0.00487804878
+Revenge of the Birds - jkhenson,2018-12-15,19,A.J. Brown,WR,Ole Miss,Fan,https://www.revengeofthebirds.com/2018/12/15/18141875/three-round-2019-nfl-mock-draft-nkeal-harry-arizona-cardinals-david-edwards-noah-fant-hunter-renfrow?src=rss,0.007575757576
+Walter Football - Cherepinsky,2018-12-06,26,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive1206.php,0.007092198582
+Fantasy Six Pack - Qurashi,2018-12-12,13,A.J. Brown,WR,Ole Miss,Fan,https://fantasysixpack.net/2019-nfl-mock-draft-top-15-picks/,0.007407407407
+CBS Sports - Trapasso,2018-12-14,5,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-three-quarterbacks-land-in-top-14-ravens-add-sleeper-pass-rusher/,0.007518796992
+Draft Wire - Borquez,2018-12-15,33,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/2018/12/15/2019-nfl-mock-draft-early-4-round-projections/,0.007575757576
+Armchair All Americans - Paul,2018-05-17,12,A.J. Brown,WR,Ole Miss,Fan,https://armchairallamericans.com/the-armchair-scout-way-too-early-2019-nfl-mock-draft/,0.002906976744
+Armchair All Americans - Paul,2018-12-13,35,A.J. Brown,WR,Ole Miss,Fan,https://armchairallamericans.com/the-armchair-scout-seven-round-2019-nfl-mock-draft-3-0/,0.007462686567
+Vavel - Martinez,2018-11-13,9,A.J. Brown,WR,Ole Miss,Fan,https://www.vavel.com/en-us/nfl/2018/11/06/954633-nfl-mock-draft.html,0.006097560976
+Vavel - Martinez,2018-11-25,9,A.J. Brown,WR,Ole Miss,Fan,https://www.vavel.com/en-us/nfl/2018/11/25/957504-nfl-mock-draft-20.html,0.006578947368
+Vavel - Martinez,2018-12-15,47,A.J. Brown,WR,Ole Miss,Fan,https://www.vavel.com/en-us/nfl/2018/12/10/959452-nfl-mock-draft-30.html,0.007575757576
+NJ.com - Stypulkoski,2018-12-17,30,A.J. Brown,WR,Ole Miss,Media,https://www.nj.com/expo/sports/erry-2018/12/c8d540750a7096/latest-nfl-mock-draft-2019-wil.html,0.007692307692
+Super Stan Sports - jessthebest315,2018-12-17,18,A.J. Brown,WR,Ole Miss,Fan,https://www.superstansports.com/2019-nfl-mock-draft-1-0/,0.007692307692
+NBC Sports Washington - Standig,2018-12-18,32,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/washington/redskins/2019-nfl-mock-draft-60-late-season-edition,0.007751937984
+Fansided - Gurzi,2018-12-18,24,A.J. Brown,WR,Ole Miss,Fan,https://nflspinzone.com/2018/12/18/nfl-mock-draft-2019-week-16-raiders-redskins-packers/,0.007751937984
+The Draft Network - Ledyard,2018-12-17,38,A.J. Brown,WR,Ole Miss,Expert,https://thedraftnetwork.com/2018/12/17/ledyards-mock-draft-4-0/,0.007692307692
+Alpha Football,2018-12-17,21,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2018/12/2019-nfl-mock-draft-121018-with-player.html,0.007692307692
+SI - Kahler,2018-12-19,23,A.J. Brown,WR,Ole Miss,Media,https://www.si.com/nfl/2018/12/19/nfl-mock-draft-2019-justin-herbert-nick-bosa-dwayne-haskins-daniel-jones,0.0078125
+Fansided - Weiss,2018-12-19,20,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2018/12/19/2019-nfl-mock-draft-jaguars-justin-herbert,0.0078125
+Draft Wire - Easterling,2018-12-19,34,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/gallery/2019-nfl-mock-draft-updated-3-rounds-nick-bosa-dwayne-haskins-ed-oliver-quinnen-williams-justin-herbert-will-grier/,0.0078125
+Fansided - Krehbiel,2018-12-18,30,A.J. Brown,WR,Ole Miss,Fan,https://stillcurtain.com/2018/12/18/steelers-2019-nfl-draft-post-college-regular-season/,0.007751937984
+Walter Football - Cherepinsky,2018-12-13,11,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive1213.php,0.007462686567
+Ralphie Report - Metivier,2018-12-20,16,A.J. Brown,WR,Ole Miss,Fan,https://www.ralphiereport.com/2018/12/20/18144208/2-round-nfl-mock-draft,0.007874015748
+CBS Sports - Trapasso,2018-12-21,24,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-giants-invest-in-protecting-eli-manning-jj-arcega-whiteside-lands-with-baker-mayfield/,0.007936507937
+FF Faceoff - Breisch,2018-12-19,26,A.J. Brown,WR,Ole Miss,Fan,http://fffaceoff.com/nfl-mock-draft-2019/,0.0078125
+Fansided - Lambert,2018-12-23,24,A.J. Brown,WR,Ole Miss,Fan,https://nflmocks.com/2018/12/23/2019-nfl-mock-draft-blockbuster-trade-creates-total-chaos/,0.008064516129
+Bleacher Report - Kenyon,2018-12-24,14,A.J. Brown,WR,Ole Miss,Media,https://bleacherreport.com/articles/2811760-2019-nfl-mock-draft-latest-predictions-for-first-round-prospects-after-week-16,0.008130081301
+The Draft Network - Crabbs,2018-12-24,41,A.J. Brown,WR,Ole Miss,Expert,https://thedraftnetwork.com/2018/12/24/crabbs-2019-mock-draft-4-0/,0.008130081301
+Fansided - Weiss,2018-12-26,17,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2018/12/26/2019-nfl-mock-draft-giants-justin-herbert-rumors/,0.00826446281
+Walter Football - Cherepinsky,2018-12-20,14,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive1220_1.php,0.007874015748
+Fansided - Mitchell,2018-12-28,26,A.J. Brown,WR,Ole Miss,Fan,https://saturdayblitz.com/2018/12/28/2019-nfl-mock-draft-updated-first-round-after-justin-herberts-decision/,0.008403361345
+CBS Sports - Trapasso,2018-12-28,4,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-jaguars-make-drew-lock-first-qb-selected-giants-luck-out-with-monster-pass-rush-talent/,0.008403361345
+Bleacher Report - Silverman,2018-12-30,24,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2813016-2019-nfl-mock-draft-predictions-for-top-prospects-landing-spots,0.008547008547
+Fansided - Gurzi,2018-12-30,25,A.J. Brown,WR,Ole Miss,Fan,https://nflspinzone.com/2018/12/30/nfl-mock-draft-2019-week-17-giants-raiders-steelers/,0.008547008547
+Pro Sports Fandom - Beckmann,2018-12-30,43,A.J. Brown,WR,Ole Miss,Fan,https://prosportsfandom.com/tristan-beckmanns-2019-nfl-mock-draft-version-2-0-three-rounds/,0.008547008547
+The Draft Network - Marino,2018-12-31,60,A.J. Brown,WR,Ole Miss,Expert,https://thedraftnetwork.com/2018/12/31/marinos-mock-draft-4-0/,0.008620689655
+Fansided - Verderame,2018-12-31,10,A.J. Brown,WR,Ole Miss,Media,https://fansided.com/2018/12/31/2019-nfl-mock-draft-cardinals-nick-bosa/?utm_campaign=fansided&utm_source=twitter.com&utm_medium=social&utm_content=2019%20NFL%20mock%20draft%3A%20Cardinals%20land%20Nick%20Bosa,0.008620689655
+Alpha Football,2018-12-31,23,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2018/12/2019-nfl-mock-draft-123118.html,0.008620689655
+NJ.com - Dunleavy,2019-01-01,10,A.J. Brown,WR,Ole Miss,Media,https://www.nj.com/expo/sports/g66l-2019/01/01b555b3f88210/nfl-mock-draft-2019-dwayne-has.html?utm_source=dlvr.it&utm_medium=twitter,0.008695652174
+Fantasy Six Pack - Qurashi,2018-12-31,24,A.J. Brown,WR,Ole Miss,Fan,https://fantasysixpack.net/2019-nfl-mock-draft-17-weeks-later/,0.008620689655
+San Diego Union-Tribune - Brown,2018-12-31,36,A.J. Brown,WR,Ole Miss,Media,https://www.sandiegouniontribune.com/sports/sd-sp-nfl-mock-draft-2019-two-rounds-20181231-story.html,0.008620689655
+Bleacher Report - Moton,2019-01-01,24,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2813344-2019-nfl-mock-draft-predicting-destination-for-sleeper-prospects-and-top-names,0.008695652174
+NBC Sports Washington - Standig,2019-01-01,24,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/washington/redskins/2019-nfl-mock-draft-outlining-first-round-options-redskins,0.008695652174
+Draft Wire - Easterling,2019-01-01,35,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/2019/01/01/2019-nfl-mock-draft-updated-4-rounds-new-year-dwayne-haskins-nick-bosa-quinnen-williams/,0.008695652174
+CBS Sports - White,2019-01-02,28,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-jaguars-trade-up-for-qb-raiders-take-two-receivers-in-round-1/,0.008771929825
+Walter Football - Cherepinsky,2018-12-27,13,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive1227.php,0.008333333333
+CFB Hour Glass - Aldridge,2019-01-03,10,A.J. Brown,WR,Ole Miss,Fan,https://www.cfbhourglass.com/home/2019/1/3/2019-nfl-mock-draft-january-edition,0.008849557522
+Cleveland.com - Bielik,2019-01-03,10,A.J. Brown,WR,Ole Miss,Media,https://www.cleveland.com/expo/sports/g66l-2019/01/7e47880ed95527/2019-nfl-mock-draft-10-will-th.html,0.008849557522
+Fansided - Weiss,2019-01-03,24,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2019/01/03/2019-nfl-mock-draft-giants-dwayne-haskins/,0.008849557522
+stprice53 - Price,2018-11-28,21,A.J. Brown,WR,Ole Miss,Fan,https://stprice53.wordpress.com/2018/11/28/updated-2019-nfl-mock-draft/,0.006711409396
+The Oregonian - Arnold,2019-01-03,19,A.J. Brown,WR,Ole Miss,Media,https://www.oregonlive.com/expo/sports/g66l-2019/01/52d09e637a4515/nfl-mock-draft-2019-20-nick-bo.html,0.008849557522
+CBS Sports - Trapasso,2019-01-04,12,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-raiders-snag-quinnen-williams-three-quarterbacks-go-in-the-top-11/,0.008928571429
+Sporting News - Iyer,2019-01-04,15,A.J. Brown,WR,Ole Miss,Media,http://www.sportingnews.com/us/nfl/news/nfl-mock-draft-2019-broncos-giants-dolphins-qb-cardinals-49ers/1u0voimnqw09f1s9f4vc8m0piq,0.008928571429
+Sports Gaming Rosters,2019-01-05,12,A.J. Brown,WR,Ole Miss,Fan,https://sportsgamingrosters.com/2019/01/05/2019-nfl-mock-draft-wild-card-weekend/,0.009009009009
+The Fantasy Fanalysts,2019-01-06,24,A.J. Brown,WR,Ole Miss,Fan,https://theffanalysts.com/2019/01/06/way-too-early-nfl-mock-draft/,0.009090909091
+NBC Sports Washington - Standig,2019-01-06,24,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/washington/redskins/2019-nfl-mock-draft-70-impact-bowl-season,0.009090909091
+The Queen's Guard - Jackson,2019-01-06,36,A.J. Brown,WR,Ole Miss,Fan,https://thequeensguard.net/2019/01/06/nfl-mock-draft-1-0/,0.009090909091
+NJ.com - Slater,2019-01-07,40,A.J. Brown,WR,Ole Miss,Media,https://www.nj.com/expo/sports/g66l-2019/01/792d3687ce4876/latest-nfl-mock-draft-2019-ohi.html,0.009174311927
+Fansided - Gurzi,2019-01-07,22,A.J. Brown,WR,Ole Miss,Fan,https://nflspinzone.com/2019/01/07/nfl-mock-draft-2019-two-rounds-bears-raiders-steelers/,0.009174311927
+CBS Sports - Wilson,2019-01-07,26,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/g00/nfl/news/2019-nfl-mock-draft-jaguars-trade-up-for-franchise-qb-raiders-take-dt-at-no-4-eagles-draft-rb/?i10c.ua=1&i10c.encReferrer=&i10c.dv=16,0.009174311927
+Alpha Football,2019-01-07,26,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2019/01/2019-nfl-mock-draft-1719-with-player.html,0.009174311927
+Champion Insiders - Miller,2019-01-07,15,A.J. Brown,WR,Ole Miss,Fan,https://championinsiders.com/nfl/nfl-mock-draft-post-wild-card-weekend-edition/,0.009174311927
+Bleacher Report - Goldberg,2019-01-07,24,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2813609-nfl-mock-draft-2019-post-cfp-championship-predictions-for-1st-round-prospects,0.009174311927
+Twitter - Hail Marys and TDs,2019-01-08,26,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/HailTds/status/1082537648395309056,0.009259259259
+Twitter - EDCFilms99,2019-01-04,27,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/EDCFilms99/status/1081413749200863237,0.008928571429
+Twitter - RiglerTim,2019-01-07,24,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/RiglerTim/status/1081311271130198016,0.009174311927
+Twitter - Cheesepuff430,2019-01-03,24,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/Cheesepuff430/status/1080814642182742017,0.008849557522
+Steel City Underground - Hammes,2019-01-08,61,A.J. Brown,WR,Ole Miss,Fan,https://www.steelcityunderground.com/2019/01/08/chase-hammes-2019-nfl-mock-draft-2-0/,0.009259259259
+Seahawks Draft Blog - Staton,2019-01-08,34,A.J. Brown,WR,Ole Miss,Fan,http://seahawksdraftblog.com/mock-draft-two-rounds-multiple-trades,0.009259259259
+Nose Bleed Sports - Wiercioch,2019-01-09,24,A.J. Brown,WR,Ole Miss,Fan,http://nosebleedsports.com/skyler-wiercioch-2019-nfl-mock-draft-1-0/,0.009345794393
+Nachmany Football,2019-01-09,23,A.J. Brown,WR,Ole Miss,Fan,https://nachmanyfootball.com/2019/01/09/2019-nfl-draft-nachmock-mock-draft-1-0/?preview=true,0.009345794393
+Fansided - Mitchell,2019-01-09,27,A.J. Brown,WR,Ole Miss,Fan,https://saturdayblitz.com/2019/01/09/2019-nfl-mock-draft-projected-first-round-after-national-championship/,0.009345794393
+Fansided - Weiss,2019-01-09,17,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2019/01/09/2019-nfl-mock-draft-josh-allen-49ers/,0.009345794393
+Yardbarker - Trachtman,2019-01-09,26,A.J. Brown,WR,Ole Miss,Media,https://www.yardbarker.com/nfl/articles/first_round_nfl_mock_draft/s1__28182398,0.009345794393
+Walter Football - Cherepinsky,2019-01-09,15,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0103.php,0.009345794393
+Draft Wire - Easterling,2019-01-10,35,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/gallery/2019-nfl-mock-draft-3-rounds-updated-kyler-murray-dwayne-haskins-nick-bosa-quinnen-williams/,0.009433962264
+San Diego Union-Tribune - Brown,2019-01-10,36,A.J. Brown,WR,Ole Miss,Media,https://www.sandiegouniontribune.com/sports/sd-sp-nfl-mock-draft-2019-two-round-projections-20190110-story.html,0.009433962264
+Daniel Satter Sports Talk,2019-01-10,15,A.J. Brown,WR,Ole Miss,Fan,https://danielsattersportstalk.com/2019/01/10/satters-nfl-mock-draft-first-edition-2/,0.009433962264
+Fansided - Camenker,2019-01-11,24,A.J. Brown,WR,Ole Miss,Fan,https://riggosrag.com/2019/01/11/nfl-mock-draft-1-0-3-qbs-go-in-the-top-10-redskins-land-defensive-stud/,0.009523809524
+CBS Sports - Trapasso,2019-01-11,8,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-patriots-invest-in-future-with-kyler-murray-jaguars-trade-up-for-dwayne-haskins/,0.009523809524
+Bleacher Report - Daniels,2019-01-11,19,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2815158-2019-nfl-mock-draft-updated-projections-for-1st-round-prospects,0.009523809524
+The Big Play - Draime,2019-01-11,21,A.J. Brown,WR,Ole Miss,Fan,https://www.bigplay.com/2019-nfl-mock-draft-1-0/,0.009523809524
+Bleacher Report - Bruton,2019-01-12,19,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2815092-2019-nfl-mock-draft-pre-divsional-round-projections-for-first-round-prospects,0.009615384615
+nflop - howxtox,2019-01-08,22,A.J. Brown,WR,Ole Miss,Fan,https://medium.com/@nflop/2019-nfl-mock-draft-pt-1-26cfdd4508c6,0.009259259259
+Chicago Now - Bamford,2019-01-09,82,A.J. Brown,WR,Ole Miss,Fan,http://www.chicagonow.com/daily-chicago-sports-tab/2019/01/2019-nfl-mock-draft-3-round-clemson-dynasty-edition/,0.009345794393
+Red Cup News - Mitch,2019-01-13,16,A.J. Brown,WR,Ole Miss,Fan,http://www.redcupnews.com/2019/01/13/7-round-2019-nfl-mock-draft/,0.009708737864
+NJ.com - Kaye,2019-01-14,29,A.J. Brown,WR,Ole Miss,Media,https://www.nj.com/expo/sports/g66l-2019/01/50651101705642/latest-nfl-mock-draft-2019-3-b.html,0.009803921569
+Fansided - Gurzi,2019-01-14,33,A.J. Brown,WR,Ole Miss,Fan,https://nflspinzone.com/2019/01/14/nfl-mock-draft-2019-2-rounds-playoffs-raiders-cowboys-eagles/,0.009803921569
+Bleacher Report - Finny,2019-01-14,24,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2815569-2019-nfl-mock-draft-predictions-for-top-prospects-entering-championship-week?utm_source=dlvr.it&utm_medium=twitter,0.009803921569
+Alpha Football,2019-01-14,26,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2019/01/2019-nfl-mock-draft-11419-with-player.html,0.009803921569
+The D-back Corner,2019-01-12,15,A.J. Brown,WR,Ole Miss,Fan,https://barrysandersisthebestever.blogspot.com/2019/01/nfl-mock-draftsemaine-12019.html,0.009615384615
+sportskeeda,2019-01-13,17,A.J. Brown,WR,Ole Miss,Fan,https://www.sportskeeda.com/nfl/nfl-mock-draft-1-0-and-playoff-predictions,0.009708737864
+Pro Football Focus - Palazzolo,2019-01-15,19,A.J. Brown,WR,Ole Miss,Expert,https://www.profootballfocus.com/news/draft-pff-2019-nfl-mock-draft-3,0.009900990099
+CBS Sports - Trapasso,2019-01-15,8,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-patriots-invest-in-qb-future-with-kyler-murray-jaguars-trade-up-for-dwayne-haskins/,0.009900990099
+Luke Strotman,2019-01-15,7,A.J. Brown,WR,Ole Miss,Fan,https://markstrotman.weebly.com/lukestrot2019nfldraftmock-660906.html,0.009900990099
+Twitter - FrankDaniele_,2019-01-16,17,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/FrankDaniele_/status/1085577280548757506,0.01
+Penn Live - Klinger,2019-01-16,21,A.J. Brown,WR,Ole Miss,Media,https://www.pennlive.com/steelers/index.ssf/2019/01/nfl_mock_draft_2019_steelers_eagles_ravens.html,0.01
+Sporting News - Iyer,2019-01-16,19,A.J. Brown,WR,Ole Miss,Media,http://www.sportingnews.com/us/nfl/news/nfl-mock-draft-2019-broncos-giants-dolphins-qb-cardinals-49ers/1u0voimnqw09f1s9f4vc8m0piq,0.01
+Fansided - Weiss,2019-01-16,19,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2019/01/16/2019-nfl-mock-draft-kyler-murray-redskins/,0.01
+ESPN - Kiper,2019-01-17,22,A.J. Brown,WR,Ole Miss,Expert,https://www.reddit.com/r/nfl/comments/agxyze/kiper_mel_kipers_2019_nfl_mock_draft_10/,0.0101010101
+Twitter - KawhiIenoard,2019-01-17,32,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/KawhiIenoard/status/1085973107318407169,0.0101010101
+Twitter - FourWitTheFive,2019-01-18,22,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/FourWitTheFive/status/1086280774473654272,0.01020408163
+Walter Football - Cherepinsky,2019-01-18,19,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0110.php,0.01020408163
+Fansided - Lambert,2019-01-18,24,A.J. Brown,WR,Ole Miss,Fan,https://nflmocks.com/2019/01/18/2019-nfl-mock-draft-jaguars-and-redskins-swing-for-the-fences/,0.01020408163
+Sports Gaming Rosters,2019-01-18,19,A.J. Brown,WR,Ole Miss,Fan,https://sportsgamingrosters.com/2019/01/16/2019-nfl-mock-draft-conference-championship-weekend/,0.01020408163
+NBC Sports Washington - Standig,2019-01-17,24,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/washington/redskins/2019-nfl-mock-draft-90-kyler-murray-declares-where-will-he-land,0.0101010101
+The Game Haus - DiTullio,2019-01-18,19,A.J. Brown,WR,Ole Miss,Fan,https://thegamehaus.com/2019-nfl-mock-draft-january-18/2019/01/18/,0.01020408163
+Bleacher Report - Roling,2019-01-18,19,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2816142-2019-nfl-mock-draft-full-order-and-1st-round-predictions-for-top-prospects?utm_source=dlvr.it&utm_medium=twitter,0.01020408163
+CBS Sports - Trapasso,2019-01-18,20,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-four-qbs-in-top-15-bills-make-hakeem-butler-first-wr-off-the-board/,0.01020408163
+Draft Wire - Easterling,2019-01-17,35,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/2019/01/17/2019-nfl-mock-draft-3-round-trades-kyler-murray-dwayne-haskins/,0.0101010101
+Seahawks Draft Blog - Staton,2019-01-18,26,A.J. Brown,WR,Ole Miss,Fan,http://seahawksdraftblog.com/updated-mock-draft-two-rounds-2,0.01020408163
+Johnny Sports Blog - Markle,2019-01-19,24,A.J. Brown,WR,Ole Miss,Fan,https://johnmarklesportsblog.blogspot.com/2019/01/johnny-sports-blog-2019-nfl-mock-draft_19.html,0.01030927835
+Sports Al Dente - Graff,2019-01-17,26,A.J. Brown,WR,Ole Miss,Fan,https://www.sportsaldente.com/talon-graffs-2019-nfl-mock-draft-1-0/,0.0101010101
+Bleacher Report - Bruton,2019-01-20,19,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2816257-2019-nfl-mock-draft-latest-prospect-predictions-before-afc-nfc-championships?utm_source=dlvr.it&utm_medium=twitter,0.01041666667
+Twitter - DerriusGUICE,2019-01-18,27,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/DerriusGUlCE/status/1086414140074274818,0.01020408163
+Pro Sports Fandom - Beckmann,2019-01-19,46,A.J. Brown,WR,Ole Miss,Fan,https://prosportsfandom.com/tristan-beckmanns-2019-nfl-mock-draft-3-0-four-rounds/,0.01030927835
+The Grueling Truth - Goodpaster,2019-01-20,19,A.J. Brown,WR,Ole Miss,Fan,https://thegruelingtruth.net/football/nfl/2019-nfl-mock-draft-2-0-1-19-19/,0.01041666667
+NJ.com - Lombardo,2019-01-21,22,A.J. Brown,WR,Ole Miss,Media,https://www.nj.com/expo/sports/g66l-2019/01/c6591c5e507128/latest-nfl-mock-draft-2019-wild-1st-round-with-4-trades-as-giants-get-ohio-states-dwayne-haskins-or-Oklahomas-kyler-murray-nick-bosa-or-josh-allen-no-1.html,0.01052631579
+The Fantasy Fanalysts,2019-01-20,26,A.J. Brown,WR,Ole Miss,Fan,https://theffanalysts.com/2019/01/20/nfl-mock-draft-2-0/,0.01041666667
+Mock Draft HQ - Wash,2019-01-20,22,A.J. Brown,WR,Ole Miss,Fan,http://www.mockdrafthq.com/2019/01/2019-nfl-mock-draft-championship-weekend-mock.html,0.01041666667
+NBC Sports Washington - Standig,2019-01-21,26,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/washington/redskins/2019-nfl-mock-draft-100-who-are-redskins-targeting-first,0.01052631579
+Twitter - PrimeKorver26,2019-01-21,24,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/PrimeKorver26/status/1087456326660304901,0.01052631579
+Alpha Football,2019-01-21,26,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2019/01/2019-nfl-mock-12119-with-trades-player.html,0.01052631579
+Sports Gaming Rosters,2019-01-23,19,A.J. Brown,WR,Ole Miss,Fan,https://sportsgamingrosters.com/2019/01/23/2019-nfl-mock-draft-super-bowl-edition/,0.01075268817
+Penn Live - Gallen,2019-01-23,22,A.J. Brown,WR,Ole Miss,Media,https://www.pennlive.com/expo/sports/g66l-2019/01/c30854e8fa1258/nfl-mock-draft-2019-eagles-steelers-address-defensive-needs-ravens-add-offensive-threat-patriots-draft-tom-bradys-successor.html,0.01075268817
+Fansided - Weiss,2019-01-23,22,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2019/01/23/2019-nfl-mock-draft-jaguars-kyler-murray/,0.01075268817
+Twitter - TheRickWebster,2019-01-23,22,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/TheRickWebster/status/1088171995643240449,0.01075268817
+Walter Football - Cherepinsky,2019-01-17,19,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0117.php,0.0101010101
+NBC Sports Washington - Standig,2019-01-23,26,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/washington/redskins/2019-nfl-mock-draft-110-full-two-round-mock,0.01075268817
+San Diego Union-Tribune - Brown,2019-01-24,34,A.J. Brown,WR,Ole Miss,Media,https://www.sandiegouniontribune.com/sports/sd-sp-nfl-mock-draft-2019-two-rounds-20190124-story.html,0.01086956522
+Pacific Takes - Follman,2019-01-24,15,A.J. Brown,WR,Ole Miss,Fan,https://www.pacifictakes.com/2019/1/24/18195260/pacific-takes-pac-12-perspective-2019-nfl-mock-draft-1-24-19-two-washington-huskies-go-in-first-roun,0.01086956522
+Bleacher Report - Tansey,2019-01-24,30,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2817361-nfl-mock-draft-2019-updated-order-and-predictions-for-1st-round-prospects,0.01086956522
+NewYorkUpstate.com - Parrino,2019-01-24,27,A.J. Brown,WR,Ole Miss,Media,https://www.newyorkupstate.com/expo/sports/g66l-2019/01/2b1cad04e2044/nfl-mock-draft-2019-2-rounds-bills-trade-down-go-big-on-offense.html,0.01086956522
+Football Fan Spot - Lourie,2019-01-25,22,A.J. Brown,WR,Ole Miss,Fan,https://footballfanspot.com/2019/01/25/2019-nfl-mock-draft/,0.01098901099
+CBS Sports - Trapasso,2019-01-25,26,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-josh-allen-goes-no-1-overall-to-cardinals-kyler-murray-to-dolphins/,0.01098901099
+Draft Wire - Easterling,2019-01-25,36,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/gallery/2019-nfl-mock-draft-trades-3-rounds-updated-dwayne-haskins-kyler-murray-nick-bosa-senior-bowl/,0.01098901099
+Metro Bet - Burke,2019-01-26,13,A.J. Brown,WR,Ole Miss,Fan,https://www.metro.us/sports/bet/advice/pa/jets-eagles-redskins-surprise-nfl-mock-draft-two-rounds,0.01111111111
+Mock Draft HQ - Wash,2019-01-26,22,A.J. Brown,WR,Ole Miss,Fan,http://www.mockdrafthq.com/2019/01/super-bowl-53-2019-nfl-mock-draft-with-trades.html?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost,0.01111111111
+Bleacher Report - Roling,2019-01-27,19,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2817755-nfl-draft-2019-1st-round-mock-draft-and-projections-for-top-prospects,0.01123595506
+Box Score Sports - Williams,2019-01-26,12,A.J. Brown,WR,Ole Miss,Fan,https://theboxscoresports.wordpress.com/2019/01/26/nfl-mock-draft-v1-1-picks-11-20/,0.01111111111
+JRanks,2019-01-27,40,A.J. Brown,WR,Ole Miss,Fan,http://jranks.com/7-round-2019-nfl-mock-draft-1-0-2/,0.01123595506
+Bleacher Report - Finny,2019-01-28,24,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2817970-2019-nfl-mock-draft-post-pro-bowl-projections-for-1st-round-prospects?utm_source=dlvr.it&utm_medium=twitter,0.01136363636
+NJ.com - Stypulkoski,2019-01-28,63,A.J. Brown,WR,Ole Miss,Media,https://www.nj.com/expo/sports/g66l-2019/01/cb94a809ec5601/latest-nfl-mock-draft-2019-2-major-trades-in-1st-round-Oklahomas-kyler-murray-1st-qb-picked-where-does-he-land-which-surprise-team-takes-qb.html,0.01136363636
+The Sports Corner - Engel,2019-01-28,32,A.J. Brown,WR,Ole Miss,Fan,https://zachengel1.blogspot.com/2019/01/2019-nfl-draft-mock-draft-20-post-bowl.html,0.01136363636
+Alpha Football,2019-01-28,44,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2019/01/2019-nfl-2-round-mock-draft-12819-with.html,0.01136363636
+NBC Sports Bay Area - Maiocco & Bair,2019-01-28,24,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/bayarea/49ers/2019-nfl-mock-draft-projected-first-round-picks-after-senior-bowl,0.01136363636
+Fansided - Gurzi,2019-01-29,24,A.J. Brown,WR,Ole Miss,Fan,https://nflspinzone.com/2019/01/29/nfl-mock-draft-2019-two-rounds-pre-super-bowl/,0.01149425287
+SI - Kahler,2019-01-29,22,A.J. Brown,WR,Ole Miss,Media,https://www.si.com/nfl/2019/01/29/nfl-mock-draft-2019-dwayne-haskins-daniel-jones-drew-lock,0.01149425287
+Draft Wire - Easterling,2019-01-29,35,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/2019/01/29/2019-nfl-mock-draft-7-rounds-dwayne-haskins-kyler-murray-nick-bosa-quinnen-williams/,0.01149425287
+The Big Play - Draime,2019-01-30,19,A.J. Brown,WR,Ole Miss,Fan,https://www.bigplay.com/2019-nfl-mock-draft-2-0/,0.01162790698
+Walter Football - Cherepinsky,2019-01-24,19,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0124.php,0.01086956522
+Twitter - NFLDraftGenie,2019-01-30,22,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/NFLDraftGenie/status/1090712089063129088,0.01162790698
+Fansided - Weiss,2019-01-30,30,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2019/01/30/2019-nfl-mock-draft-quinnen-williams-kyler-murray/?,0.01162790698
+NEO Sports Insiders - German,2019-01-30,24,A.J. Brown,WR,Ole Miss,Fan,http://www.neosportsinsiders.com/neo-sports-insiders-2019-mock-draft-1-0/,0.01162790698
+NEO Sports Insiders - Whelan,2019-01-30,26,A.J. Brown,WR,Ole Miss,Fan,http://www.neosportsinsiders.com/neo-sports-insiders-2019-mock-draft-1-0/,0.01162790698
+Fantasy Pros - Tagliere,2019-01-31,24,A.J. Brown,WR,Ole Miss,Fan,https://www.fantasypros.com/2019/01/mike-taglieres-nfl-mock-draft-2019-first-round-1-0/,0.01176470588
+NBC Sports Washington - Standig,2019-01-31,40,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/washington/redskins/2019-nfl-mock-draft-120-two-round-mock-following-senior-bowl,0.01176470588
+National Mock Drafts - Whoolery,2019-01-27,34,A.J. Brown,WR,Ole Miss,Fan,https://www.instagram.com/p/BtJivg-huQ7/,0.01123595506
+Twitter - NFL Warehouse,2019-01-31,22,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/NflWarehouse/status/1090840146608619521,0.01176470588
+Twitter - Sanders-Milligan,2019-01-30,21,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/SmallVolSanders/status/1090813416846049280,0.01162790698
+Lineups - Guilbault,2019-01-30,19,A.J. Brown,WR,Ole Miss,Fan,https://www.lineups.com/articles/nfl-2019-mock-draft-1st-round-analysis/,0.01162790698
+Sean the Mocker - Courtney,2019-01-31,27,A.J. Brown,WR,Ole Miss,Fan,https://seanthemocker.wordpress.com/2019/01/31/nfl-mock-draft-1-0/,0.01176470588
+Twitter - Chiarappa,2019-02-01,26,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/joeybod4/status/1091340062426648578,0.0119047619
+Twitter - EaglesTD11,2019-02-01,13,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/EaglesTD11/status/1091302189451149312,0.0119047619
+Twitter - Goose Island Drafts,2019-02-01,55,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/NFLDraft720/status/1091459044848689152,0.0119047619
+Fansided - Camenker,2019-02-03,26,A.J. Brown,WR,Ole Miss,Fan,https://riggosrag.com/2019/02/03/nfl-mock-draft-redskins-end-up-with-a-first-round-quarterback/,0.01219512195
+Bleacher Report - Bruton,2019-02-03,19,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2818950-nfl-draft-2019-latest-order-and-mock-draft-predictions-before-super-bowl-game,0.01219512195
+Draft Analyst - Pauline,2019-02-04,22,A.J. Brown,WR,Ole Miss,Expert,http://draftanalyst.com/two-round-mock-draft-february-4,0.01234567901
+NBC Sports Washington - Standig,2019-02-04,40,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/washington/redskins/2019-nfl-mock-draft-130-post-super-bowl-2-round-mock-draft,0.01234567901
+San Diego Union-Tribune - Brown,2019-02-04,34,A.J. Brown,WR,Ole Miss,Media,https://www.sandiegouniontribune.com/sports/sd-sp-nfl-mock-draft-2019-two-rounds-kyler-murray-20190130-story.html,0.01234567901
+Belly Up Sports - Voytko,2019-02-04,22,A.J. Brown,WR,Ole Miss,Fan,https://bellyupsports.com/2019/02/nfl-mock-draft-1-0/,0.01234567901
+SB Nation - Kadar,2019-02-04,51,A.J. Brown,WR,Ole Miss,Expert,https://www.sbnation.com/2019/2/4/18209311/2019-nfl-mock-draft-two-rounds-super-bowl-quinnen-williams-nick-bosa,0.01234567901
+Fansided - Weiss,2019-02-04,24,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2019/02/04/nfl-mock-draft-2019-super-bowl-edition/,0.01234567901
+Fansided - Becker,2019-02-04,24,A.J. Brown,WR,Ole Miss,Fan,https://saturdayblitz.com/2019/02/04/2019-nfl-mock-draft-post-super-bowl-liii-edition/,0.01234567901
+Fansided - Gurzi,2019-02-04,42,A.J. Brown,WR,Ole Miss,Fan,https://nflspinzone.com/2019/02/04/nfl-mock-draft-2019-post-super-bowl-2-rounds/,0.01234567901
+The Duel - Walsh,2019-02-04,16,A.J. Brown,WR,Ole Miss,Fan,https://www.theduel.com/posts/6288428-2019-nfl-mock-draft-following-the-super-bowl/partners/36553,0.01234567901
+Alpha Football,2019-02-04,44,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2019/02/2019-3-round-nfl-mock-draft-with-trades.html,0.01234567901
+Bleacher Report - Tansey,2019-02-04,30,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2819216-nfl-mock-draft-2019-latest-post-super-bowl-predictions-for-1st-round,0.01234567901
+Bleacher Report - Miller,2019-02-04,40,A.J. Brown,WR,Ole Miss,Expert,https://bleacherreport.com/articles/2818393-2019-nfl-mock-draft-matt-millers-post-super-bowl-predictions,0.01234567901
+Mocking the Draft,2019-02-04,27,A.J. Brown,WR,Ole Miss,Fan,https://mockingthedraft.tumblr.com/post/182567322517/2019-nfl-mock-draft-10-post-super-bowl,0.01234567901
+The Detroit News - Rogers,2019-02-04,22,A.J. Brown,WR,Ole Miss,Media,https://www.detroitnews.com/story/sports/nfl/lions/2019/02/04/justin-rogers-2019-nfl-mock-draft-1-0-detroit-lions/2771610002/,0.01234567901
+The Athletic - Brugler,2019-02-05,48,A.J. Brown,WR,Ole Miss,Expert,https://theathletic.com/797231/2019/02/05/dane-bruglers-mock-draft-3-0-a-trade-up-for-dwayne-haskins-in-this-two-round-scenario/,0.0125
+Medium - Dom Jackson,2019-02-05,19,A.J. Brown,WR,Ole Miss,Fan,https://medium.com/@dominicjackson/nfl-mock-draft-1-0-7082801a1e2b,0.0125
+The Morning Call - Meluskey,2019-02-04,24,A.J. Brown,WR,Ole Miss,Media,https://www.mcall.com/sports/football/mc-spt-nfl-mock-draft-2019-story.html,0.01234567901
+NJ.com - Rosenblatt,2019-02-05,26,A.J. Brown,WR,Ole Miss,Media,https://www.nj.com/expo/sports/g66l-2019/02/81211ce3f05134/latest-nfl-mock-draft-2019-after-blockbuster-trade-kyler-murray-picked-no-1-giants-trade-with-jets-to-get-a-quarterback-quinnen-williams-falling-out-of-top-5-eagles-trade-out-of-no-25.html,0.0125
+Facebook - Jakubosky,2019-02-05,32,A.J. Brown,WR,Ole Miss,Fan,https://www.facebook.com/100000279535537/posts/2263066440379318?sfns=mo,0.0125
+NFL Network - Reuter,2019-02-05,85,A.J. Brown,WR,Ole Miss,Expert,http://www.nfl.com/news/story/0ap3000001015161/article/threeround-2019-nfl-mock-draft-10-kyler-murray-to-broncos,0.0125
+Draft Wire - Easterling,2019-02-05,36,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/2019/02/05/2019-nfl-mock-draft-updated-4-rounds-trades-dwayne-haskins-kyler-murray/,0.0125
+Walter Football - Cherepinsky,2019-01-31,19,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0131.php,0.01176470588
+Twitter - HoopsAccess,2019-02-05,35,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/HoopsAccess/status/1092935425675743232,0.0125
+Red Cup News - Mitch,2019-02-05,16,A.J. Brown,WR,Ole Miss,Fan,http://www.redcupnews.com/2019/02/05/2019-7-round-nfl-mock-draft-post-super-bowl/,0.0125
+Metro.us - Alford,2019-02-05,46,A.J. Brown,WR,Ole Miss,Media,https://www.metro.us/sports/2019-nfl-mock-draft-kyler-murray-dwayne-haskins-josh-allen,0.0125
+Twitter - MrVanillaman9,2019-02-06,22,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/MrVanillaman9/status/1093284065992675328,0.01265822785
+Shports and Stuff - Bai,2019-02-07,15,A.J. Brown,WR,Ole Miss,Fan,https://shports.home.blog/2019/02/07/2019-nfl-mock-draft-w-o-trades-v1/,0.01282051282
+ESPN - McShay,2019-02-07,24,A.J. Brown,WR,Ole Miss,Expert,http://insider.espn.com/nfl/draft2019/insider/story/_/id/25916892/todd-mcshay-2019-nfl-mock-draft-predictions-every-first-round-pick-1-32-draft-order,0.01282051282
+Campus Sports - Murphy,2019-02-07,27,A.J. Brown,WR,Ole Miss,Fan,https://campussports.net/2019/02/07/nfl-mock-draft-2019-latest-projections-picks-2-7/,0.01282051282
+CBS Sports - Trapasso,2019-02-08,27,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-dolphins-pick-dwayne-haskins-raiders-land-two-pass-catchers/,0.01298701299
+Twitter - Cheesepuff430,2019-02-08,24,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/Cheesepuff430/status/1093866615190507522,0.01298701299
+Fantasy Pros - Byfield,2019-02-08,19,A.J. Brown,WR,Ole Miss,Fan,https://www.fantasypros.com/2019/02/nfl-mock-draft-2019-first-round-1-0/,0.01298701299
+Sports Plug - Liebert,2019-02-07,15,A.J. Brown,WR,Ole Miss,Fan,https://www.sportsplug.org/mock-draft-10.html,0.01282051282
+The Bottom Line Sports,2019-02-09,25,A.J. Brown,WR,Ole Miss,Fan,https://thebottomlinesports.home.blog/2019/02/09/2019-nfl-mock-draft-vol-1/,0.01315789474
+The NFL Draft Guru - Mieni,2019-02-10,22,A.J. Brown,WR,Ole Miss,Fan,https://thenfldraftguru.blogspot.com/2019/02/2019-nfl-mock-draft-post-super-bowl.html,0.01333333333
+Circle the Wagons - Shoemaker,2019-02-10,27,A.J. Brown,WR,Ole Miss,Fan,https://circlesthewagons.com/nfl-1/2019/2/10/2019-nfl-mock-draft-1,0.01333333333
+Twitter - Evans,2019-02-11,19,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/JT_Evans97/status/1095012835179089920,0.01351351351
+The 3 Point Conversion - Fields,2019-02-11,27,A.J. Brown,WR,Ole Miss,Fan,https://www.the3pointconversion.com/2019-nfl-mock-draft-second-edition/,0.01351351351
+Nachmany Football,2019-02-11,30,A.J. Brown,WR,Ole Miss,Fan,https://nachmanyfootball.com/2019/02/11/2019-nfl-mock-draft-nach-mock-2-0/,0.01351351351
+LWO Sports - Borycki,2019-02-09,22,A.J. Brown,WR,Ole Miss,Fan,https://lwosports.com/2019/02/09/derek-boryckis-2019-nfl-mock-draft-1-0/,0.01315789474
+The Grueling Truth - Goodpaster,2019-02-10,19,A.J. Brown,WR,Ole Miss,Fan,https://thegruelingtruth.net/football/nfl/2019-nfl-mock-draft-2-0-2-9-19/,0.01333333333
+Armchair All Americans - Paul,2019-02-10,51,A.J. Brown,WR,Ole Miss,Fan,https://armchairallamericans.com/the-armchair-scout-post-super-bowl-7-round-2019-nfl-mock-draft-4-0/,0.01333333333
+Alpha Football,2019-02-11,44,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2019/02/2019-three-round-nfl-mock-draft-21119.html,0.01351351351
+Yardbarker - Trachtman,2019-02-10,27,A.J. Brown,WR,Ole Miss,Media,https://www.yardbarker.com/nfl/articles/nfl_mock_draft_feb_11_2019/s1__28414163,0.01333333333
+Fansided - Stevens,2019-02-12,30,A.J. Brown,WR,Ole Miss,Fan,https://phinphanatic.com/2019/02/12/first-round-2019-nfl-mock-draft-dolphins-get-defensive,0.01369863014
+NESN - Schrock,2019-02-12,30,A.J. Brown,WR,Ole Miss,Media,https://nesn.com/2019/02/2019-nfl-mock-draft-giants-grab-qb-patriots-select-rob-gronkowskis-replacement/,0.01369863014
+Draft Wire - Easterling,2019-02-12,34,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/2019/02/12/2019-nfl-mock-draft-3-rounds-trades-surprises-kyler-murray-dwayne-haskins-drew-lock,0.01369863014
+Walter Football - Cherepinsky,2019-02-07,19,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0207.php,0.01282051282
+Fansided - Weiss,2019-02-13,26,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2019/02/13/2019-nfl-mock-draft-kyler-murray-rumors/,0.01388888889
+The Game Haus - DiTullio,2019-02-08,19,A.J. Brown,WR,Ole Miss,Fan,https://thegamehaus.com/2019-nfl-mock-draft-february-8/2019/02/08/,0.01298701299
+The Game Haus - DiTullio,2019-01-25,19,A.J. Brown,WR,Ole Miss,Fan,https://thegamehaus.com/2019-nfl-mock-draft-january-25/2019/01/25/,0.01098901099
+The Game Haus - DiTullio,2019-02-01,19,A.J. Brown,WR,Ole Miss,Fan,https://thegamehaus.com/2019-nfl-mock-draft-february-1/2019/02/01/,0.0119047619
+The Game Haus - DiTullio,2019-01-04,17,A.J. Brown,WR,Ole Miss,Fan,https://thegamehaus.com/2019-nfl-mock-draft-january-4/2019/01/04/,0.008928571429
+San Diego Union-Tribune - Brown,2019-02-13,40,A.J. Brown,WR,Ole Miss,Media,https://www.sandiegouniontribune.com/sports/sd-sp-nfl-mock-draft-2019-two-rounds-0213-story.html,0.01388888889
+FFStatistics - The Draft Genius,2019-02-13,24,A.J. Brown,WR,Ole Miss,Fan,https://www.ffstatistics.com/2019/02/13/ffstatistics-nfl-mock-draft-1-0/,0.01388888889
+Draft Utopia - Sciubba,2019-02-13,33,A.J. Brown,WR,Ole Miss,Fan,https://www.facebook.com/234068700038739/posts/2106084172837173/,0.01388888889
+Loaded Box Podcast - Morgan,2019-02-14,26,A.J. Brown,WR,Ole Miss,Fan,https://loadedboxpodcast.com/nfl-mock-draft/2019-nfl-mock-draft-1/,0.01408450704
+Buccaneers.com - Smith & Vitali,2019-02-14,26,A.J. Brown,WR,Ole Miss,Media,https://www.buccaneers.com/news/buccaneers-com-2019-mock-draft-1-0,0.01408450704
+Box Score Sports - Williams,2019-02-16,12,A.J. Brown,WR,Ole Miss,Fan,https://theboxscoresports.wordpress.com/2019/02/16/nfl-mock-draft-v2-0-picks-1-16/,0.01449275362
+The Grueling Truth - Goodpaster,2019-02-17,19,A.J. Brown,WR,Ole Miss,Fan,https://thegruelingtruth.net/football/nfl/2019-nfl-mock-draft-2-17-19/,0.01470588235
+The Fresh Take - Williams,2019-02-17,19,A.J. Brown,WR,Ole Miss,Fan,https://thefreshtake.home.blog/2019/02/17/nfl-mock-draft-1-0/,0.01470588235
+NFL Draft Scout - Serritella,2019-02-17,26,A.J. Brown,WR,Ole Miss,Fan,https://footballmaven.io/nfldraftscout/mocks/serritella-two-round-2019-nfl-mock-draft-V-yjqDVgW0eLceZvRJCYUQ/,0.01470588235
+4 The Record Sports - Weitzner,2019-01-18,24,A.J. Brown,WR,Ole Miss,Fan,https://4therecordsports.wixsite.com/4trsports/single-post/2019/01/18/2019-NFL-Mock-Draft-20,0.01020408163
+4 The Record Sports - Weitzner,2019-01-11,21,A.J. Brown,WR,Ole Miss,Fan,https://4therecordsports.wixsite.com/4trsports/single-post/2019/01/11/2019-NFL-Mock-Draft-10,0.009523809524
+ESPN - Kiper,2019-02-18,26,A.J. Brown,WR,Ole Miss,Fan,https://www.reddit.com/r/NFL_Draft/comments/arxiua/mel_kipers_mock_draft_20/,0.01492537313
+Alpha Football,2019-02-18,44,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2019/02/2019-3-round-nfl-mock-draft-21819-with.html,0.01492537313
+Fansided - Gurzi,2019-02-18,42,A.J. Brown,WR,Ole Miss,Fan,https://nflspinzone.com/2019/02/18/nfl-mock-draft-2019-pre-combine-browns-jets-steelers/,0.01492537313
+Fantasy Pros - Tagliere,2019-02-18,30,A.J. Brown,WR,Ole Miss,Fan,https://www.fantasypros.com/2019/02/mike-taglieres-nfl-mock-draft-2019-two-rounds-2-0/,0.01492537313
+NJ.com - Dunleavy,2019-02-18,22,A.J. Brown,WR,Ole Miss,Media,https://www.nj.com/expo/sports/g66l-2019/02/10262897302520/latest-nfl-mock-draft-2019-giants-trade-up-with-cardinals-for-dwayne-haskins-or-kyler-murray-derek-carr-traded-nick-bosa-josh-allen-or-rashan-gary-to-jets.html,0.01492537313
+NFL Network - Casserly,2019-02-19,22,A.J. Brown,WR,Ole Miss,Expert,http://www.nfl.com/news/story/0ap3000001018293/article/charley-casserly-2019-nfl-mock-draft-10-three-qbs-in-round-1,0.01515151515
+The Ringer - Kelly,2019-02-18,22,A.J. Brown,WR,Ole Miss,Expert,https://www.theringer.com/nfl/2019/2/19/18229519/2019-nfl-mock-draft-1-0-nick-bosa-quinnen-williams,0.01492537313
+Fansided - Weiss,2019-02-20,22,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2019/02/20/2019-nfl-mock-draft-cardinals-quinnen-williams,0.01538461538
+Sports Booze - Gold,2019-02-20,19,A.J. Brown,WR,Ole Miss,Fan,https://www.sportzbooze.com/gold-rush/2019/2/20/2019-nfl-mock-draft,0.01538461538
+Houston Chronicle - McClain,2019-02-20,22,A.J. Brown,WR,Ole Miss,Fan,https://www.houstonchronicle.com/sports/texas-sports-nation/texans/article/John-McClain-s-and-Aaron-Wilson-s-NFL-mock-draft-13627493.php?utm_campaign=CMS%20Sharing%20Tools%20(Premium)&utm_source=t.co&utm_medium=referral,0.01538461538
+Sports Illustrated - Kahler,2019-02-20,26,A.J. Brown,WR,Ole Miss,Media,https://www.si.com/nfl/2019/02/20/mock-draft-kyler-murray-nick-bosa-daniel-jones-drew-lock-dwayne-haskins,0.01538461538
+The Big Lead - McKenna,2019-02-20,15,A.J. Brown,WR,Ole Miss,Media,https://thebiglead.com/2019/02/20/nfl-mock-draft-kyler-murray-drew-lock/,0.01538461538
+Twitter - NFL Warehouse,2019-02-19,19,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/NflWarehouse/status/1097900307529547781,0.01515151515
+Draft Wire - Easterling,2019-02-19,34,A.J. Brown,WR,Ole Miss,Fan,https://draftwire.usatoday.com/2019/02/19/2019-nfl-mock-draft-4-rounds-trades-combine-dwayne-haskins-kyler-murray-drew-lock-quinnen-williams-nick-bosa/,0.01515151515
+Walter Football - Cherepinsky,2019-02-13,19,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0213.php,0.01388888889
+San Diego Union-Tribune - Brown,2019-02-20,40,A.J. Brown,WR,Ole Miss,Media,https://www.sandiegouniontribune.com/sports/sd-sp-nfl-mock-draft-2019-two-rounds-kyler-murray-20190220-story.html,0.01538461538
+Deke's Sports Academy - Mathews,2019-02-20,24,A.J. Brown,WR,Ole Miss,Fan,https://www.dekessports.com/l/a2019-nfl-mock-draft-1-0/,0.01538461538
+NBC Sports Washington - Standig,2019-02-20,40,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/washington/redskins/2019-nfl-mock-draft-140-pre-nfl-combine-2-round-mock-draft,0.01538461538
+Bleacher Report - Bruton,2019-02-21,22,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2821672-nfl-mock-draft-2019-1st-round-projections-for-most-coveted-prospects,0.015625
+CBS Sports - Trapasso,2019-02-22,17,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-jets-trade-back-and-land-t-j-hockenson-dwayne-haskins-goes-to-giants,0.01587301587
+The Game Haus - DiTullio,2019-02-22,20,A.J. Brown,WR,Ole Miss,Fan,https://thegamehaus.com/2019-nfl-mock-draft-february-22/2019/02/22/,0.01587301587
+4th Down Nation - Halley,2019-02-21,19,A.J. Brown,WR,Ole Miss,Media,https://www.4downnation.com/4-down/2019-beat-reporter-mock-draft/,0.015625
+stprice53 - Price,2019-02-22,47,A.J. Brown,WR,Ole Miss,Fan,https://stprice53.wordpress.com/2019/02/22/2019-nfl-mock-draft-rounds-1-3/,0.01587301587
+Fansided - Sanjit,2019-02-23,30,A.J. Brown,WR,Ole Miss,Fan,https://justblogbaby.com/2019/02/23/2019-full-first-round-mock-1-0,0.01612903226
+Twitter - TheNimbe12,2019-02-23,19,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/TheNimbe12/status/1099374484639924224,0.01612903226
+Twitter - bigburner5,2019-02-23,27,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/bigburner5/status/1099490401931669514,0.01612903226
+Circle the Wagons - Shoemaker,2019-02-24,26,A.J. Brown,WR,Ole Miss,Fan,https://circlesthewagons.com/nfl-1/2019/2/24/2019-nfl-mock-draft-2,0.01639344262
+Fourth Quarter Sports - Deering,2019-02-24,20,A.J. Brown,WR,Ole Miss,Fan,https://fourthquartersports.org/2019/02/24/pre-combine-2019-nfl-mock-draft/,0.01639344262
+Atlanta Journal-Constitution - Ledbetter,2019-02-24,26,A.J. Brown,WR,Ole Miss,Media,https://www.ajc.com/blog/atlanta-falcons/led-mock-draft-falcons-select-georgia-deandre-baker/rYiYaYJ6RD3QoLIVnIcnLP/,0.01639344262
+The Hays Way,2019-02-24,19,A.J. Brown,WR,Ole Miss,Fan,https://thehaysway.wordpress.com/2019/02/24/2019-nfl-mock-draft-1-0/,0.01639344262
+Smitty's Sports Machine - Smith,2019-02-18,26,A.J. Brown,WR,Ole Miss,Fan,https://fatboislim21.wordpress.com/2019/02/18/smittys-nfl-mock-draft-1-0/,0.01492537313
+Alpha Football,2019-02-25,44,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2019/02/2019-3-round-nfl-mock-draft-22519-with.html,0.01666666667
+Arizona Republic - McManaman,2019-02-25,26,A.J. Brown,WR,Ole Miss,Media,https://www.azcentral.com/story/sports/nfl/cardinals/2019/02/25/nfl-mock-draft-arizona-cardinals-nick-bosa-kyler-murray/2962358002/,0.01666666667
+Bleacher Report - Moton,2019-02-25,27,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2822122-2019-nfl-mock-draft-best-team-fits-and-predictions-for-top-prospects,0.01666666667
+SB Nation - Kadar,2019-02-25,46,A.J. Brown,WR,Ole Miss,Expert,https://www.sbnation.com/nfl-mock-draft/2019/2/25/18238454/2019-nfl-mock-draft-three-rounds-combine-devin-white-kyler-murray-dwayne-haskins,0.01666666667
+Football Fan Spot - Lourie,2019-02-25,22,A.J. Brown,WR,Ole Miss,Fan,https://footballfanspot.com/2019/02/25/2019-nfl-mock-draft/,0.01666666667
+The Draft Network - Ledyard,2019-02-25,30,A.J. Brown,WR,Ole Miss,Expert,https://thedraftnetwork.com/articles/ledyard-s-2019-nfl-mock-draft-5.0,0.01666666667
+Yardbarker - Trachtman,2019-02-25,26,A.J. Brown,WR,Ole Miss,Media,https://www.yardbarker.com/nfl/articles/nfl_mock_draft_feb_25/s1__28510454,0.01666666667
+Pro Sports Fandom - Beckmann,2019-02-25,44,A.J. Brown,WR,Ole Miss,Fan,https://prosportsfandom.com/tristan-beckmanns-2019-pre-combine-nfl-mock-draft-4-0-four-rounds/,0.01666666667
+Twitter - Salazar,2019-02-25,52,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/asiers49/status/1100134036276695041,0.01666666667
+White Wolf Sports - Chappine,2019-02-25,24,A.J. Brown,WR,Ole Miss,Fan,https://www.whitewolfsports.com/nfl/2019-nfl-mock-draft-2-0/,0.01666666667
+White Wolf Sports - Chappine,2019-01-23,15,A.J. Brown,WR,Ole Miss,Fan,https://www.whitewolfsports.com/nfl/2019-nfl-mock-draft-1-0/,0.01075268817
+Your Sports All Day - Hubbard,2019-02-25,24,A.J. Brown,WR,Ole Miss,Fan,https://yoursportsallday.wixsite.com/thesportshub/post/hubbard-s-2019-pre-combine-nfl-mock-draft-kyler-is-first-qb-taken---bills-make-a-decisive-9-pick,0.01666666667
+Standing Room Sports - KP,2019-02-26,51,A.J. Brown,WR,Ole Miss,Fan,https://standingroomsports.com/2019/02/26/2019-nfl-mock-draft-2-0/,0.01694915254
+NFL Network - Reuter,2019-02-26,58,A.J. Brown,WR,Ole Miss,Expert,http://www.nfl.com/news/story/0ap3000001018948/article/threeround-2019-nfl-mock-draft-20-kyler-murray-to-jaguars,0.01694915254
+Ralphie Report - Metivier,2019-02-26,46,A.J. Brown,WR,Ole Miss,Fan,https://www.ralphiereport.com/2019/2/26/18239921/3-round-nfl-mock-draft-combine-colorado-buffaloes,0.01694915254
+Walter Football - Cherepinsky,2019-02-20,19,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0220.php,0.01538461538
+Toronto Sun - Bilicki,2019-02-27,27,A.J. Brown,WR,Ole Miss,Media,https://torontosun.com/sports/football/nfl/nfl-mock-draft-qb-intrigue-heating-up-before-combine,0.01724137931
+Fansided - Weiss,2019-02-27,22,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2019/02/27/2019-nfl-mock-draft-trades-kyler-murray-dwayne-haskins/,0.01724137931
+CBS Sports - White,2019-02-27,27,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-seven-first-round-trades-as-raiders-jaguars-move-to-top-of-round-1-for-qbs,0.01724137931
+Game Flow Sports - Marques,2019-02-27,30,A.J. Brown,WR,Ole Miss,Fan,https://gameflowsports.com/home/2019/2/18/2019-nfl-mock-draft,0.01724137931
+Draft Wire - Easterling,2019-02-27,34,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/2019/02/27/2019-nfl-mock-draft-updated-four-rounds-scouting-combine-kyler-murray-dwayne-haskins/,0.01724137931
+"Waverunner - Barton, Lopez, DeLoach",2019-02-28,26,A.J. Brown,WR,Ole Miss,Fan,https://waverunner7.wixsite.com/pkywaverunner/articles/2019-nfl-mock-draft,0.01754385965
+WKYC - Axelrod,2019-02-27,12,A.J. Brown,WR,Ole Miss,Media,https://www.wkyc.com/article/sports/nfl/nfl-draft/2019-nfl-mock-draft-pre-nfl-scouting-combine/95-571b3ec7-943b-4cf5-aa6a-e247d2c35ad5,0.01724137931
+The Amateur Agency - Tomac,2019-02-28,22,A.J. Brown,WR,Ole Miss,Fan,https://theamateuragency.com/2019/02/28/two-round-nfl-mock-draft/,0.01754385965
+Twitter - GazBelmont,2019-03-01,17,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/GazBelmont/status/1101596992327827456,0.01785714286
+You're Ducking Right - Sullivan,2019-03-02,35,A.J. Brown,WR,Ole Miss,Fan,https://youreduckingright.com/2019/03/02/off-the-cuff-no-muss-no-fuss-3-round-nfl-mock-draft/,0.01818181818
+Twitter - Chapman,2019-03-02,34,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/JL_Chapman/status/1101884506141650944,0.01818181818
+Fansided - Lambert,2019-03-03,26,A.J. Brown,WR,Ole Miss,Fan,https://nflmocks.com/2019/03/03/2019-nfl-mock-draft-cardinals-qb-switch-creates-chaos/,0.01851851852
+Twitter - Back2Stepover,2019-03-03,35,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/Back2Stepover/status/1102173529414365184,0.01851851852
+The Draft Network - Crabbs,2019-03-04,51,A.J. Brown,WR,Ole Miss,Expert,https://thedraftnetwork.com/articles/crabbs--2019-nfl-mock-draft-6.0,0.01886792453
+NJ.com - Rosenblatt,2019-03-04,26,A.J. Brown,WR,Ole Miss,Media,https://expo.nj.com/sports/g66l-2019/03/b7634870188830/latest-nfl-mock-draft-2019-full-2-rounds-cardinals-get-kyler-murray-trade-josh-rosen-giants-snag-elite-dt-plus-a-quarterback-eagles-trade-up-for-ed-oliver.html,0.01886792453
+Podyum Recruit - Engstrom,2019-03-04,26,A.J. Brown,WR,Ole Miss,Fan,https://recruit.thepodyum.com/articles/1861,0.01886792453
+Alpha Football,2019-03-05,44,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2019/03/2019-3-round-nfl-mock-draft-3519-with.html,0.01923076923
+SB Nation - Kadar,2019-03-05,27,A.J. Brown,WR,Ole Miss,Expert,https://www.sbnation.com/nfl/2019/3/5/18250924/2019-nfl-mock-draft-kyler-murray-cardinals-nick-bosa-49ers-josh-allen-combine,0.01923076923
+Yardbarker - Trachtman,2019-03-05,26,A.J. Brown,WR,Ole Miss,Media,https://www.yardbarker.com/nfl/articles/nfl_mock_draft_march_5/s1__28570007?,0.01923076923
+Circle the Wagons - Shoemaker,2019-03-05,32,A.J. Brown,WR,Ole Miss,Fan,https://circlesthewagons.com/nfl-1/2019/3/5/2019-nfl-mock-draft-3,0.01923076923
+CBS Sports - Fornelli,2019-03-05,22,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-cardinals-trade-josh-rosen-to-redskins-and-take-kyler-murray-giants-grab-falling-qb/,0.01923076923
+Bleacher Report - Miller,2019-03-05,17,A.J. Brown,WR,Ole Miss,Expert,https://bleacherreport.com/articles/2823435-2019-nfl-mock-draft-matt-millers-post-combine-predictions,0.01923076923
+White Wolf Sports - Chappine,2019-03-05,24,A.J. Brown,WR,Ole Miss,Fan,https://www.whitewolfsports.com/nfl/2019-nfl-mock-draft-3-0/,0.01923076923
+Athlon Sports - Fischer,2019-03-05,32,A.J. Brown,WR,Ole Miss,Fan,https://athlonsports.com/nfl/2019-nfl-mock-draft-first-round-predictions-updated-scouting-combine,0.01923076923
+The Game Haus - DiTullio,2019-03-05,20,A.J. Brown,WR,Ole Miss,Fan,https://thegamehaus.com/2019-nfl-mock-draft-march-5/2019/03/05/,0.01923076923
+Nashville Tennessean - Gray,2019-03-05,26,A.J. Brown,WR,Ole Miss,Media,https://www.tennessean.com/story/sports/nfl/draft2019/2019/03/05/nfl-mock-draft-2019-post-scouting-combine-kyler-murray-no-1-pick/3028343002/,0.01923076923
+Fansided - Gurzi,2019-03-05,22,A.J. Brown,WR,Ole Miss,Fan,https://nflspinzone.com/2019/03/05/nfl-mock-draft-2019-post-combine-kyler-murray-d-k-metcalf/,0.01923076923
+NBC Sports Washington - Standig,2019-03-05,33,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/washington/redskins/2019-nfl-mock-draft-150-post-nfl-combine-2-round-mock-draft#slide-2,0.01923076923
+Fansided - Parzych,2019-03-06,27,A.J. Brown,WR,Ole Miss,Fan,https://ramblinfan.com/2019/03/06/los-angeles-rams-nfl-mock-draft-2-offensive-lineman-2019/,0.01960784314
+Twitter - Adam B.,2019-03-05,34,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/Bayer_22/status/1102990837334659076,0.01923076923
+USA Today - Davis,2019-03-06,27,A.J. Brown,WR,Ole Miss,Media,https://www.usatoday.com/story/sports/nfl/draft/2019/03/06/nfl-mock-draft-2019-kyler-murray-combine-first-round/3049535002/,0.01960784314
+Fansided - Weiss,2019-03-06,15,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2019/03/06/2019-nfl-mock-draft-kyler-murray-cardinals/,0.01960784314
+Walter Football - Cherepinsky,2019-02-27,19,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0227.php,0.01724137931
+Fantasy Pros - Tagliere,2019-03-05,27,A.J. Brown,WR,Ole Miss,Fan,https://www.fantasypros.com/2019/03/mike-taglieres-nfl-mock-draft-2019-two-rounds-3-0/,0.01923076923
+WHIP Radio - Kofsky,2019-03-06,28,A.J. Brown,WR,Ole Miss,Fan,https://www.whipradiotu.com/2019-nfl-mock-draft-1-0-2/,0.01960784314
+Nachmany Football,2019-03-06,35,A.J. Brown,WR,Ole Miss,Fan,https://nachmanyfootball.com/2019/03/06/2019-nfl-mock-draft-three-rounds-for-nach-mock-3-0-nachmock3for3/,0.01960784314
+Indianapolis Colts - Arthur,2019-03-06,24,A.J. Brown,WR,Ole Miss,Media,https://www.colts.com/news/2019-colts-com-mock-draft-1-0-post-combine-edition,0.01960784314
+"Penn Live - Klinger, Kasinitz, Gallen",2019-03-06,17,A.J. Brown,WR,Ole Miss,Media,https://www.pennlive.com/sports/2019/03/nfl-mock-draft-2019-post-nfl-combine-edition-kyler-murray-makes-his-surge-eagles-steelers-ravens-fill-needs.html,0.01960784314
+Fansided - Graham,2019-03-06,30,A.J. Brown,WR,Ole Miss,Fan,https://factoryofsadness.co/2019/03/06/cleveland-browns-2019-mock-draft-factory-of-sadness-version-1-0/,0.01960784314
+Twitter - Logan,2019-03-06,24,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/oglb20/status/1103418802019160065,0.01960784314
+Draft Wire - Easterling,2019-03-05,38,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/2019/03/05/2019-nfl-mock-draft-combine-trades-4-rounds-compensatory-picks-kyler-murray-dwayne-haskins-d-k-metcalf/,0.01923076923
+CBS Sports - Wagner-McGough,2019-03-07,26,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-patriots-capitalize-on-cardinals-desire-for-kyler-murray-by-trading-for-josh-rosen/,0.02
+San Diego Union-Tribune - Brown,2019-03-06,27,A.J. Brown,WR,Ole Miss,Media,https://www.sandiegouniontribune.com/sports/sd-sp-nfl-mock-draft-2019-post-combine-projections-20190306-story.html,0.01960784314
+Pacific Takes - Follman,2019-03-06,17,A.J. Brown,WR,Ole Miss,Fan,https://www.pacifictakes.com/2019/3/6/18253784/pacific-takes-2019-nfl-mock-draft-post-combine-andre-dillard-moves-into-first-round,0.01960784314
+Pro Football Focus - Palazzolo,2019-03-07,25,A.J. Brown,WR,Ole Miss,Expert,https://www.profootballfocus.com/news/draft-pff-2019-nfl-mock-draft-4,0.02
+CBS Sports - Trapasso,2019-03-08,26,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-d-k-metcalf-goes-to-falcons-giants-pick-big-quarterback-in-round-2/,0.02040816327
+Seahawks Draft Blog - Staton,2019-03-07,53,A.J. Brown,WR,Ole Miss,Fan,http://seahawksdraftblog.com/new-mock-draft-seahawks-seventh-rounder-draft-notes,0.02
+Wrightway Sports Network - Wilson,2019-03-08,30,A.J. Brown,WR,Ole Miss,Fan,http://thewrightwaysportsnetwork.com/nfl/the-wrightway-sports-networks-2019-nfl-mock-draft/,0.02040816327
+Sean the Mocker - Courtney,2019-03-07,17,A.J. Brown,WR,Ole Miss,Fan,https://seanthemocker.wordpress.com/2019/03/07/nfl-mock-draft-3-0/,0.02
+Draft Wire - Easterling,2019-03-08,38,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/gallery/2019-nfl-mock-draft-post-combine-4-rounds-trades-kyler-murray-dwayne-haskins-nick-bosa-drew-lock-quinnen-williams-josh-allen/,0.02040816327
+National Mock Drafts - Whoolery,2019-03-07,24,A.J. Brown,WR,Ole Miss,Fan,https://www.instagram.com/p/BuudRJEhrWh/,0.02
+Fourth Quarter Sports - Deering,2019-03-07,15,A.J. Brown,WR,Ole Miss,Fan,https://fourthquartersports.org/2019/03/07/2019-post-combine-nfl-mock-draft/,0.02
+Baltimore Sports and Life - Charchalis,2019-03-05,19,A.J. Brown,WR,Ole Miss,Fan,https://www.baltimoresportsandlife.com/2019-nfl-draft-1st-round-mock-version-1/,0.01923076923
+Class Act Scouting - Fossell,2019-03-07,22,A.J. Brown,WR,Ole Miss,Fan,https://classactscouting.com/post-combine-nfl-mock,0.02
+Fansided - Camenker,2019-03-09,22,A.J. Brown,WR,Ole Miss,Fan,https://riggosrag.com/2019/03/09/nfl-mock-draft-4-0-quarterbacks-rise-post-combine-redskins-land-pass-catcher/,0.02083333333
+95.7 The Game - Call,2019-03-06,30,A.J. Brown,WR,Ole Miss,Media,https://957thegame.radio.com/articles/2019-nfl-mock-draft-20-tommy-calls-post-nfl-scouting-combine-predictions,0.01960784314
+Muffed Puntz - Wright,2019-03-08,19,A.J. Brown,WR,Ole Miss,Fan,https://jessewright11.wixsite.com/muffedpuntz/blog-1/nfl-mock-draft-2019-1st-2nd,0.02040816327
+NFL Draft Diamonds - Joyce,2018-12-11,20,A.J. Brown,WR,Ole Miss,Fan,https://www.nfldraftdiamonds.com/2018/12/nfl-draft-diamonds-2019-mock-draft-3-0/,0.007352941176
+Pro Sports Fandom - Beckmann,2019-03-02,22,A.J. Brown,WR,Ole Miss,Fan,https://prosportsfandom.com/tristan-beckmanns-2019-post-combine-nfl-mock-draft-5-0-four-rounds/,0.01818181818
+Twitter - *PULE*,2019-02-20,26,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/CP7NZ/status/1098136761572544513,0.01538461538
+Twitter - David,2019-03-06,27,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/David2k01MM8/status/1103502162619973632,0.01960784314
+Twitter - Chappell,2019-03-08,25,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/LeviChappell/status/1104151570789199872,0.02040816327
+Twitter - Knight,2019-03-09,22,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/luke_knight12/status/1104420415059972097,0.02083333333
+Ross' Rants - Ross,2019-03-10,25,A.J. Brown,WR,Ole Miss,Fan,https://arijross.wordpress.com/2019/03/10/2019-nfl-mock-draft-2-0-post-combine-edition/,0.02127659574
+Space Aliens Sports,2019-03-10,17,A.J. Brown,WR,Ole Miss,Fan,https://spacealienssports.com/2019/03/10/ss-nfl-mock-draft-1-0/,0.02127659574
+Belly Up Sports - Tamez,2019-03-10,17,A.J. Brown,WR,Ole Miss,Fan,https://bellyupsports.com/2019/03/pacs-nfl-mock-draft-top-10-picks/,0.02127659574
+GetFootballNews - Moose,2019-03-10,15,A.J. Brown,WR,Ole Miss,Fan,http://getfootballnews.com/component/content/article/142-moose-911-2019-nfl-mock-draft/27231-2019-nfl-mock-draft-by-getfootballnews,0.02127659574
+NFL Draft Lounge - Roberts,2019-03-10,27,A.J. Brown,WR,Ole Miss,Fan,https://nfldraftlounge.com/pre-free-agency-2019-nfl-mock-draft/,0.02127659574
+Pro Football Weekly - Arkush,2019-03-11,26,A.J. Brown,WR,Ole Miss,Media,https://www.profootballweekly.com/2019/03/08/unlocked-hub-arkushs-nfl-mock-draft-2-0/ayfsvf1/,0.02173913043
+Baltimore Beatdown - Louque,2019-03-11,22,A.J. Brown,WR,Ole Miss,Fan,https://www.baltimorebeatdown.com/2019/3/11/18253201/first-round-nfl-mock-draft-post-combine-edition-kyler-murray-baltimore-ravens,0.02173913043
+NJ.com - Lombardo,2019-03-11,24,A.J. Brown,WR,Ole Miss,Media,https://www.nj.com/giants/2019/03/nfl-mock-draft-2019-kyler-murray-goes-no-1-but-not-to-the-cardinals-giants-take-dwayne-haskins-or-add-defensive-help-complete-2-round-nfl-draft-projection.html,0.02173913043
+CBS Sports - Wilson,2019-03-11,59,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-steelers-replace-antonio-brown-patriots-get-two-wide-receivers-in-round-2/,0.02173913043
+Twitter - Ropeville Raider,2019-03-11,15,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/RopevilleRaider/status/1104959592088268803,0.02173913043
+Alpha Football,2019-03-11,44,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2019/03/2019-4-round-nfl-mock-draft-31119-with.html,0.02173913043
+Front Row Football - Avitabile,2019-03-11,26,A.J. Brown,WR,Ole Miss,Fan,https://frontrowfootball.com/2019/03/11/2019-nfl-mock-draft-updated-projections-with-trades/,0.02173913043
+Front Row Football - Avitabile,2019-03-11,10,A.J. Brown,WR,Ole Miss,Fan,https://frontrowfootball.com/2018/05/14/2019-nfl-mock-draft-way-too-early-1st-round-projections/,0.02173913043
+NBC Sports Washington - Standig,2019-03-12,33,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/washington/redskins/2019-nfl-mock-draft-160-post-free-agency-day-1,0.02222222222
+Fansided - Romano,2019-03-12,38,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2019/03/12/2019-nfl-draft-full-7-round-mock-draft,0.02222222222
+Bleacher Report - Knox,2019-03-12,17,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2825177-nfl-mock-draft-2019-1st-round-predictions-as-free-agency-officially-begins,0.02222222222
+Liebau Sports - Liebau,2019-03-12,27,A.J. Brown,WR,Ole Miss,Fan,https://liebausports.wordpress.com/2019/03/12/post-combine-2019-nfl-mock-draft/,0.02222222222
+Liebau Sports - Liebau,2018-12-17,22,A.J. Brown,WR,Ole Miss,Fan,https://liebausports.wordpress.com/2018/12/17/nfl-mock-draft-3/,0.007692307692
+Liebau Sports - Liebau,2019-01-08,12,A.J. Brown,WR,Ole Miss,Fan,https://liebausports.wordpress.com/2019/01/08/january-nfl-mock-draft/,0.009259259259
+CBS Sports - White,2019-03-13,24,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-giants-add-pass-rusher-odell-beckham-replacement-and-eli-mannings-heir-apparent-in-trade,0.02272727273
+NJ.com - Rosenblatt,2019-03-13,20,A.J. Brown,WR,Ole Miss,Media,https://www.nj.com/sports/2019/03/emergency-nfl-mock-draft-after-odell-beckham-trade-will-giants-trade-up-for-kyler-murray-or-dwayne-haskins-josh-rosen-to-chargers-jets-get-anthony-barr-replacement.html,0.02272727273
+Fansided - Sanjit,2019-03-13,15,A.J. Brown,WR,Ole Miss,Fan,https://justblogbaby.com/2019/03/13/oakland-raiders-full-first-round-2019-nfl-mock-draft-2-0,0.02272727273
+IUPUI Campus Citizen - Norton,2019-03-05,22,A.J. Brown,WR,Ole Miss,Fan,https://www.iupui.edu/~ccproj/cms/on-the-clock-nfl-mock-draft-2-0-picks-1-16/,0.01923076923
+IUPUI Campus Citizen - Norton,2019-02-12,13,A.J. Brown,WR,Ole Miss,Fan,https://www.iupui.edu/~ccproj/cms/on-the-clock-nfl-draft-mock-1-0-picks-1-10/,0.01369863014
+2019 NFL Mock 1 - Keith,2019-03-13,24,A.J. Brown,WR,Ole Miss,Fan,https://2019nflmock1.blogspot.com/2019/03/mock-draft-10-first-round-only.html,0.02272727273
+Bleacher Report - Roling,2019-03-14,22,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2825587-nfl-mock-draft-2019-complete-1st-round-predictions-for-most-hyped-prospects,0.02325581395
+CBS Sports - Trapasso,2019-03-15,22,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-giants-trade-pick-acquired-in-odell-beckham-trade-for-josh-rosen-titans-go-qb/,0.02380952381
+CBS Sports - Dubin,2019-03-14,24,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-raiders-move-up-for-kyler-murray-giants-land-dwayne-haskins-and-odell-beckhams-replacement/,0.02325581395
+Fansided - Weiss,2019-03-14,30,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2019/03/14/2019-nfl-mock-draft-drew-lock-broncos/,0.02325581395
+The BenchCooler - Rasmussen,2019-03-13,19,A.J. Brown,WR,Ole Miss,Fan,https://benchcooler.com/home/2019nflmockdraft-f3b7g,0.02272727273
+The Morning Call - Meluskey,2019-03-15,22,A.J. Brown,WR,Ole Miss,Media,https://www.mcall.com/sports/eagles/mc-spt-mock-draft-2meluskey-20190307-story.html,0.02380952381
+Midnight Crew Podcast - Suttles,2019-03-14,17,A.J. Brown,WR,Ole Miss,Fan,https://midnightcrewpodcast.com/2019/03/14/suttles-mock-draft/,0.02325581395
+Press Box - Zalis,2019-03-15,56,A.J. Brown,WR,Ole Miss,Fan,https://www.pressboxonline.com/2019/03/15/2019-nfl-mock-draft-30,0.02380952381
+Twitter - nflsociety,2019-03-16,20,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/nflsociety/status/1106945758593515521,0.0243902439
+Twitter - Judge2Stanton,2019-03-17,30,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/Judge2Stanton/status/1107304392057913349,0.025
+You're Ducking Right - Sully6827,2019-03-17,67,A.J. Brown,WR,Ole Miss,Fan,https://youreduckingright.com/2019/03/17/off-the-cuff-no-muss-no-fuss-3-round-nfl-mock-draft-version-2-0/,0.025
+Bryan Luis Sports Talk - Luis,2019-03-16,17,A.J. Brown,WR,Ole Miss,Fan,https://bryanluissportstalk.blogspot.com/2019/03/free-agency-2019-nfl-mock-draft.html,0.0243902439
+Bryan Luis Sports Talk - Luis,2019-02-18,25,A.J. Brown,WR,Ole Miss,Fan,https://bryanluissportstalk.blogspot.com/2019/02/2019-nfl-mock-draft-vol-1.html,0.01492537313
+Twitter - RealJagsViceGM,2019-03-16,15,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/RealJagsViceGM/status/1107107628348366850,0.0243902439
+Random Acts of Dumbness - James,2019-03-17,28,A.J. Brown,WR,Ole Miss,Fan,https://ooopsifarted.com/2019/03/17/2019-nfl-mock-draft-version-1-0/,0.025
+Bleacher Report - Knox,2019-03-17,20,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2826123-nfl-mock-draft-2019-projections-for-1st-round-prospects-post-free-agency-week-1,0.025
+Bleacher Report - Roling,2019-03-17,22,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2826165-2019-nfl-mock-draft-1st-round-predictions-and-top-prospects-stock-watch,0.025
+Bleacher Report - Tansey,2019-03-18,22,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2826261-2019-nfl-mock-draft-projections-for-1st-round-prospects-in-midst-of-free-agency,0.02564102564
+CBS Sports - Wilson,2019-03-18,36,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/two-round-2019-nfl-mock-draft-bengals-grab-dwayne-haskins-at-no-11-giants-wait-until-round-2-to-find-qb/,0.02564102564
+NJ.com - Kaye,2019-03-18,58,A.J. Brown,WR,Ole Miss,Media,https://expo.nj.com/sports/g66l-2019/03/7edfc54bc02015/latest-nfl-mock-draft-2019-giants-land-their-quarterback-of-the-future-in-blockbuster-trade-dolphins-make-aggressive-move-to-secure-ryan-tannehills-replacement-2-full-rounds.html,0.02564102564
+Twitter - Knight,2019-03-18,22,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/luke_knight12/status/1107527724611055616,0.02564102564
+Twitter - oMaiorDeNY,2019-03-18,21,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/oMaiorDeNY/status/1107611830816595969,0.02564102564
+Fansided - Gurzi,2019-03-18,20,A.J. Brown,WR,Ole Miss,Fan,https://nflspinzone.com/2019/03/18/nfl-mock-draft-post-free-agency-3-rounds-2019/,0.02564102564
+WFAN - Citak,2019-03-18,22,A.J. Brown,WR,Ole Miss,Fan,https://wfan.radio.com/blogs/matt-citak/nfl-mock-draft-20,0.02564102564
+NFL Network - Brooks,2019-03-19,30,A.J. Brown,WR,Ole Miss,Expert,http://www.nfl.com/draft/2019/mock-drafts/bucky-brooks/376200,0.02631578947
+Fantasy Pros - Tagliere,2019-03-19,12,A.J. Brown,WR,Ole Miss,Media,https://www.fantasypros.com/2019/03/mike-taglieres-nfl-mock-draft-2019-two-rounds-4-0/,0.02631578947
+Yardbarker - Trachtman,2019-03-19,20,A.J. Brown,WR,Ole Miss,Media,https://www.yardbarker.com/nfl/articles/nfl_two_round_mock_draft_march_18_2019/s1__28669253,0.02631578947
+Twitter - David2k01MM8,2019-03-19,26,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/David2k01MM8/status/1108011061943390208,0.02631578947
+CBS Sports - Fornelli,2019-03-19,16,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-heres-what-happens-if-you-pick-guys-based-solely-by-college-careers/,0.02631578947
+Box Score Sports - Williams,2019-03-19,12,A.J. Brown,WR,Ole Miss,Fan,https://theboxscoresports.wordpress.com/2019/03/19/nfl-mock-draft-v3-0-picks-1-16/,0.02631578947
+Bleacher Report - Moton,2019-03-19,26,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2826456-nfl-mock-draft-2019-1st-round-projections-for-prized-prospects,0.02631578947
+Super Stan Sports - jessthebest315,2019-03-19,20,A.J. Brown,WR,Ole Miss,Fan,https://www.superstansports.com/nfl-mock-draft-2-0-post-free-agency/,0.02631578947
+NFL Mock Draft - Faybian & Love,2019-03-16,26,A.J. Brown,WR,Ole Miss,Fan,https://nlfmockdraft.com/2019/03/16/nat-l-faybians-2019-nfl-mock-draft-version-3-0-round-1/,0.0243902439
+Football Garbage Time,2019-03-19,26,A.J. Brown,WR,Ole Miss,Fan,http://footballgarbagetime.com/2019/03/2019-post-combine-free-agency-nfl-mock-draft-1-0/,0.02631578947
+Medium - durtee,2019-03-20,17,A.J. Brown,WR,Ole Miss,Fan,https://medium.com/@durteethoughts/post-combine-nfl-mock-draft-91c87bb32835,0.02702702703
+Fansided - Frosbutter,2019-03-20,34,A.J. Brown,WR,Ole Miss,Fan,https://phinphanatic.com/2019/03/20/two-round-2019-nfl-mock-draft/,0.02702702703
+NFL Network - Zierlein,2019-03-21,30,A.J. Brown,WR,Ole Miss,Expert,http://www.nfl.com/news/story/0ap3000001023641/article/lance-zierlein-2019-nfl-mock-draft-20-giants-reload-at-wr-qb,0.02777777778
+Fort Worth Star-Telegram,2019-03-20,22,A.J. Brown,WR,Ole Miss,Media,https://www.star-telegram.com/sports/nfl/dallas-cowboys/article228177239.html,0.02702702703
+NBC Sports Washington - Standig,2019-03-19,33,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/washington/redskins/2019-nfl-mock-draft-170-post-free-agency#slide-33,0.02631578947
+Draft Wire - Easterling,2019-03-19,43,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/2019/03/19/2019-nfl-mock-draft-free-agency-4-rounds-trades-kyler-murray-dwayne-haskins-nick-bosa-josh-allen-quinnen-williams/,0.02631578947
+Walter Football - Cherepinsky,2019-03-13,17,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0313.php,0.02272727273
+LinkedIn - Cook,2019-03-22,17,A.J. Brown,WR,Ole Miss,Fan,https://www.linkedin.com/pulse/2019-nfl-mock-draft-brandon-cook,0.02857142857
+Browns Wire - Dryden,2019-03-22,22,A.J. Brown,WR,Ole Miss,Media,https://brownswire.usatoday.com/2019/03/22/2019-nfl-mock-draft-post-beckham-trade/,0.02857142857
+WKBW - Buscaglia,2019-03-20,32,A.J. Brown,WR,Ole Miss,Media,https://www.wkbw.com/sports/bills/joe-b-2019-nfl-mock-draft-no-1,0.02702702703
+The Game Haus - DiTullio,2019-03-20,20,A.J. Brown,WR,Ole Miss,Fan,https://thegamehaus.com/2019-nfl-mock-draft-march-20/2019/03/20/,0.02702702703
+Twitter - Ropeville Raider,2019-03-21,15,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/RopevilleRaider/status/1108709110537568256,0.02777777778
+Fansided - Lambert,2019-03-20,30,A.J. Brown,WR,Ole Miss,Fan,https://nflmocks.com/2019/03/20/2019-nfl-mock-draft-four-rounds-of-relentless-carnage/,0.02702702703
+Black Sports Online - Jean,2019-03-20,32,A.J. Brown,WR,Ole Miss,Fan,https://blacksportsonline.com/2019/03/take-a-look-at-bsos-2019-mock-draft-1-0/,0.02702702703
+Houston Chronicle - Wilson,2019-03-20,20,A.J. Brown,WR,Ole Miss,Fan,https://www.houstonchronicle.com/sports/texas-sports-nation/texans/article/John-McClain-s-and-Aaron-Wilson-s-2019-NFL-mock-13701890.php,0.02702702703
+Bleacher Report - Knox,2019-03-20,17,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2826519-2019-nfl-mock-draft-updated-order-and-projections-after-free-agency-week-1,0.02702702703
+Twitter - SirGrogshire,2019-03-22,22,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/SirGrogshire/status/1109166840184532993,0.02857142857
+CBS Sports - Trapasso,2019-03-22,47,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/seven-round-nfl-mock-draft-cowboys-start-with-round-2-defender-patriots-swipe-josh-rosen-bears-land-corner-help/,0.02857142857
+Silver and Black Pride - Smith,2019-03-22,19,A.J. Brown,WR,Ole Miss,Fan,https://www.silverandblackpride.com/2019/3/22/18277949/raiderdamus-2019-nfl-mock-draft-round-1,0.02857142857
+Bleacher Report - Moton,2019-03-23,15,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2827335-2019-nfl-mock-draft-1st-round-projections-and-prospects-impacted-by-free-agency,0.02941176471
+Bleacher Report - Roling,2019-03-24,22,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2827473-2019-nfl-mock-draft-1st-round-predictions-for-prospects-with-rising-stock,0.0303030303
+Instagram - ScoutCFB,2019-03-24,34,A.J. Brown,WR,Ole Miss,Fan,https://www.instagram.com/p/BvZnihnFTWW/,0.0303030303
+Instagram - ScoutCFB,2019-02-03,26,A.J. Brown,WR,Ole Miss,Fan,https://www.instagram.com/p/Btb6jnYntY8/,0.01219512195
+247Sports - Cartelli,2019-03-15,40,A.J. Brown,WR,Ole Miss,Media,https://247sports.com/nfl/denver-broncos/ContentGallery/2019-NFL-Mock-Draft-129780592/,0.02380952381
+Bleacher Report - Miller,2019-03-25,28,A.J. Brown,WR,Ole Miss,Expert,https://bleacherreport.com/articles/2827208-2019-nfl-mock-draft-matt-millers-latest-3-round-picks-with-one-month-to-go,0.03125
+CBS Sports - Wilson,2019-03-25,26,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/two-round-2019-nfl-mock-draft-giants-cant-pass-on-dwayne-haskins-patriots-replace-retired-rob-gronkowski-in-round-2/,0.03125
+SB Nation - Kadar,2019-03-25,40,A.J. Brown,WR,Ole Miss,Expert,https://www.sbnation.com/nfl/2019/3/25/18279472/2019-nfl-mock-draft-two-rounds-raiders-kyler-murray-dwayne-haskins,0.03125
+The Draft Network - Sikkema,2019-03-25,22,A.J. Brown,WR,Ole Miss,Expert,https://thedraftnetwork.com/articles/sikkema-s-2019-nfl-mock-draft-7.0,0.03125
+Draft Diamonds - Talbot,2019-03-25,22,A.J. Brown,WR,Ole Miss,Fan,https://www.nfldraftdiamonds.com/2019/03/damond-talbot-mock-draft-2-rounds/,0.03125
+Broncos Europe - Rucker,2019-03-25,22,A.J. Brown,WR,Ole Miss,Fan,https://broncoseurope.com/2019/03/25/rucker-mock-draft-1-0/,0.03125
+Belly Up Sports - Klim,2019-03-25,32,A.J. Brown,WR,Ole Miss,Fan,https://bellyupsports.com/2019/03/kornerbooth-mock-draft-1-0/,0.03125
+Third String Sports - Ellis,2019-03-25,22,A.J. Brown,WR,Ole Miss,Fan,https://thirdstringsports.wixsite.com/third-string-sports/post/nfl-mock-draft-1-0-round-1,0.03125
+The Arizona Republic - McManaman,2019-03-25,22,A.J. Brown,WR,Ole Miss,Media,https://www.azcentral.com/story/sports/nfl/cardinals/2019/03/25/nfl-mock-draft-arizona-cardinals-pick-changes-pressure-big-move/3233014002/,0.03125
+NJ.com - Stypulkoski,2019-03-25,56,A.J. Brown,WR,Ole Miss,Media,https://expo.nj.com/sports/g66l-2019/03/0cc144d2b61619/latest-nfl-mock-draft-2019-redskins-jets-strike-blockbuster-trade-agreement-what-do-giants-do-at-qb-2-full-rounds.html,0.03125
+FF Today - Bales,2019-03-25,32,A.J. Brown,WR,Ole Miss,Fan,http://fftoday.com/articles/jubales/19_nfl_draft2.html,0.03125
+FF Today - Bales,2019-02-25,24,A.J. Brown,WR,Ole Miss,Fan,http://fftoday.com/articles/jubales/19_nfl_draft1.html,0.01666666667
+Twitter - Jack,2019-03-25,20,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/Crack3rJax19/status/1110159411106983936,0.03125
+National Mock Drafts - Whoolery,2019-03-25,22,A.J. Brown,WR,Ole Miss,Fan,https://www.instagram.com/p/BvdAye2nBco/,0.03125
+Fansided - Parson,2019-03-23,61,A.J. Brown,WR,Ole Miss,Fan,https://stripehype.com/2019/03/23/2019-full-two-round-nfl-mock-draft-cincinnati-bengals/,0.02941176471
+Chat Sports - Downey,2019-03-26,26,A.J. Brown,WR,Ole Miss,Fan,https://www.chatsports.com/nfl/a/nfl-mock-draft-post-free-agency-2019-edition-feat-kyler-murray-dwayne-haskins-dk-metcalf-40054,0.03225806452
+Couch Guy Sports,2019-03-25,17,A.J. Brown,WR,Ole Miss,Fan,https://couchguysports.com/nfl-round-1-mock-draft-part-1/,0.03125
+Read American Football,2019-03-26,34,A.J. Brown,WR,Ole Miss,Fan,https://readamericanfootball.com/2019/03/26/2019-nfl-mock-draft-interactive-mock-i/,0.03225806452
+CBS Sports - White,2019-03-27,22,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/three-round-nfl-mock-draft-raiders-redskins-move-into-top-three-for-qbs-as-20-trades-struck-on-first-two-days/,0.03333333333
+Space Aliens Sports,2019-03-27,28,A.J. Brown,WR,Ole Miss,Fan,https://spacealienssports.com/2019/03/27/nfl-mock-draft-2-0/,0.03333333333
+The Game Haus - DiTullio,2019-03-26,20,A.J. Brown,WR,Ole Miss,Fan,https://thegamehaus.com/2019-nfl-mock-draft-march-26/2019/03/26/,0.03225806452
+Penn Live - Gallen,2019-03-27,20,A.J. Brown,WR,Ole Miss,Media,https://www.pennlive.com/philadelphiaeagles/2019/03/nfl-mock-draft-2019-eagles-get-d-lineman-steelers-ravens-add-offensive-talent.html,0.03333333333
+Draft Wire - Easterling,2019-03-27,37,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/2019/03/27/2019-nfl-mock-draft-trades-4-rounds-free-agency-kyler-murray-dwayne-haskins-daniel-jones-drew-lock-will-grier/,0.03333333333
+Fansided - Weiss,2019-03-27,20,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2019/03/27/2019-nfl-mock-draft-kyler-murray-dwayne-haskins/,0.03333333333
+Zone Coverage - Inman,2019-02-06,43,A.J. Brown,WR,Ole Miss,Fan,https://zonecoverage.com/2019/vikings/inman-mock-draft-1-0/,0.01265822785
+Twitter - Moore,2019-03-26,33,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/MooreOnSports/status/1110731765956689920,0.03225806452
+Twitter - Moore,2019-03-27,30,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/DerekDalton49/status/1111055885319720960,0.03333333333
+CBS Sports - Dubin,2019-03-28,24,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-cardinals-and-bengals-land-the-drafts-top-two-quarterbacks/,0.03448275862
+Fansided - Lambert,2019-03-28,26,A.J. Brown,WR,Ole Miss,Fan,https://nflmocks.com/2019/03/28/2019-nfl-mock-draft-trades-trades-and-more-trades/,0.03448275862
+WKBW - Buscaglia,2019-03-28,30,A.J. Brown,WR,Ole Miss,Media,https://www.wkbw.com/sports/bills/joe-b-2019-nfl-mock-draft-no-2,0.03448275862
+Yahoo Sports - Edholm,2019-03-28,34,A.J. Brown,WR,Ole Miss,Media,https://sports.yahoo.com/postfree-agency-nfl-mock-draft-19-surprise-landing-spot-for-qb-dwayne-haskins-154119217.html,0.03448275862
+247Sports - Edwards,2019-03-28,34,A.J. Brown,WR,Ole Miss,Media,https://247sports.com/nfl/arizona-cardinals/LongFormArticle/247Sports-NFL-Mock-Draft-130579747/,0.03448275862
+NFL Network - Reuter,2019-03-28,34,A.J. Brown,WR,Ole Miss,Expert,http://www.nfl.com/news/story/0ap3000001024599/article/fourround-2019-nfl-mock-draft-raiders-fins-trade-up-for-qbs,0.03448275862
+Steel City Underground - Hammes,2019-03-29,51,A.J. Brown,WR,Ole Miss,Fan,https://www.steelcityunderground.com/2019/03/29/hammes-first-round-2019-mock-draft-2/,0.03571428571
+Fantasy Football Metrics - Cromartie,2019-03-29,26,A.J. Brown,WR,Ole Miss,Expert,https://www.fantasyfootballmetrics.net/general-nfl-draft-reports/2019-nfl-mock-draft-1st-round-v3-25,0.03571428571
+CBS Sports - Benjamin,2019-03-29,30,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-steelers-move-up-chargers-trade-out-for-josh-rosen-bucs-nab-round-1-pick-in-gerald-mccoy-deal/,0.03571428571
+Fantasy Football Guidebook - Hendricks,2019-03-29,26,A.J. Brown,WR,Ole Miss,Fan,http://fantasyfootballguidebook.blogspot.com/2019/03/fantasyfootballguidebookcom-2019-nfl.html,0.03571428571
+Third String Sports - Ellis,2019-03-29,22,A.J. Brown,WR,Ole Miss,Fan,https://thirdstringsports.wixsite.com/third-string-sports/post/nfl-mock-draft-2-0-round-1,0.03571428571
+Live 4 Sports Network - Campbell,2019-01-18,9,A.J. Brown,WR,Ole Miss,Fan,https://live4sportnetwork.com/2019-nfl-mock-draft-pre-free-agency-edition/,0.01020408163
+Live 4 Sports Network - Campbell,2019-03-29,18,A.J. Brown,WR,Ole Miss,Fan,https://live4sportnetwork.com/2019-nfl-mock-draft-second-edition/,0.03571428571
+Gabe Thompson,2019-03-31,30,A.J. Brown,WR,Ole Miss,Fan,https://gabethompson.wordpress.com/2019/03/31/2019-nfl-mock-draft/,0.03846153846
+Fansided - McCarthy,2019-03-30,30,A.J. Brown,WR,Ole Miss,Fan,https://buffalowdown.com/2019/03/30/buffalo-bills-complete-first-round-2019-nfl-mock-draft-2-0/,0.03703703704
+The Grueling Truth - Teets,2019-03-30,30,A.J. Brown,WR,Ole Miss,Fan,https://thegruelingtruth.net/football/nfl/sams-2019-nfl-mock-draft-version-1-0/,0.03703703704
+Twitter - ATLSportsNut_19,2019-03-30,27,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/ATLSportsNut_19/status/1111975805662515200,0.03703703704
+Nuts and Bolts Sports - Barnes,2019-03-31,30,A.J. Brown,WR,Ole Miss,Fan,https://nutsandboltssports.com/jeff-barnes-new-mock-draft-2-0/,0.03846153846
+Nuts and Bolts Sports - Barnes,2019-03-30,30,A.J. Brown,WR,Ole Miss,Fan,https://nutsandboltssports.com/mock-draft-2-0-2/,0.03703703704
+Cleveland.com - Bielik,2019-04-01,26,A.J. Brown,WR,Ole Miss,Media,https://expo.cleveland.com/sports/g66l-2019/04/edbed1a0737447/2019-nfl-mock-draft-30-who-will-trade-up-for-dwayne-haskins.html,0.04
+CBS Sports - Wilson,2019-04-01,34,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/three-round-2019-nfl-mock-draft-bills-get-quinnen-williams-patriots-take-two-tes-and-a-qb-redskins-load-up-on-offense/,0.04
+NJ.com - Giglio,2019-04-01,40,A.J. Brown,WR,Ole Miss,Media,https://expo.nj.com/sports/g66l-2019/04/66e1126c308086/latest-nfl-mock-draft-2019-giantseagles-blockbuster-will-be-talked-about-for-years-jets-land-pass-rusher-2-full-rounds.html,0.04
+USA Today - Middlehurst-Schwartz,2019-04-01,32,A.J. Brown,WR,Ole Miss,Media,https://www.usatoday.com/story/sports/nfl/draft/2019/04/01/nfl-mock-draft-2019-kyler-murray-drew-lock-dwayne-haskins/3329156002/,0.04
+FFStatistics - The Draft Genius,2019-04-01,22,A.J. Brown,WR,Ole Miss,Fan,https://www.ffstatistics.com/2019/04/01/ffstatistics-mock-draft-3-00-post-free-agency/,0.04
+The Big Lead - McKeone,2019-04-01,26,A.J. Brown,WR,Ole Miss,Media,https://thebiglead.com/2019/04/01/2019-nfl-mock-draft-miami-steals-top-prospect-and-john-elway-gets-his-guy/,0.04
+Optimum Scouting - Galko,2019-04-01,30,A.J. Brown,WR,Ole Miss,Expert,http://www.optimumscouting.com/news/2019-nfl-mock-draft-1-0-eric-galko,0.04
+Bleacher Report - Moton,2019-04-01,26,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2828094-2019-nfl-mock-draft-could-four-quarterbacks-go-in-the-top-40,0.04
+Alpha Football,2019-04-01,46,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2019/04/2019-4-round-fl-mock-draft-4119-with.html,0.04
+Sports Gaming Rosters,2019-04-01,22,A.J. Brown,WR,Ole Miss,Fan,https://sportsgamingrosters.com/2019/04/01/2019-nfl-mock-draft-april-fools-edition/,0.04
+Yahoo Sports - Williams,2019-04-01,26,A.J. Brown,WR,Ole Miss,Media,https://twitter.com/YahooSportsNFL/status/1112778498395922432,0.04
+Fansided - Schisler,2019-04-01,20,A.J. Brown,WR,Ole Miss,Fan,https://ebonybird.com/2019/04/01/nfl-mock-draft-baltimore-ravens-get-exciting-pass-rusher/,0.04
+WFAN - Citak,2019-04-01,26,A.J. Brown,WR,Ole Miss,Media,https://wfan.radio.com/blogs/matt-citak/2019-nfl-mock-draft-30-josh-allen-jets-dwayne-haskins-giants,0.04
+Fansided - Graham,2019-04-01,22,A.J. Brown,WR,Ole Miss,Fan,https://factoryofsadness.co/2019/04/01/cleveland-browns-2019-two-round-nfl-mock-draft-obj-trade-edition/,0.04
+ESPN Deportes - Pasquel,2019-03-31,22,A.J. Brown,WR,Ole Miss,Media,http://www.espn.com.mx/futbol-americano/nota/_/id/5449719/tercer-ensayo-para-la-primera-ronda-del-draft-2019,0.03846153846
+Maitland's Madness - Maitland,2019-04-01,30,A.J. Brown,WR,Ole Miss,Fan,http://maitlandsmadness.blogspot.com/2019/04/2019-nfl-mock-draft-30-april-1st.html,0.04
+Twitter - oglb20,2019-04-01,20,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/oglb20/status/1112712274412822528,0.04
+Mac Sports and Suds - Belch,2019-03-30,9,A.J. Brown,WR,Ole Miss,Fan,https://macsportandsuds.com/f/belchs-2019-nfl-mock-draft,0.03703703704
+Mac Sports and Suds - Mac,2019-03-31,38,A.J. Brown,WR,Ole Miss,Fan,https://macsportandsuds.com/f/macs-2019-nfl-mock-draft,0.03846153846
+NBC Sports Washington - Standig,2019-04-01,33,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/washington/redskins/2019-nfl-mock-draft-180-post-free-agency,0.04
+Pro Football Focus - Renner & Palazolo,2019-04-02,19,A.J. Brown,WR,Ole Miss,Expert,https://www.profootballfocus.com/news/draft-palazzolo-vs-renner-2019-nfl-mock-draft,0.04166666667
+Yardbarker - Trachtman,2019-04-01,26,A.J. Brown,WR,Ole Miss,Media,https://www.yardbarker.com/nfl/articles/nfl_two_round_mock_draft_april_1_2019/s1__28772087,0.04
+NFL Network - Davis,2019-04-02,30,A.J. Brown,WR,Ole Miss,Media,http://www.nfl.com/news/story/0ap3000001025021/article/charles-davis-2019-nfl-mock-draft-20-bengals-broncos-go-qb,0.04166666667
+Walter Football - Cherepinsky,2019-03-27,17,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0327.php,0.03333333333
+Fansided - Gurzi,2019-04-01,20,A.J. Brown,WR,Ole Miss,Fan,https://nflspinzone.com/2019/04/01/nfl-draft-2019-mock-draft-complete-7-rounds/,0.04
+Sports Blog - Fuller,2019-03-08,33,A.J. Brown,WR,Ole Miss,Fan,https://www.sportsblog.com/fullermetrics/fullers-2019-nfl-mock-draft-20-post-combine/,0.02040816327
+Sports Blog - Fuller,2019-03-27,34,A.J. Brown,WR,Ole Miss,Fan,https://www.sportsblog.com/fullermetrics/fullers-2019-nfl-mock-draft-30-3-rounds/,0.03333333333
+ESPN - Kiper,2019-04-03,36,A.J. Brown,WR,Ole Miss,Expert,http://www.espn.com/nfl/draft2019/insider/story/_/id/26317995/two-round-2019-nfl-mock-draft-dueling-pick-predictions-mel-kiper-todd-mcshay,0.04347826087
+ESPN - McShay,2019-04-03,34,A.J. Brown,WR,Ole Miss,Expert,http://www.espn.com/nfl/draft2019/insider/story/_/id/26317995/two-round-2019-nfl-mock-draft-dueling-pick-predictions-mel-kiper-todd-mcshay,0.04347826087
+Touchdown Actu - Bougeard,2019-03-19,32,A.J. Brown,WR,Ole Miss,Fan,https://www.touchdownactu.com/213188/mock-draft-3-0-kyler-dans-les-pas-de-baker/,0.02631578947
+Touchdown Actu - Bougeard,2018-12-11,23,A.J. Brown,WR,Ole Miss,Fan,https://www.touchdownactu.com/206573/mock-draft-2019-1-0-le-gang-des-williams/,0.007352941176
+NFL Draft Scout - Serritella,2019-04-02,26,A.J. Brown,WR,Ole Miss,Expert,https://footballmaven.io/nfldraftscout/mocks/serritella-mock-draft-2-0-_oiqZBel-EWDrRpU5B91SQ/,0.04166666667
+Coast to Coast Sports - Watt,2019-04-02,30,A.J. Brown,WR,Ole Miss,Fan,https://coast2coastsports.home.blog/2019/04/02/mock-nfl-draft-22-days-to-go/,0.04166666667
+Twitter - oglb20,2019-04-03,20,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/oglb20/status/1113440051143299072,0.04347826087
+Facebook - Jakubosky,2019-04-03,36,A.J. Brown,WR,Ole Miss,Fan,https://www.facebook.com/100000279535537/posts/2349472421738719?sfns=mo,0.04347826087
+Fake Teams - Rogers,2019-04-03,30,A.J. Brown,WR,Ole Miss,Fan,https://www.faketeams.com/2019/4/3/18293928/2019-nfl-mock-draft-1-0-the-packers-get-much-more-explosive-on-offense,0.04347826087
+San Diego Union-Tribune - Brown,2019-04-03,34,A.J. Brown,WR,Ole Miss,Media,https://www.sandiegouniontribune.com/sports/story/2019-04-03/nfl-mock-draft-2019-three-round-projections,0.04347826087
+Draft Wire - Easterling,2019-04-03,34,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/2019/04/03/2019-nfl-mock-draft-kyler-murray-trade-raiders-cardinals-dwayne-haskins-drew-lock-nick-bosa/,0.04347826087
+CBS Sports - Trapasso,2019-04-05,22,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/two-round-2019-nfl-mock-draft-chiefs-trade-up-as-part-of-big-haul-packers-land-top-rb-in-round-2/,0.04761904762
+WIBW News - Dzwierzynski,2019-04-04,22,A.J. Brown,WR,Ole Miss,Fan,http://www.wibwnewsnow.com/brendans-bits-nfl-mock-draft-1-0/,0.04545454545
+Third String Sports - Ellis,2019-04-03,22,A.J. Brown,WR,Ole Miss,Fan,https://thirdstringsports.wixsite.com/third-string-sports/post/nfl-mock-draft-3-0-round-1,0.04347826087
+Twitter - Alpha_Eevee,2019-04-03,19,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/Alpha_Eevee/status/1113648182313906176,0.04347826087
+Athlon Sports - Lamb,2019-04-04,26,A.J. Brown,WR,Ole Miss,Fan,https://athlonsports.com/nfl/three-round-2019-nfl-mock-draft,0.04545454545
+NJ.com - Dunleavy,2019-04-04,33,A.J. Brown,WR,Ole Miss,Media,https://expo.nj.com/sports/g66l-2019/04/4a50559aec2131/nfl-mock-draft-2019-3-surprise-trades-in-2-rounds-dolphins-jump-giants-patriots-replace-rob-gronkowski-dwayne-haskins-josh-rosen-landing-spots.html,0.04545454545
+WKBW - Buscaglia,2019-04-04,32,A.J. Brown,WR,Ole Miss,Media,https://www.wkbw.com/sports/bills/joe-b-2019-nfl-mock-draft-no-3,0.04545454545
+Fansided - Camenker,2019-04-05,26,A.J. Brown,WR,Ole Miss,Fan,https://riggosrag.com/2019/04/05/nfl-mock-draft-6-0-dueling-gm-mock-sees-redskins-land-edge-help/,0.04761904762
+WHIP - Kofsky,2019-04-03,22,A.J. Brown,WR,Ole Miss,Fan,https://www.whipradiotu.com/2019-nfl-mock-draft-2-0-2/,0.04347826087
+RotoExperts - Mattek,2019-04-04,20,A.J. Brown,WR,Ole Miss,Fan,https://rotoexperts.com/270578/2019-first-round-nfl-mock-draft-2/,0.04545454545
+NFL Network - Frelund,2019-04-04,34,A.J. Brown,WR,Ole Miss,Expert,http://www.nfl.com/news/story/0ap3000001025384/article/analyticsbased-mock-draft-quinnen-williams-to-cards-qbs-fall,0.04545454545
+Twitter - lamarjacksonyo,2019-04-05,26,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/lamarjacksonyo/status/1114167515796602880,0.04761904762
+No Huddle Sports - Smith,2019-04-05,30,A.J. Brown,WR,Ole Miss,Fan,https://www.nohuddlesports.com/single-post/2019/04/05/2019-NFL-Mock-Draft-20,0.04761904762
+No Huddle Sports - Smith,2019-03-23,30,A.J. Brown,WR,Ole Miss,Fan,https://www.nohuddlesports.com/single-post/2019/03/23/2019-NFL-Mock-Draft,0.02941176471
+97.3 FM ESPN - McMullen,2019-04-05,22,A.J. Brown,WR,Ole Miss,Media,https://973espn.com/nfl-mock-draft-1-0/,0.04761904762
+WGR 550 AM - Geary,2019-04-05,41,A.J. Brown,WR,Ole Miss,Media,https://wgr550.radio.com/articles/opinion/2019-nfl-mock-draft-no-1,0.04761904762
+Bleacher Report - Roling,2019-04-05,22,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2829654-nfl-mock-draft-2019-bold-1st-round-projections-for-top-prospects,0.04761904762
+Draft Plex - Pruett,2019-04-05,22,A.J. Brown,WR,Ole Miss,Fan,https://nfldraftplex.com/2019/04/05/2019-nfl-mock-draft-3-0/,0.04761904762
+Queue Sports - Queue,2019-04-01,30,A.J. Brown,WR,Ole Miss,Fan,https://queuesports.wordpress.com/2019/04/01/nfl-mock-draft-4-5/,0.04
+3COSPORTS,2019-04-05,23,A.J. Brown,WR,Ole Miss,Fan,https://3cosports.com/2019/04/05/2019-nfl-mock-draft/,0.04761904762
+Twitter - RealJagsViceGM,2019-04-05,30,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/RealJagsViceGM/status/1114233246298959872,0.04761904762
+Instagram - Polite,2019-04-06,22,A.J. Brown,WR,Ole Miss,Fan,https://www.instagram.com/p/Bv5tAtvFtXR/,0.05
+Ade's Athletics,2019-04-06,24,A.J. Brown,WR,Ole Miss,Fan,https://adeathletics.wordpress.com/2019/04/06/2019-nfl-mock-draft/,0.05
+WGR 550 AM - Kramer,2019-04-06,38,A.J. Brown,WR,Ole Miss,Media,https://wgr550.radio.com/articles/opinion/kramer-2019-nfl-mock-draft-no-1,0.05
+Twitter - David2k01MM8,2019-04-06,26,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/David2k01MM8/status/1114646718421831681,0.05
+Twitter - yougotime31,2019-04-07,15,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/yougotime31/status/1114928383769628673,0.05263157895
+Dual Threat Sports - Lewis,2019-04-07,27,A.J. Brown,WR,Ole Miss,Fan,https://dualthreatsports.home.blog/2019/04/07/nfl-mock-draft-2-0/,0.05263157895
+Bleacher Report - McCrystal,2019-04-07,32,A.J. Brown,WR,Ole Miss,Expert,https://bleacherreport.com/articles/2829996-2019-nfl-mock-draft-1st-round-predictions-for-nations-top-prospects,0.05263157895
+Twitter - TheJoeyMcNeely (Joe),2019-04-07,27,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/TheJoeyMcNeely/status/1114782914057781249,0.05263157895
+Twitter - TheJoeyMcNeely (Ryan),2019-04-07,22,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/TheJoeyMcNeely/status/1114782914057781249,0.05263157895
+Tailgate Sports - Buccini,2019-04-04,26,A.J. Brown,WR,Ole Miss,Fan,http://tailgatesportsentertainment.com/2019-nfl-mock-draft-6-0-post-fa-with-trades/,0.04545454545
+Tailgate Sports - Buccini,2018-12-21,32,A.J. Brown,WR,Ole Miss,Fan,http://tailgatesportsentertainment.com/2019-nfl-mock-draft-2-0/,0.007936507937
+Tailgate Sports - Buccini,2018-11-16,30,A.J. Brown,WR,Ole Miss,Fan,http://tailgatesportsentertainment.com/2019-nfl-mock-draft/,0.006211180124
+Instagram - roctalksfootball,2019-04-07,30,A.J. Brown,WR,Ole Miss,Fan,https://www.instagram.com/p/Bv9eQCMlt07/,0.05263157895
+Instagram - roctalksfootball,2019-02-20,33,A.J. Brown,WR,Ole Miss,Fan,https://www.instagram.com/p/BuIRn5slHGV/,0.01538461538
+Rotoworld - Norris,2019-04-07,30,A.J. Brown,WR,Ole Miss,Expert,https://www.rotoworld.com/article/mock-draft/mock-draft-two-weeks-away,0.05263157895
+Dayton Daily News - Holmes,2019-04-07,26,A.J. Brown,WR,Ole Miss,Media,https://www.daytondailynews.com/sports/nfl-mock-draft-2019-possibly-for-bengals-first-round/bS4MAnnEaLUYZYEQI2PE1I/,0.05263157895
+The Grueling Truth - Teets,2019-04-07,30,A.J. Brown,WR,Ole Miss,Fan,https://thegruelingtruth.net/football/nfl/sams-2019-nfl-mock-draft-version-2-0/,0.05263157895
+SB Nation - Kadar,2019-04-08,32,A.J. Brown,WR,Ole Miss,Expert,https://www.sbnation.com/nfl/2019/4/8/18299161/2019-nfl-mock-draft-defense-ed-oliver-quinnen-williams-nick-bosa-brian-burns,0.05555555556
+Seahawks Draft Blog - Staton,2019-04-07,30,A.J. Brown,WR,Ole Miss,Fan,http://seahawksdraftblog.com/three-round-mock-draft-seahawks-seven-round-mock,0.05263157895
+RealGM - Risdon,2019-04-08,26,A.J. Brown,WR,Ole Miss,Media,https://football.realgm.com/analysis/3145/The-2019-What-Jeff-Risdon-Would-Do-Nfl-Mock-Draft,0.05555555556
+Twitter - oglb20,2019-04-08,25,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/oglb20/status/1115263089371484161,0.05555555556
+Fantasy Pros - Tagliere,2019-04-08,12,A.J. Brown,WR,Ole Miss,Fan,https://www.fantasypros.com/2019/04/mike-taglieres-nfl-mock-draft-2019-two-rounds-5-0/,0.05555555556
+Bleacher Report - Gagnon,2019-04-08,30,A.J. Brown,WR,Ole Miss,Media,https://bleacherreport.com/articles/2829970-2019-nfl-mock-draft-could-kyler-murray-slide,0.05555555556
+CaveMen RadioShow - Kim,2019-03-01,26,A.J. Brown,WR,Ole Miss,Fan,http://www.cavemenradioshow.com/nfl-pre-combine-mock-draft-1-0/,0.01785714286
+Fansided - Poling,2019-04-08,22,A.J. Brown,WR,Ole Miss,Fan,https://saturdayblitz.com/2019/04/08/2019-nfl-mock-draft-four-quarterbacks-chosen-on-day-1/,0.05555555556
+NJ.com - Slater,2019-04-08,34,A.J. Brown,WR,Ole Miss,Media,https://expo.nj.com/sports/g66l-2019/04/04dc72c4a74205/lates-nfl-mock-draft-2019-big-surprises-jetsgiants-trade-in-2round-projection-where-do-kyler-murray-dwayne-haskins-nick-bosa-land.html,0.05555555556
+Buffalo Fanatics - Bannatyne,2019-04-08,26,A.J. Brown,WR,Ole Miss,Fan,https://thebuffalofanatics.com/2019/04/08/sunday-evening-full-two-round-2019-nfl-mock-draft/,0.05555555556
+The Sports Corner - Engel,2019-04-08,30,A.J. Brown,WR,Ole Miss,Fan,https://zachengel1.blogspot.com/2019/04/2019-nfl-draft-post-combine-mock-30-two.html,0.05555555556
+NBC Sports Washington - Standig,2019-04-08,33,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/washington/redskins/2019-nfl-mock-draft-190-where-will-lsus-devin-white-fall,0.05555555556
+CBS Sports - Wilson,2019-04-08,26,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/three-round-2019-nfl-mock-draft-four-qbs-go-in-top-15-but-broncos-wait-until-round-3-steelers-target-offense/,0.05555555556
+Alpha Football,2019-04-08,43,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2019/04/2019-nfl-4-round-mock-draft-4819-with.html,0.05555555556
+Football Fan Spot - Lourie,2019-04-06,26,A.J. Brown,WR,Ole Miss,Fan,https://footballfanspot.com/2019/04/06/2019-nfl-mock-draft/,0.05
+The Athletic - Brugler,2019-04-08,26,A.J. Brown,WR,Ole Miss,Expert,https://theathletic.com/909149/2019/04/08/dane-bruglers-mock-draft-5-0-projecting-all-seven-rounds-and-all-254-selections/,0.05555555556
+Draft Wire - Easterling,2019-04-08,38,A.J. Brown,WR,Ole Miss,Media,https://draftwire.usatoday.com/2019/04/08/2019-nfl-mock-draft-7-rounds-kyler-murray-dwayne-haskins-drew-lock-daniel-jones-nick-bosa-quinnen-williams/,0.05555555556
+Fansided - Perez,2019-04-09,27,A.J. Brown,WR,Ole Miss,Fan,https://withthefirstpick.com/2019/04/08/2019-nfl-mock-draft-quinnen-williams-kyler-murray-first-round/,0.05882352941
+Fantasy Football Metrics - Cromartie,2019-04-09,26,A.J. Brown,WR,Ole Miss,Expert,https://www.fantasyfootballmetrics.net/general-nfl-draft-reports/2019-nfl-mock-draft-1st-round-v4-0,0.05882352941
+Twitter - Ropeville Raider,2019-04-09,15,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/RopevilleRaider/status/1115507150795620366,0.05882352941
+Yardbarker - Trachtman,2019-04-09,22,A.J. Brown,WR,Ole Miss,Media,https://www.yardbarker.com/nfl/articles/nfl_three_round_mock_draft_april_8_2019/s1__28827200,0.05882352941
+NFL Network - Casserly,2019-04-09,26,A.J. Brown,WR,Ole Miss,Expert,http://www.nfl.com/news/story/0ap3000001025626/article/charley-casserly-2019-nfl-mock-draft-20-giants-patriots-go-qb,0.05882352941
+Pro Football Weekly - Mosher,2019-04-03,26,A.J. Brown,WR,Ole Miss,Media,https://www.profootballweekly.com/lists/2019/04/02/15119255/,0.04347826087
+Jacksonville Jaguars - Oehser,2019-04-04,30,A.J. Brown,WR,Ole Miss,Media,https://www.jaguars.com/news/jaguars-com-mock-draft-2-0-too-good-to-pass,0.04545454545
+Scout Fantasy Sports - Morales-Smith,2019-04-05,30,A.J. Brown,WR,Ole Miss,Fan,https://scoutfantasysports.com/2019-nfl-mock-draft-3-qbs-in-the-top-7/,0.04761904762
+247Sports - Cartelli,2019-04-03,36,A.J. Brown,WR,Ole Miss,Media,https://247sports.com/ContentGallery/2019-NFL-Mock-Draft-129780592/,0.04347826087
+New Arena - Fray,2019-04-09,30,A.J. Brown,WR,Ole Miss,Fan,http://newarena.com/nfl/a-look-at-new-arenaas-latest-2019-nfl-mock-draft/,0.05882352941
+Pacific Takes - Follman,2019-04-09,22,A.J. Brown,WR,Ole Miss,Fan,https://www.pacifictakes.com/2019/4/9/18302341/2019-pacific-takes-nfl-mock-draft-4-9-19-andre-dillard-goes-to-vikings-in-first-round,0.05882352941
+Walter Football - Cherepinsky,2019-04-03,26,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0403.php,0.04347826087
+Fansided - Weiss,2019-04-10,30,A.J. Brown,WR,Ole Miss,Fan,https://fansided.com/2019/04/10/2019-nfl-mock-draft-dwayne-haskins-giants-rumors/,0.0625
+Twitter - oglb20,2019-04-10,12,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/oglb20/status/1115969853473611777,0.0625
+The Game Haus - DiTullio,2019-04-09,22,A.J. Brown,WR,Ole Miss,Fan,https://thegamehaus.com/2019-nfl-mock-draft-april-9/2019/04/09/,0.05882352941
+ESPN - Kiper,2019-04-10,46,A.J. Brown,WR,Ole Miss,Expert,http://www.espn.com/nfl/draft2019/insider/story/_/id/26367830/grade-three-round-2019-nfl-mock-draft-mel-kiper-plays-gm-all-32-teams,0.0625
+Scout Fantasy Sports - Brandon,2019-04-10,32,A.J. Brown,WR,Ole Miss,Fan,https://scoutfantasysports.com/2019-nfl-mock-draft-brandon/,0.0625
+ESPN - McShay,2019-04-10,34,A.J. Brown,WR,Ole Miss,Expert,http://www.espn.com/nfl/draft2019/insider/story/_/id/26464701/mcshay-best-case-three-round-nfl-mock-draft-how-all-32-teams-get-a,0.0625
+Inside the Star - Rodriguez,2019-04-10,22,A.J. Brown,WR,Ole Miss,Fan,https://insidethestar.com/mauricios-2019-nfl-mock-draft-1-0/,0.0625
+Twitter - attilaLSG,2019-04-10,51,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/attilaLSG/status/1116048583273246720,0.0625
+CBS Sports - White,2019-04-10,32,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/seven-round-nfl-mock-draft-2019-254-picks-34-trades-and-full-breakdowns-for-all-32-teams/,0.0625
+SPOX - Franke,2019-04-11,22,A.J. Brown,WR,Ole Miss,Fan,http://www.spox.com/de/sport/ussport/nfl/1904/diashows/mock-draft-2019/cardinals-49ers-patriots-seahawks-packers.html,0.06666666667
+Bleacher Report - Knox,2019-04-11,30,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2830748-2019-nfl-mock-draft-1st-round-predictions-landing-spots-for-top-prospects,0.06666666667
+NJ.com - Rosenblatt,2019-04-11,22,A.J. Brown,WR,Ole Miss,Media,https://expo.nj.com/sports/g66l-2019/04/1ac3d7c7e46052/latest-nfl-mock-draft-2019-would-giants-pick-daniel-jones-over-dwayne-haskins-plus-jets-trade-back-eagles-trade-up-in-2round-projection.html,0.06666666667
+Yahoo Sports - Edholm,2019-04-11,32,A.J. Brown,WR,Ole Miss,Media,https://sports.yahoo.com/news/nfl-mock-draft-just-how-far-might-ohio-state-qb-dwayne-haskins-slide-155844685.html,0.06666666667
+Twitter - GridironTakes,2019-04-11,22,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/GridironTakes/status/1116400240498753539,0.06666666667
+White Wolf Sports - Chappine,2019-04-11,20,A.J. Brown,WR,Ole Miss,Fan,https://www.whitewolfsports.com/nfl/2019-nfl-mock-draft-two-weeks-until-the-draft/,0.06666666667
+WGR 550 AM - Capaccio,2019-04-02,37,A.J. Brown,WR,Ole Miss,Media,https://wgr550.radio.com/articles/opinion/capaccio-2019-nfl-mock-draft-no-1,0.04166666667
+CBS Sports - Dubin,2019-04-11,24,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-colts-trade-up-for-dynamic-receiver-jets-move-down-but-still-get-pass-rush-help/,0.06666666667
+CBS Sports - Trapasso,2019-04-12,36,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/two-round-2019-nfl-mock-draft-dwayne-haskins-slips-out-of-top-20-after-giants-take-different-qb/,0.07142857143
+Twitter - RealJagsViceGM,2019-04-12,30,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/RealJagsViceGM/status/1116690877290651648,0.07142857143
+Fox Sports - Klatt,2019-04-12,30,A.J. Brown,WR,Ole Miss,Media,https://twitter.com/joelklatt/status/1116558586711171072,0.07142857143
+Twitter - Castro,2019-04-12,9,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/BrandonCee/status/1116781021683261440,0.07142857143
+Fantasy Couch - Aksu,2019-03-27,22,A.J. Brown,WR,Ole Miss,Fan,https://www.fantasycouch.com/2019/03/2019-nfl-mock-draft/,0.03333333333
+Fantasy Couch - Mital,2019-03-27,19,A.J. Brown,WR,Ole Miss,Fan,https://www.fantasycouch.com/2019/03/2019-nfl-mock-draft/,0.03333333333
+Fansided - Graham,2019-04-12,22,A.J. Brown,WR,Ole Miss,Fan,https://factoryofsadness.co/2019/04/12/cleveland-browns-factory-sadness-2019-mock-draft-version-3-0/,0.07142857143
+Fansided - Camenker,2019-04-13,26,A.J. Brown,WR,Ole Miss,Fan,https://riggosrag.com/2019/04/13/nfl-mock-draft-7-0-giants-patriots-trade-up-redskins-land-defensive-help/,0.07692307692
+Bleacher Report - Knox,2019-04-13,30,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2831090-2019-nfl-mock-draft-predictions-for-mid-first-round-prospects,0.07692307692
+Twitter - Kirwan & Miller,2019-04-12,39,A.J. Brown,WR,Ole Miss,Media,https://twitter.com/SiriusXMNFL/status/1116836318066237442,0.07142857143
+Twitter - Silva,2019-04-13,30,A.J. Brown,WR,Ole Miss,Expert,https://twitter.com/evansilva/status/1116919363729285120,0.07692307692
+San Diego Union-Tribune - Brown,2019-04-12,32,A.J. Brown,WR,Ole Miss,Media,https://www.sandiegouniontribune.com/sports/story/2019-04-12/nfl-mock-draft-2019-first-round,0.07142857143
+Chiefs Wire - Goldman,2019-04-13,20,A.J. Brown,WR,Ole Miss,Media,https://chiefswire.usatoday.com/gallery/2019-nfl-draft-first-round-mock-draft-version-2/,0.07692307692
+Bro Football Talk - BYoung,2019-04-13,26,A.J. Brown,WR,Ole Miss,Fan,https://bftpodcast.wixsite.com/2019/mock-draf-1-0,0.07692307692
+Twitter - MiamiAlejandro,2019-04-14,29,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/MiamiAlejandro/status/1117461512996761607,0.08333333333
+The Ringer - Kelly,2019-04-15,22,A.J. Brown,WR,Ole Miss,Expert,https://www.theringer.com/nfl/2019/4/15/18308403/nfl-mock-draft-5-nick-bosa-jets-quinnen-williams,0.09090909091
+Bleacher Report - Davenport,2019-04-15,22,A.J. Brown,WR,Ole Miss,Media,https://bleacherreport.com/articles/2830772-2019-nfl-mock-draft-bold-trade-by-broncos-shakes-up-first-round,0.09090909091
+CBS Sports - Fornelli,2019-04-16,31,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-broncos-put-ed-oliver-between-von-miller-and-bradley-chubb-skins-trade-into-top-5/,0.1
+Fantasy Pros - Tagliere,2019-04-15,20,A.J. Brown,WR,Ole Miss,Fan,https://www.fantasypros.com/2019/04/ideal-first-round-picks-for-nfl-teams-2019-mock-draft/,0.09090909091
+Fansided - Schmelzer,2019-04-16,30,A.J. Brown,WR,Ole Miss,Fan,https://nflspinzone.com/2019/04/16/nfl-mock-draft-2019-broncos-falcons-colts-trades/,0.1
+National Mock Drafts - Whoolery,2019-04-15,15,A.J. Brown,WR,Ole Miss,Fan,https://www.instagram.com/p/BwTJA1dlzR0/,0.09090909091
+Gridiron Experts - Patraw,2019-04-15,30,A.J. Brown,WR,Ole Miss,Fan,https://gridironexperts.com/nfl-mock-draft-first-round-2019,0.09090909091
+Ross' Rants - Ross,2019-04-14,32,A.J. Brown,WR,Ole Miss,Fan,https://arijross.wordpress.com/2019/04/14/2019-nfl-mock-draft-3-0-post-free-agency-edition/,0.08333333333
+Instagram - sportswithsully,2019-04-15,20,A.J. Brown,WR,Ole Miss,Fan,https://www.instagram.com/p/BwTKeN5Fuim/,0.09090909091
+Twitter - GMAN522,2019-04-15,15,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/_GMAN522_/status/1117892975827111936,0.09090909091
+Twitter - Salinas,2019-04-15,22,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/abetheape38/status/1117972432311263232,0.09090909091
+Twitter - oglb20,2019-04-15,17,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/oglb20/status/1117802065307361280,0.09090909091
+Twitter - CFBDebatePoll,2019-04-15,26,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/CFBDebatePoll/status/1117849324979773440,0.09090909091
+The Sports Column - Feirman,2019-04-14,26,A.J. Brown,WR,Ole Miss,Fan,http://www.thesportscol.com/2019/04/nfl-draft-first-round-predictions/,0.08333333333
+Maitland's Madness - Maitland,2019-04-15,16,A.J. Brown,WR,Ole Miss,Fan,https://maitlandsmadness.blogspot.com/2019/04/2019-nfl-mock-draft-50-april-15th.html,0.09090909091
+Full 10 Yards - Tim,2019-04-06,30,A.J. Brown,WR,Ole Miss,Fan,https://full10yards.com/2019/04/06/tims-mock-draft-1-0/,0.05
+Full 10 Yards - Tim,2019-04-14,41,A.J. Brown,WR,Ole Miss,Fan,https://full10yards.com/2019/04/14/mock-draft-6-0-3-round-mock/,0.08333333333
+Cleveland.com - Bielik,2019-04-15,26,A.J. Brown,WR,Ole Miss,Fan,https://expo.cleveland.com/sports/g66l-2019/04/b2105e373e8908/2019-nfl-mock-draft-40-what-if-the-cleveland-browns-trade-back-into-the-first-round.html,0.09090909091
+NJ.com - Lombardo,2019-04-15,26,A.J. Brown,WR,Ole Miss,Fan,https://expo.nj.com/sports/g66l-2019/04/96d1d827a73886/nfl-mock-draft-2019-kyler-murray-or-nick-bosa-no-1-what-will-giants-do-with-two-firstround-picks-complete-2-round-projection.html,0.09090909091
+USA Today - Davis,2019-04-16,30,A.J. Brown,WR,Ole Miss,Fan,https://www.usatoday.com/story/sports/nfl/draft/2019/04/16/nfl-mock-draft-trade-kyler-murray-cardinals-nick-bosa/3416193002/,0.1
+Bergen Record,2019-04-15,22,A.J. Brown,WR,Ole Miss,Fan,https://www.northjersey.com/story/sports/nfl/2019/04/15/nfl-mock-draft-2019-usa-today-network-northeast-writers-make-picks-giants-eagles-jets-bills/3414944002/,0.09090909091
+Soapbox Sports,2019-04-16,22,A.J. Brown,WR,Ole Miss,Fan,https://www.soapboxsports.com/soapbox-sports/2019/4/16/nfl-mock-draft-2019,0.1
+Rotowire - McKechnie,2019-04-12,17,A.J. Brown,WR,Ole Miss,Fan,https://www.rotowire.com/football/article.php?id=45124,0.07142857143
+Sports Burd - Kronethal,2019-04-15,30,A.J. Brown,WR,Ole Miss,Fan,https://sportsburd.com/2019/04/15/2019-nfl-mock-draft-2-0/,0.09090909091
+Yardbarker - Trachtman,2019-04-15,26,A.J. Brown,WR,Ole Miss,Fan,https://www.yardbarker.com/nfl/articles/nfl_three_round_mock_draft_april_15_2019/s1__28881371,0.09090909091
+NBC Sports Washington - Standig,2019-04-15,33,A.J. Brown,WR,Ole Miss,Fan,https://www.nbcsports.com/washington/redskins/2019-nfl-mock-draft-200-drew-lock-second-qb-board,0.09090909091
+Alpha Football,2019-04-15,26,A.J. Brown,WR,Ole Miss,Fan,https://alphafootballexpert.blogspot.com/2019/04/2019-4-round-nfl-mock-draft-41519-with.html,0.09090909091
+NBC Sports Boston - Perry,2019-04-15,21,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/boston/patriots/phil-perrys-nfl-mock-draft-50,0.09090909091
+Fake Teams - Rogers,2019-04-12,32,A.J. Brown,WR,Ole Miss,Fan,https://www.faketeams.com/2019/4/12/18307479/2019-nfl-mock-draft-2-0-what-if-kyler-murray-doesnt-go-first-overall,0.07142857143
+New England Patriots - Banks,2019-04-17,25,A.J. Brown,WR,Ole Miss,Media,https://www.patriots.com/news/don-banks-2019-nfl-mock-draft-3-0,0.1111111111
+Sports Illustrated - Vrentas,2019-04-17,30,A.J. Brown,WR,Ole Miss,Media,https://www.si.com/nfl/2019/04/17/mock-draft-kyler-murray-cardinals-daniel-jones-bengals-dwayne-haskins-washington,0.1111111111
+San Diego Union-Tribune - Brown,2019-04-17,32,A.J. Brown,WR,Ole Miss,Media,https://www.sandiegouniontribune.com/sports/story/2019-04-17/nfl-mock-draft-2019-first-round-predictions,0.1111111111
+NJ.com - Kaye,2019-04-17,34,A.J. Brown,WR,Ole Miss,Media,https://expo.nj.com/sports/g66l-2019/04/03ccb7f5d67263/latest-nfl-mock-draft-2019-giants-land-qb-in-blockbuster-trade-up-jets-add-pass-rusher-eagles-improve-defensive-front-2round-projection.html,0.1111111111
+Bleacher Report - Roling,2019-04-17,22,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2831744-nfl-mock-draft-2019-1st-round-projections-latest-top-prospects-stock-watch,0.1111111111
+The Buffalo Hooft - Eric B.,2019-04-17,28,A.J. Brown,WR,Ole Miss,Fan,https://buffalohoof.com/2019/04/17/eric-bs-nfl-mock-draft-4-0-with-trades/,0.1111111111
+Armchair Analysis - Wilson,2019-04-17,27,A.J. Brown,WR,Ole Miss,Fan,https://armchairanalysissite.wordpress.com/2019/04/17/nfl-mock-draft-2019-charlie-wilson-2-0/,0.1111111111
+97.1 FM - Stoney,2019-04-16,22,A.J. Brown,WR,Ole Miss,Media,https://971theticket.radio.com/articles/stoneys-nfl-mock-draft,0.1
+Twitter - oglb20,2019-04-17,20,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/oglb20/status/1118529321205997569,0.1111111111
+247Sports - Edwards,2019-04-17,23,A.J. Brown,WR,Ole Miss,Media,https://247sports.com/college/iowa/LongFormArticle/247Sports-NFL-Mock-Draft-131263930/,0.1111111111
+The Huddle - Bonini,2019-04-16,22,A.J. Brown,WR,Ole Miss,Media,http://thehuddle.com/2019/04/16/2019-nfl-mock-draft/,0.1
+The Unfiltered Sports Network - Norton,2019-04-17,22,A.J. Brown,WR,Ole Miss,Fan,http://unfilteredsportsnetwork.com/norton-2-round-mock-draft-3-0/,0.1111111111
+Twitter - Kamla,2019-04-17,22,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/NBATVRick/status/1118682031523864582,0.1111111111
+Twitter - The Irish Titans,2019-04-17,26,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/irish_titans/status/1118640017004478464,0.1111111111
+Walter Football - Cherepinsky,2019-04-10,26,A.J. Brown,WR,Ole Miss,Expert,http://walterfootball.com/draft2019archive0410.php,0.0625
+ESPN - McShay & Kiper,2019-04-18,43,A.J. Brown,WR,Ole Miss,Expert,http://www.espn.com/nfl/draft2019/insider/story/_/id/26491692/three-round-2019-nfl-mock-draft-kiper-mcshay-go-head-head,0.125
+Seahawks Draft Blog - Staton,2019-04-17,44,A.J. Brown,WR,Ole Miss,Fan,http://seahawksdraftblog.com/new-mock-draft-17th-february,0.1111111111
+All Saints Considered - Belyeu,2019-04-17,29,A.J. Brown,WR,Ole Miss,Fan,https://www.allsaintsconsidered.com/single-post/2019/04/17/Colin-Beyleus-2-Round-NFL-Mock-Draft,0.1111111111
+Guy Boston Sports - Nason,2019-04-18,30,A.J. Brown,WR,Ole Miss,Fan,https://www.guybostonsports.com/posts/nasons-2019-nfl-mock-draft-20,0.125
+Twitter - Kunkle,2019-04-18,40,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/PigskinEdge/status/1118842396513583104,0.125
+Jacksonville Jaguars - Oehser,2019-04-15,26,A.J. Brown,WR,Ole Miss,Media,https://www.jaguars.com/news/jaguars-com-mock-draft-3-0-on-the-edge,0.09090909091
+NFL Fan Blitz - Clark,2019-04-18,30,A.J. Brown,WR,Ole Miss,Fan,http://nflfanblitz.com/clarkmockdraft/,0.125
+Twitter - Rainer,2019-04-18,20,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/yougotime31/status/1118921358954639360,0.125
+Liebau Sports - Liebau,2019-04-18,22,A.J. Brown,WR,Ole Miss,Fan,https://liebausports.wordpress.com/2019/04/18/final-2019-nfl-mock-draft/,0.125
+KSHB 41 - Palmer,2019-04-18,32,A.J. Brown,WR,Ole Miss,Media,https://www.kshb.com/sports/palmer-mock-draft-chiefs-will-need-to-be-active-to-address-dl,0.125
+Fantasy Football Champs,2019-04-17,32,A.J. Brown,WR,Ole Miss,Fan,http://www.ffchamps.com/content/6660/2019-nfl-mock-draft-10/,0.1111111111
+Clutch Points - Huberman,2019-04-18,16,A.J. Brown,WR,Ole Miss,Fan,https://clutchpoints.com/clutchpoints-2019-nfl-mock-draft-the-final-edition/,0.125
+Twitter - 91.3 FM WVUD Sports,2019-04-18,26,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/wvudsports/status/1118999354122088450,0.125
+Unbuttoned & Rotoworld,2019-04-18,30,A.J. Brown,WR,Ole Miss,Expert,https://twitter.com/CSimmsQB/status/1119013262593593345,0.125
+WKBW - Buscaglia,2019-04-18,34,A.J. Brown,WR,Ole Miss,Media,https://www.wkbw.com/sports/bills/joe-b-2019-nfl-mock-draft-no-5,0.125
+CBS Sports - Wilson,2019-04-18,32,A.J. Brown,WR,Ole Miss,Media,https://www.cbssports.com/nfl/draft/news/seven-round-2019-nfl-mock-draft-raiders-surprise-at-no-4-lock-goes-before-haskins-bears-start-on-o-line/,0.125
+NJ.com - Stypulkoski,2019-04-19,40,A.J. Brown,WR,Ole Miss,Media,https://expo.nj.com/sports/g66l-2019/04/2c0e0d60b14931/nfl-mock-draft-2019-could-jets-dolphins-strike-rivalry-trade-deal-will-giants-finally-grab-a-qb-kyler-murray-or-nick-bosa-no-1-full-2round-projection.html,0.1428571429
+Fantasy Pros - Byfield,2019-04-19,26,A.J. Brown,WR,Ole Miss,Fan,https://www.fantasypros.com/2019/04/nfl-mock-draft-2019-first-round-2-0/,0.1428571429
+Twitter - Ropeville Raider,2019-04-19,12,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/RopevilleRaider/status/1119195877367664640,0.1428571429
+KSHB 41 - Jacobs,2019-04-19,30,A.J. Brown,WR,Ole Miss,Media,https://www.kshb.com/sports/nick-jacobs-mock-draft-chiefs-address-cornerback-concern-in-first-round,0.1428571429
+Larry Brown Sports - Lisk,2019-04-19,30,A.J. Brown,WR,Ole Miss,Fan,https://larrybrownsports.com/football/nfl-mock-draft-using-wisdom-of-the-crowd-to-predict-the-first-round/491860,0.1428571429
+Silver and Black Pride - Damien,2019-04-19,37,A.J. Brown,WR,Ole Miss,Fan,https://www.silverandblackpride.com/2019/4/19/18507307/nfl-mock-draft-2019-levi-damien-2-round-mock-draft-with-trades,0.1428571429
+The Amateur Agency - Dalla Longa,2019-04-19,19,A.J. Brown,WR,Ole Miss,Fan,https://theamateuragency.com/2019/04/19/round-one-nfl-mock-draft-1-0/,0.1428571429
+The Way of EJ - Johnsen,2019-04-19,23,A.J. Brown,WR,Ole Miss,Fan,https://thewayofej.home.blog/2019/04/19/2019-nfl-mock-draft-jags-take-a-surprise-pick-at-7-where-does-dwayne-haskins-go__trashed/,0.1428571429
+Twitter - bani_62,2019-04-19,26,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/bani_62/status/1119312275888693248,0.1428571429
+Twitter - Sinclair,2019-04-19,21,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/Rsin15/status/1119341113444143104,0.1428571429
+Deke's Sports Academy - Mathews,2019-04-19,30,A.J. Brown,WR,Ole Miss,Fan,https://www.dekessports.com/l/a2019-nfl-final-mock-draft/,0.1428571429
+Draft Plex - Pruett,2019-04-18,20,A.J. Brown,WR,Ole Miss,Fan,https://nfldraftplex.com/2019/04/18/2019-nfl-draft-super-mock/,0.125
+SB Nation,2019-04-05,32,A.J. Brown,WR,Ole Miss,Fan,https://www.sbnation.com/2019/4/5/18297141/nfl-mock-draft-2019-sb-nation-writers,0.04761904762
+NFL Network - Reuter,2019-04-19,32,A.J. Brown,WR,Ole Miss,Expert,http://www.nfl.com/news/story/0ap3000001027100/article/chad-reuter-2019-sevenround-nfl-mock-draft-round-1,0.1428571429
+Twitter - UKJetsHQ,2019-04-20,26,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/UKJetsHQ/status/1119635294742040576,0.1666666667
+The Scarlet and Gray - Migi,2019-04-15,26,A.J. Brown,WR,Ole Miss,Fan,https://www.unlvfreepress.com/the-scarlet-and-grays-2019-nfl-mock-draft/,0.09090909091
+No Huddle Sports - Smith,2019-04-20,30,A.J. Brown,WR,Ole Miss,Fan,https://www.nohuddlesports.com/single-post/2019/04/20/NFL-Mock-Draft-30,0.1666666667
+Twitter - Silva,2019-04-20,32,A.J. Brown,WR,Ole Miss,Expert,https://twitter.com/evansilva/status/1119451638203408385,0.1666666667
+NFL Trade Rumors - Bouda,2019-04-20,38,A.J. Brown,WR,Ole Miss,Fan,https://nfltraderumors.co/2019-nfl-mock-draft-two-rounds/,0.1666666667
+Sports Illustrated - Gramling,2019-04-20,26,A.J. Brown,WR,Ole Miss,Media,https://www.si.com/nfl/2019/04/20/mock-draft-trade-down-giants-kyler-murray,0.1666666667
+That Huck Guy - Huckle,2019-04-21,32,A.J. Brown,WR,Ole Miss,Fan,https://thathuckguy.wordpress.com/2019/04/21/2019-nfl-mock-draft/,0.2
+Last Word on Pro Football - MacGregor,2019-04-20,26,A.J. Brown,WR,Ole Miss,Fan,https://lastwordonprofootball.com/2019/04/20/2019-nfl-mock-draft-first-round/,0.1666666667
+The Bench Cooler - Rasmussen,2019-04-20,19,A.J. Brown,WR,Ole Miss,Fan,https://benchcooler.com/home/2019nflmockdraftfinal,0.1666666667
+Bleacher Report - Roling,2019-04-21,22,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2832387-nfl-mock-draft-2019-projections-for-round-1-analysis-for-underrated-prospects,0.2
+Boston Sports Mania - Roberts,2019-04-21,27,A.J. Brown,WR,Ole Miss,Fan,https://andrewr1008.wordpress.com/2019/04/21/2019-nfl-mock-draft-who-takes-the-qb-of-their-future/,0.2
+Twitter - Engel,2019-04-21,32,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/Zach_Engel98/status/1120090751767994369,0.2
+Twitter - oglb20,2019-04-21,21,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/oglb20/status/1120086007578279936,0.2
+What's On Draft NFL - Jarvis,2019-04-18,56,A.J. Brown,WR,Ole Miss,Fan,https://drive.google.com/file/d/1TuYCMxOhYgHRjaoKOE6YptQyyFDp9m8M/view,0.125
+Raider Watch - Baggabonez,2019-04-22,20,A.J. Brown,WR,Ole Miss,Fan,http://www.raiderwatch.com/2019/04/22/uncategorized/raider-watch-final-2019-nfl-mock-draft/,0.25
+The Undefeated - Foxworth,2019-04-22,30,A.J. Brown,WR,Ole Miss,Media,https://theundefeated.com/features/foxworth-nfl-mock-draft-2019-this-is-who-your-team-should-pick/,0.25
+Fox Sports - Klatt,2019-04-22,30,A.J. Brown,WR,Ole Miss,Media,https://twitter.com/FOXSports/status/1120311291040559104,0.25
+SB Nation - Kadar,2019-04-22,26,A.J. Brown,WR,Ole Miss,Expert,https://www.sbnation.com/nfl/2019/4/22/18509806/2019-nfl-mock-draft-kyler-murray-nick-bosa-arizona-cardinals-dwayne-haskins,0.25
+WKBW - Buscaglia,2019-04-22,34,A.J. Brown,WR,Ole Miss,Media,https://www.wkbw.com/sports/bills/joe-b-2019-nfl-mock-draft-no-6,0.25
+Fansided - Verderame,2019-04-22,30,A.J. Brown,WR,Ole Miss,Media,https://fansided.com/2019/04/22/2019-nfl-mock-draft-rumors-kyler-murray/,0.25
+Oregon Live - Arnold,2019-04-22,30,A.J. Brown,WR,Ole Miss,Media,https://www.oregonlive.com/nfl/2019/04/nfl-mock-draft-2019-final-kyler-murray-still-no-1-49ers-make-surprise-pick-at-no-2-and-other-predictions.html,0.25
+USA Today - Middlehurst-Schwartz,2019-04-22,32,A.J. Brown,WR,Ole Miss,Media,https://www.usatoday.com/story/sports/nfl/draft/2019/04/22/nfl-mock-draft-2019-daniel-jones-kyler-murray/3533257002/,0.25
+Bleacher Report - Tansey,2019-04-22,26,A.J. Brown,WR,Ole Miss,Fan,https://bleacherreport.com/articles/2832496-2019-nfl-mock-draft-1st-round-predictions-and-stock-watch-for-hyped-prospects,0.25
+Cleveland.com - Bielik,2019-04-22,20,A.J. Brown,WR,Ole Miss,Media,https://expo.cleveland.com/sports/g66l-2019/04/c391fe2cc01936/2019-nfl-mock-draft-50-tim-bieliks-final-predictions-up-to-the-cleveland-browns-first-pick.html,0.25
+NJ.com - Giglio,2019-04-22,36,A.J. Brown,WR,Ole Miss,Media,https://expo.nj.com/sports/g66l-2019/04/02696fdb151228/latest-nfl-mock-draft-2019-shocking-giants-pick-at-no-6-jets-get-haul-to-trade-down-eagles-move-up-for-impact-dl-josh-rosen-trade-2-full-rounds.html,0.25
+The Athletic - Ciely,2019-04-22,21,A.J. Brown,WR,Ole Miss,Media,https://theathletic.com/936991/2019/04/22/jake-ciely-2019-nfl-first-round-mock-draft/,0.25
+Bleeding Green Nation,2019-04-22,26,A.J. Brown,WR,Ole Miss,Fan,https://www.bleedinggreennation.com/2019/4/22/18511490/nfl-mock-draft-2019-new-england-patriots-pick-wide-receiver-hakeem-butler-iowa-state-wr-first-round,0.25
+AZ Central - McManaman,2019-04-22,25,A.J. Brown,WR,Ole Miss,Fan,https://www.azcentral.com/story/sports/nfl/cardinals/2019/04/22/nfl-mock-draft-arizona-cardinals-make-unexpected-move/3523342002/,0.25
+Barstool Sports - Cheah,2019-04-22,36,A.J. Brown,WR,Ole Miss,Fan,https://www.barstoolsports.com/newyork/official-barstool-sports-2019-nfl-mock-draft-3-0-final,0.25
+Fantasy Pros - Tagliere,2019-04-22,26,A.J. Brown,WR,Ole Miss,Fan,https://www.fantasypros.com/2019/04/mike-taglieres-final-2019-nfl-mock-draft-with-trades-three-rounds/,0.25
+Delaware Online - Frank,2019-04-22,22,A.J. Brown,WR,Ole Miss,Media,https://www.delawareonline.com/story/sports/nfl/eagles/2019/04/22/1st-round-nfl-mock-draft-how-teams-drafting-quarterbacks-help-eagles/3496974002/,0.25
+Box Score Sports - James,2019-04-22,12,A.J. Brown,WR,Ole Miss,Fan,https://theboxscoresports.wordpress.com/2019/04/22/nfl-mock-draft-v4-0-final-projections/,0.25
+Arena Fanatic - Smith,2019-04-22,26,A.J. Brown,WR,Ole Miss,Fan,http://www.arenafanatic.com/nfl-mock-draft-2019.html,0.25
+Hot Seat Sports - Brown,2019-04-22,30,A.J. Brown,WR,Ole Miss,Fan,https://hotseatsportsnfl.wordpress.com/2019/04/22/nfl-mock-draft-1-0/,0.25
+Twitter - Smith,2019-04-22,22,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/camsmith3343/status/1120344183875747840,0.25
+Twitter - Mosqueda,2019-04-22,24,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/JuMosq/status/1120373178105073670,0.25
+Twitter - Judge2Stanton,2019-04-22,22,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/Judge2Stanton/status/1120366448336154627,0.25
+Twitter - Instone,2019-04-22,33,A.J. Brown,WR,Ole Miss,Fan,https://twitter.com/Joshawk22/status/1120365122688389120,0.25
+NBC Sports Washington - Standig,2019-04-22,33,A.J. Brown,WR,Ole Miss,Media,https://www.nbcsports.com/washington/redskins/2019-nfl-mock-draft-210-will-nick-bosa-steal-no-1-overall-pick-kyler-murray,0.25
+Nachmany Football,2019-04-22,13,A.J. Brown,WR,Ole Miss,Fan,https://nachmanyfootball.com/2019/04/22/2019-nfl-mock-draft-nach-mock-4-0/,0.25
+Hail to Fantasy Football,2019-04-22,20,A.J. Brown,WR,Ole Miss,Fan,https://hailtofantasyfootball.blogspot.com/2019/04/nfl-mock-draft-round-1.html,0.25
