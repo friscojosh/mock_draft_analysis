@@ -180,7 +180,7 @@ ggplot(fant, aes(x = date, y = pick)) +
       minor_breaks = NULL
    ) +
    labs(x = "Date", y = "Pick",
-        title = "Noah Fant has risen from the 2nd to the 1st round",
+        title = "Noah Fant has is clinging to the first round",
         subtitle = "Based on 1254 expert, media and fan mock drafts from Nov. '18 - April '19",
         caption = "Mock draft data compiled by Benjamin Robinson, @benj_robinson") +
    theme_538
@@ -321,7 +321,7 @@ ggplot(oliver, aes(x = date, y = pick)) +
       minor_breaks = NULL
    ) +
    labs(x = "Date", y = "Pick",
-        title = "Despite fueding with his coach Ed Oliver may still crack the top 10",
+        title = "Despite fueding with his coach, \nEd Oliver may still crack the top 10",
         subtitle = "Based on 1595 expert, media and fan mock drafts from June '18 - April '19",
         caption = "Mock draft data compiled by Benjamin Robinson, @benj_robinson") +
    theme_538
