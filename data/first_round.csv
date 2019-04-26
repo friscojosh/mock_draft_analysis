@@ -6,7 +6,7 @@ pick,team,player,position,cfb_team,,
 5,Tampa Bay Buccaneers,Devin White,LB,LSU,SEC,
 6,New York Giants,Daniel Jones,QB,Duke,ACC,
 7,Jacksonville Jaguars,Josh Allen,LB,Kentucky,SEC,
-8,Detroit Lions,T. J. Hockenson,TE,Iowa,Big Ten,
+8,Detroit Lions,T.J. Hockenson,TE,Iowa,Big Ten,
 9,Buffalo Bills,Ed Oliver,DT,Houston,The American,
 10,Pittsburgh Steelers,Devin Bush,LB,Michigan,Big Ten,from Denver [R1 - 1]
 11,Cincinnati Bengals,Jonah Williams,OT,Alabama,SEC,
@@ -19,7 +19,7 @@ pick,team,player,position,cfb_team,,
 18,Minnesota Vikings,Garrett Bradbury,C,NC State,ACC,
 19,Tennessee Titans,Jeffery Simmons,DT,Mississippi State,SEC,
 20,Denver Broncos,Noah Fant,TE,Iowa,Big Ten,from Pittsburgh [R1 - 3]
-21,Green Bay Packers,Darnell Savage Jr.,S,Maryland,Big Ten,from Seattle
+21,Green Bay Packers,Darnell Savage,S,Maryland,Big Ten,from Seattle
 22,Philadelphia Eagles,Andre Dillard,OT,Washington State,Pac-12,from Baltimore [R1 - 4]
 23,Houston Texans,Tytus Howard,OT,Alabama State,SWAC,
 24,Oakland Raiders,Josh Jacobs,RB,Alabama,SEC,from Chicago [R1 - 5]

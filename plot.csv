@@ -1,0 +1,33 @@
+pick,team,player,position.x,cfb_team,X6,X7,position.y,school,ADP,drafts
+1,Arizona Cardinals,Kyler Murray,QB,Oklahoma,Big 12,2018 Heisman Trophy Winner,QB,Oklahoma,1.8160676532769555,473
+2,San Francisco 49ers,Nick Bosa,DE,Ohio State,Big Ten,NA,DE,Ohio State,2.1353065539112053,473
+3,New York Jets,Quinnen Williams,DE,Alabama,SEC,NA,DT,Alabama,3.697674418604651,473
+4,Oakland Raiders,Clelin Ferrell,DE,Clemson,ACC,NA,DE,Clemson,18.962790697674418,430
+5,Tampa Bay Buccaneers,Devin White,LB,LSU,SEC,NA,LB,LSU,7.029850746268656,469
+6,New York Giants,Daniel Jones,QB,Duke,ACC,NA,QB,Duke,20.428571428571427,287
+7,Jacksonville Jaguars,Josh Allen,LB,Kentucky,SEC,NA,LB,Kentucky,3.719409282700422,474
+8,Detroit Lions,T.J. Hockenson,TE,Iowa,Big Ten,NA,TE,Iowa,12.955357142857142,448
+9,Buffalo Bills,Ed Oliver,DT,Houston,The American,NA,DT,Houston,9.349785407725323,466
+10,Pittsburgh Steelers,Devin Bush,LB,Michigan,Big Ten,from Denver [R1 - 1],LB,Michigan,15.518433179723502,434
+11,Cincinnati Bengals,Jonah Williams,OT,Alabama,SEC,NA,OT,Alabama,13.300668151447661,449
+12,Green Bay Packers,Rashan Gary,DE,Michigan,Big Ten,NA,DE,Michigan,11.245575221238939,452
+13,Miami Dolphins,Christian Wilkins,DT,Clemson,ACC,NA,DT,Clemson,19.032558139534885,430
+14,Atlanta Falcons,Chris Lindstrom,G,Boston College,ACC,NA,G,Boston College,29.299492385786802,197
+15,Washington Redskins,Dwayne Haskins,QB,Ohio State,Big Ten,NA,QB,Ohio State,8.789473684210526,456
+16,Carolina Panthers,Brian Burns,LB,Florida State,ACC,NA,DE,Florida State,16.00228310502283,438
+17,New York Giants,Dexter Lawrence,DT,Clemson,ACC,from Cleveland [R1 - 2],DT,Clemson,27.46820809248555,346
+18,Minnesota Vikings,Garrett Bradbury,C,NC State,ACC,NA,C,NC State,25.74212034383954,349
+19,Tennessee Titans,Jeffery Simmons,DT,Mississippi State,SEC,NA,DT,Mississippi State,29.518796992481203,266
+20,Denver Broncos,Noah Fant,TE,Iowa,Big Ten,from Pittsburgh [R1 - 3],TE,Iowa,22.85342789598109,423
+21,Green Bay Packers,Darnell Savage,S,Maryland,Big Ten,from Seattle,S,Maryland,54.688311688311686,77
+22,Philadelphia Eagles,Andre Dillard,OT,Washington State,Pac-12,from Baltimore [R1 - 4],OT,Washington State,17.595348837209304,430
+23,Houston Texans,Tytus Howard,OT,Alabama State,SWAC,NA,OT,Alabama State,60.74242424242424,66
+24,Oakland Raiders,Josh Jacobs,RB,Alabama,SEC,from Chicago [R1 - 5],RB,Alabama,27.164133738601823,329
+25,Baltimore Ravens,Marquise Brown,WR,Oklahoma,Big 12,from Philadelphia [R1 - 6],WR,Oklahoma,25.370149253731345,335
+26,Washington Redskins,Montez Sweat,DE,Mississippi State,SEC,from Indianapolis,DE,Mississippi State,10.557986870897155,457
+27,Oakland Raiders,Johnathan Abram,S,Mississippi State,SEC,from Dallas [R1 - 7],S,Mississippi State,33.63101604278075,187
+28,Los Angeles Chargers,Jerry Tillery,DT,Notre Dame,Ind. (FBS),NA,DT,Notre Dame,31.631147540983605,244
+29,Seattle Seahawks,L.J. Collier,DE,TCU,Big 12,from Kansas City [R1 - 8],DE,Texas Christian,62.86153846153846,65
+30,New York Giants,Deandre Baker,CB,Georgia,SEC,"from New Orleans via Green Bay, Seattle [R1 - 9]",CB,Georgia,26.784023668639055,338
+31,Atlanta Falcons,Kaleb McGary,OT,Washington,Pac-12,from LA Rams,OT,Washington,43.30275229357798,109
+32,New England Patriots,N'Keal Harry,WR,Arizona State,Pac-12,NA,WR,Arizona State,29.26851851851852,216

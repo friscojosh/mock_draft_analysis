@@ -9,6 +9,7 @@ library("theme538")
 
 mocks <- read_csv("data/2019_mocks.csv") %>%
    mutate(date = mdy(date))
+today = Sys.Date()
 
 mocks_date_grouped <- mocks %>%
    group_by(date, name, position, school) %>%
@@ -210,72 +211,29 @@ ggplot(qw, aes(x = date, y = pick)) +
    theme_538
 
 
-### Dexter Lawrence plot
-#
-# dexter <- mocks %>%
-#    filter(name == "Dexter Lawrence")
-#
-# ggplot(dexter, aes(x = date, y = pick)) +
-#    theme_minimal() +
-#    theme(plot.title=element_text(size=16, hjust=0, vjust=-1),
-#          plot.subtitle=element_text(size=12, hjust=0)) +
-#    geom_point(size = 4,
-#               alpha = .4,
-#               color = '#E65B2D') +
-#    geom_smooth(
-#       fill = '#CCCCCC',
-#       alpha = .1,
-#       color = '#000000',
-#       size = 1.5,
-#       span = .8,
-#       se = FALSE
-#    )  +
-#    scale_y_reverse(
-#       limit = c(70, 0),
-#       breaks = c(seq(
-#          from = 70,
-#          to = 0,
-#          by = -10
-#       )),
-#       minor_breaks = NULL
-#    ) +
-#    labs(x = "Date", y = "Pick",
-#         title = "Dexter Lawrence was once a high first round prospect",
-#         subtitle = "Based on 1177 expert, media and fan mock drafts from July '18 - April '19",
-#         caption = "Mock draft data compiled by Benjamin Robinson, @benj_robinson") +
-#    theme_538
-#
-# ### Ed Oliver
-#
-# oliver <- mocks %>%
-#    filter(name == "Ed Oliver")
-#
-# ggplot(oliver, aes(x = date, y = pick)) +
-#    theme_minimal() +
-#    theme(plot.title=element_text(size=16, hjust=0, vjust=-1),
-#          plot.subtitle=element_text(size=12, hjust=0)) +
-#    geom_point(size = 4,
-#               alpha = .4,
-#               color = '#E65B2D') +
-#    geom_smooth(
-#       fill = '#CCCCCC',
-#       alpha = .1,
-#       color = '#000000',
-#       size = 1.5,
-#       span = .8,
-#       se = FALSE
-#    )  +
-#    scale_y_reverse(
-#       limit = c(70, 0),
-#       breaks = c(seq(
-#          from = 70,
-#          to = 0,
-#          by = -10
-#       )),
-#       minor_breaks = NULL
-#    ) +
-#    labs(x = "Date", y = "Pick",
-#         title = "Despite fueding with his coach, \nEd Oliver may still crack the top 10",
-#         subtitle = "Based on 1595 expert, media and fan mock drafts from June '18 - April '19",
-#         caption = "Mock draft data compiled by Benjamin Robinson, @benj_robinson") +
-#    theme_538
+### New analysis
+
+last_30 <- mocks %>%
+   filter((today - date) <= 30)
+
+last_30_adp <- last_30 %>%
+   group_by(name, position, school) %>%
+   summarise(ADP = mean(pick),
+             drafts = n()) %>%
+   filter(ADP <= 100) %>%
+   arrange(ADP)
+
+actual <- read_csv("data/first_round.csv")
+
+joined_1 <- actual %>%
+   left_join(last_30_adp, c("player" = "name"))
+
+write_csv(joined_1, "plot.csv")
+
+model <- lm(data = joined_1, pick ~ ADP)
+summary(model)
+
+
+plot(x = joined_1$ADP, joined_1$pick)
+
+write_csv(last_30_adp, "data/first_round_adp_last_30.csv")
